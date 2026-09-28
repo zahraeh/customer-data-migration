@@ -1,0 +1,342 @@
+﻿Line in export;Legacy ID;Status;Issue(s);N° contact;N° client;Nom;Prénom;Fonction;Tél portable;E-mail
+2;CT00001;REJECTED - needs your decision;accounts CL00002 was rejected, so this row cannot be attached to it | mobile: Phone '06.52.98.67.07' is not in a recognised format (loaded empty);CT00001;CL00002;MATHIEU;Noémie;Gérant;06.52.98.67.07;noemie.mathieu@laposte.net
+6;CT00005;REJECTED - needs your decision;accounts CL00005 was rejected, so this row cannot be attached to it;CT00005;CL00005;MATHIEU;Émilie;;06 50 86 32 18;emilie.mathieu@free.fr
+8;CT00007;REJECTED - needs your decision;accounts CL00007 was rejected, so this row cannot be attached to it;CT00007;CL00007;NICOLAS;Sandrine;Gérant;;sandrine.nicolas@wanadoo.fr
+11;CT00010;REJECTED - needs your decision;accounts CL00010 was rejected, so this row cannot be attached to it | mobile: Phone '07.47.95.13.30' is not in a recognised format (loaded empty);CT00010;CL00010;LAURENT;Julien;;07.47.95.13.30;julien.laurent@laposte.net
+12;CT00011;REJECTED - needs your decision;accounts CL00011 was rejected, so this row cannot be attached to it;CT00011;CL00011;SANCHEZ;Manon;;07 96 95 86 78;manon.sanchez@sfr.fr
+16;CT00015;MIGRATED with warning;mobile: Phone '07.86.53.69.45' is not in a recognised format (loaded empty);CT00015;CL00016;DURAND;Hugo;Gérante;07.86.53.69.45;hugo.durand@free.fr
+20;CT00019;REJECTED - needs your decision;accounts CL00019 was rejected, so this row cannot be attached to it;CT00019;CL00019;BONNET;Manon;;06 27 35 24 10;manon.bonnet@gmail.com
+21;CT00020;REJECTED - needs your decision;accounts CL00020 was rejected, so this row cannot be attached to it | mobile: Phone '06.78.19.52.37' is not in a recognised format (loaded empty);CT00020;CL00020;GAUTHIER;Chloé;Responsable des achats;06.78.19.52.37;
+23;CT00022;REJECTED - needs your decision;accounts CL00022 was rejected, so this row cannot be attached to it;CT00022;CL00022;MICHEL;Inès;;+33 7 91 25 65 23;ines.michel@gmail.com
+26;CT00025;REJECTED - needs your decision;accounts CL00025 was rejected, so this row cannot be attached to it;CT00025;CL00025;HENRY;Mathieu;Directrice;0779252985;mathieu.henry@free.fr
+29;CT00028;MIGRATED with warning;mobile: Phone '06.07.98.33.42' is not in a recognised format (loaded empty);CT00028;CL00027;LEMAIRE;François;;06.07.98.33.42;francois.lemaire@wanadoo.fr
+30;CT00029;MIGRATED with warning;mobile: Phone '06.28.40.33.39' is not in a recognised format (loaded empty);CT00029;CL00028;BERTRAND;Rémi;;06.28.40.33.39;remi.bertrand@orange.fr
+33;CT00032;REJECTED - needs your decision;accounts CL00031 was rejected, so this row cannot be attached to it;CT00032;CL00031;GUÉRIN;Nathalie;Assistante de direction;0771270587;nathalie.guerin@free.fr
+34;CT00033;REJECTED - needs your decision;accounts CL00031 was rejected, so this row cannot be attached to it;CT00033;CL00031;ROBIN;François;Responsable des achats;0758231334;francois.robin@wanadoo.fr
+35;CT00034;REJECTED - needs your decision;accounts CL00032 was rejected, so this row cannot be attached to it;CT00034;CL00032;DUMONT;Isabelle;;+33 7 93 92 52 36;isabelle.dumont@sfr.fr
+38;CT00037;REJECTED - needs your decision;accounts CL00035 was rejected, so this row cannot be attached to it;CT00037;CL00035;BONNET;Camille;Directrice;07 65 88 33 98;camille.bonnet@wanadoo.fr
+39;CT00038;REJECTED - needs your decision;accounts CL00036 was rejected, so this row cannot be attached to it;CT00038;CL00036;DAVID;Isabelle;Comptable;06 10 54 85 74;isabelle.david@free.fr
+40;CT00039;MIGRATED with warning;mobile: Phone '07.35.98.48.84' is not in a recognised format (loaded empty);CT00039;CL00037;CLÉMENT;Sophie;;07.35.98.48.84;sophie.clement@wanadoo.fr
+42;CT00041;REJECTED - needs your decision;accounts CL00039 was rejected, so this row cannot be attached to it;CT00041;CL00039;RICHARD;Nathalie;;06 21 66 67 08;nathalie.richard@wanadoo.fr
+45;CT00044;REJECTED - needs your decision;accounts CL00041 was rejected, so this row cannot be attached to it;CT00044;CL00041;MASSON;Olivier;Comptable;0632342108;olivier.masson@sfr.fr
+46;CT00045;MIGRATED with warning;mobile: Phone '06 55 33 34' is not in a recognised format (loaded empty);CT00045;CL00042;LOPEZ;Noémie;;06 55 33 34;noemie.lopez@orange.fr
+50;CT00049;MIGRATED with warning;mobile: Phone '06.55.41.64.31' is not in a recognised format (loaded empty);CT00049;CL00045;MARTIN;Hélène;Responsable des achats;06.55.41.64.31;helene.martin@laposte.net
+51;CT00050;REJECTED - needs your decision;accounts CL00046 was rejected, so this row cannot be attached to it;CT00050;CL00046;BERNARD;Julien;Responsable technique;06 23 29 02 82;julien.bernard@wanadoo.fr
+52;CT00051;REJECTED - needs your decision;accounts CL00046 was rejected, so this row cannot be attached to it;CT00051;CL00046;DUBOIS;Marie;Responsable des achats;;marie.dubois@sfr.fr
+53;CT00052;REJECTED - needs your decision;accounts CL00047 was rejected, so this row cannot be attached to it;CT00052;CL00047;FAURE;Sophie;;0620734654;
+54;CT00053;REJECTED - needs your decision;accounts CL00050 was rejected, so this row cannot be attached to it;CT00053;CL00050;MERCIER;Sophie;;06 21 05 31 61;sophie.mercier@gmail.com
+60;CT00059;MIGRATED with warning;mobile: Phone '33613711842' is not in a recognised format (loaded empty);CT00059;CL00054;ROUSSEL;Léa;;33613711842;lea.roussel@laposte.net
+62;CT00061;MIGRATED with warning;mobile: Phone '06.98.80.85.83' is not in a recognised format (loaded empty);CT00061;CL00058;BONNET;Julien;;06.98.80.85.83;julien.bonnet@sfr.fr
+63;CT00062;REJECTED - needs your decision;accounts CL00059 was rejected, so this row cannot be attached to it;CT00062;CL00059;MERCIER;Isabelle;Comptable;06 28 96 34 06;isabelle.mercier@gmail.com
+66;CT00065;MIGRATED with warning;mobile: Phone '06.18.48.19.73' is not in a recognised format (loaded empty);CT00065;CL00061;MASSON;Mathieu;;06.18.48.19.73;mathieu.masson@free.fr
+67;CT00066;REJECTED - needs your decision;accounts CL00062 was rejected, so this row cannot be attached to it;CT00066;CL00062;THOMAS;Camille;;07 69 27 43 81;camille.thomas@gmail.com
+68;CT00067;REJECTED - needs your decision;accounts CL00063 was rejected, so this row cannot be attached to it | mobile: Phone '06.76.60.14.44' is not in a recognised format (loaded empty);CT00067;CL00063;LEMAIRE;Antoine;;06.76.60.14.44;antoine.lemaire@sfr.fr
+69;CT00068;MIGRATED with warning;mobile: Phone '07 39 73 96' is not in a recognised format (loaded empty);CT00068;CL00064;ANDRÉ;Pierre;Responsable des achats;07 39 73 96;pierre.andre@gmail.com
+71;CT00070;REJECTED - needs your decision;accounts CL00065 was rejected, so this row cannot be attached to it;CT00070;CL00065;DUBOIS;Hélène;Directrice;+33 6 74 55 53 47;helene.dubois@wanadoo.fr
+72;CT00071;REJECTED - needs your decision;accounts CL00065 was rejected, so this row cannot be attached to it;CT00071;CL00065;DUMONT;Mathieu;Gérante;06 88 56 52 71;mathieu.dumont@free.fr
+73;CT00072;REJECTED - needs your decision;accounts CL00065 was rejected, so this row cannot be attached to it;CT00072;CL00065;CHEVALIER;Manon;Responsable technique;06 16 59 72 63;manon.chevalier@orange.fr
+76;CT00075;REJECTED - needs your decision;accounts CL00068 was rejected, so this row cannot be attached to it;CT00075;CL00068;BERNARD;Antoine;;06 70 38 24 07;antoine.bernard@free.fr
+77;CT00076;REJECTED - needs your decision;accounts CL00069 was rejected, so this row cannot be attached to it;CT00076;CL00069;DAVID;Nathalie;Gérante;0604309776;nathalie.david@laposte.net
+78;CT00077;REJECTED - needs your decision;accounts CL00070 was rejected, so this row cannot be attached to it;CT00077;CL00070;BONNET;Isabelle;Comptable;0745465535;
+81;CT00080;MIGRATED with warning;email: 'aurelie.chevalier@orange' is not a valid email address (loaded empty);CT00080;CL00073;CHEVALIER;Aurélie;;06 57 21 51 49;aurelie.chevalier@orange
+85;CT00084;MIGRATED with warning;mobile: Phone '06.46.33.51.57' is not in a recognised format (loaded empty);CT00084;CL00076;BONNET;Olivier;;06.46.33.51.57;olivier.bonnet@free.fr
+88;CT00087;REJECTED - needs your decision;accounts CL00079 was rejected, so this row cannot be attached to it;CT00087;CL00079;BLANC;Isabelle;Assistante de direction;06 95 78 67 18;isabelle.blanc@gmail.com
+89;CT00088;REJECTED - needs your decision;accounts CL00079 was rejected, so this row cannot be attached to it;CT00088;CL00079;MOREAU;Nathalie;Directrice;;nathalie.moreau@laposte.net
+90;CT00089;REJECTED - needs your decision;accounts CL00079 was rejected, so this row cannot be attached to it;CT00089;CL00079;DUMONT;Léa;Assistante de direction;06 45 27 34 66;lea.dumont@sfr.fr
+94;CT00093;REJECTED - needs your decision;accounts CL00083 was rejected, so this row cannot be attached to it | email: 'olivier.chevalier@@free.fr' is not a valid email address (loaded empty);CT00093;CL00083;CHEVALIER;Olivier;;06 66 64 37 49;olivier.chevalier@@free.fr
+95;CT00094;REJECTED - needs your decision;accounts CL00084 was rejected, so this row cannot be attached to it;CT00094;CL00084;DUMONT;Rémi;Comptable;06 11 12 71 28;remi.dumont@laposte.net
+96;CT00095;REJECTED - needs your decision;accounts CL00085 was rejected, so this row cannot be attached to it;CT00095;CL00085;GAUTHIER;Yannick;Assistante de direction;0749411631;yannick.gauthier@wanadoo.fr
+97;CT00096;REJECTED - needs your decision;accounts CL00085 was rejected, so this row cannot be attached to it;CT00096;CL00085;LEROY;Inès;Gérant;0630621136;ines.leroy@gmail.com
+101;CT00100;REJECTED - needs your decision;accounts CL00089 was rejected, so this row cannot be attached to it | mobile: Phone '06.60.90.69.13' is not in a recognised format (loaded empty);CT00100;CL00089;DURAND;Aurélie;Assistante de direction;06.60.90.69.13;
+104;CT00103;MIGRATED with warning;mobile: Phone '06.62.53.66.67' is not in a recognised format (loaded empty);CT00103;CL00093;DUBOIS;Émilie;Assistante de direction;06.62.53.66.67;emilie.dubois@laposte.net
+107;CT00106;MIGRATED with warning;mobile: Phone '33669326573' is not in a recognised format (loaded empty);CT00106;CL00096;ANDRÉ;Sophie;;33669326573;sophie.andre@laposte.net
+110;CT00109;MIGRATED with warning;mobile: Phone '06 95 79 92' is not in a recognised format (loaded empty);CT00109;CL00098;SIMON;Nicolas;Assistante de direction;06 95 79 92;nicolas.simon@orange.fr
+113;CT00112;MIGRATED with warning;mobile: Phone '06.46.37.66.04' is not in a recognised format (loaded empty);CT00112;CL00099;MULLER;François;;06.46.37.66.04;francois.muller@free.fr
+114;CT00113;REJECTED - needs your decision;accounts CL00100 was rejected, so this row cannot be attached to it;CT00113;CL00100;MULLER;Thomas;;07 65 25 48 37;thomas.muller@sfr.fr
+116;CT00115;REJECTED - needs your decision;accounts CL00102 was rejected, so this row cannot be attached to it;CT00115;CL00102;BOYER;Nathalie;Gérant;0659129751;
+117;CT00116;REJECTED - needs your decision;accounts CL00102 was rejected, so this row cannot be attached to it;CT00116;CL00102;LEROY;Thomas;Gérante;06 10 63 30 16;thomas.leroy@wanadoo.fr
+118;CT00117;REJECTED - needs your decision;accounts CL00102 was rejected, so this row cannot be attached to it;CT00117;CL00102;GARNIER;Olivier;Directrice;06 74 90 72 80;olivier.garnier@orange.fr
+121;CT00120;MIGRATED with warning;mobile: Phone '07.75.83.39.20' is not in a recognised format (loaded empty);CT00120;CL00104;DAVID;Yannick;;07.75.83.39.20;yannick.david@wanadoo.fr
+122;CT00121;REJECTED - needs your decision;accounts CL00105 was rejected, so this row cannot be attached to it | mobile: Phone '33777722660' is not in a recognised format (loaded empty);CT00121;CL00105;HENRY;Aurélie;;33777722660;aurelie.henry@laposte.net
+127;CT00126;REJECTED - needs your decision;accounts CL00111 was rejected, so this row cannot be attached to it;CT00126;CL00111;LEFÈVRE;Émilie;;;emilie.lefevre@wanadoo.fr
+129;CT00128;REJECTED - needs your decision;accounts CL00113 was rejected, so this row cannot be attached to it | mobile: Phone '07.34.25.07.33' is not in a recognised format (loaded empty);CT00128;CL00113;ROBERT;Olivier;;07.34.25.07.33;olivier.robert@laposte.net
+134;CT00133;MIGRATED with warning;mobile: Phone '33659045990' is not in a recognised format (loaded empty);CT00133;CL00115;BERNARD;Mathieu;Directrice;33659045990;
+136;CT00135;REJECTED - needs your decision;accounts CL00116 was rejected, so this row cannot be attached to it;CT00135;CL00116;CHEVALIER;Chloé;;06 86 62 81 37;chloe.chevalier@gmail.com
+137;CT00136;MIGRATED with warning;mobile: Phone '06.80.03.70.03' is not in a recognised format (loaded empty);CT00136;CL00117;LAMBERT;Hugo;;06.80.03.70.03;hugo.lambert@free.fr
+140;CT00139;MIGRATED with warning;mobile: Phone '33739457039' is not in a recognised format (loaded empty);CT00139;CL00119;PETIT;Sandrine;Assistante de direction;33739457039;sandrine.petit@orange.fr
+141;CT00140;MIGRATED with warning;mobile: Phone '06.53.76.57.69' is not in a recognised format (loaded empty);CT00140;CL00119;MICHEL;Inès;Gérante;06.53.76.57.69;ines.michel@gmail.com
+144;CT00143;REJECTED - needs your decision;accounts CL00121 was rejected, so this row cannot be attached to it;CT00143;CL00121;ROUSSEAU;Aurélie;;06 11 37 98 44;aurelie.rousseau@gmail.com
+148;CT00147;MIGRATED with warning;mobile: Phone '06 55 62 96' is not in a recognised format (loaded empty);CT00147;CL00124;GUÉRIN;Isabelle;Responsable technique;06 55 62 96;isabelle.guerin@free.fr
+150;CT00149;REJECTED - needs your decision;accounts CL00126 was rejected, so this row cannot be attached to it;CT00149;CL00126;ROBERT;Inès;;06 58 29 58 29;ines.robert@wanadoo.fr
+151;CT00150;MIGRATED with warning;mobile: Phone '06.48.23.57.15' is not in a recognised format (loaded empty);CT00150;CL00127;ROUSSEAU;Rémi;;06.48.23.57.15;remi.rousseau@orange.fr
+154;CT00153;REJECTED - needs your decision;accounts CL00130 was rejected, so this row cannot be attached to it | mobile: Phone '06.14.71.65.60' is not in a recognised format (loaded empty);CT00153;CL00130;BERNARD;Céline;Responsable des achats;06.14.71.65.60;celine.bernard@gmail.com
+155;CT00154;MIGRATED with warning;mobile: Phone '07 69 97 99' is not in a recognised format (loaded empty);CT00154;CL00131;FOURNIER;Antoine;;07 69 97 99;antoine.fournier@laposte.net
+156;CT00155;REJECTED - needs your decision;accounts CL00132 was rejected, so this row cannot be attached to it | mobile: Phone '07 68 16 99' is not in a recognised format (loaded empty);CT00155;CL00132;FONTAINE;Céline;;07 68 16 99;celine.fontaine@free.fr
+157;CT00156;REJECTED - needs your decision;accounts CL00133 was rejected, so this row cannot be attached to it;CT00156;CL00133;HENRY;Marie;;06 74 81 13 17;marie.henry@laposte.net
+159;CT00158;MIGRATED with warning;mobile: Phone '33780491872' is not in a recognised format (loaded empty);CT00158;CL00134;ROUSSEAU;Isabelle;Assistante de direction;33780491872;isabelle.rousseau@laposte.net
+160;CT00159;MIGRATED with warning;mobile: Phone '06.21.37.73.06' is not in a recognised format (loaded empty);CT00159;CL00134;SIMON;Marie;Directrice;06.21.37.73.06;marie.simon@free.fr
+167;CT00166;MIGRATED with warning;mobile: Phone '07.60.60.56.03' is not in a recognised format (loaded empty);CT00166;CL00143;LEMAIRE;Mathieu;Responsable des achats;07.60.60.56.03;mathieu.lemaire@free.fr
+170;CT00169;MIGRATED with warning;mobile: Phone '06.75.17.58.89' is not in a recognised format (loaded empty);CT00169;CL00145;DUPONT;Sophie;;06.75.17.58.89;sophie.dupont@wanadoo.fr
+172;CT00171;REJECTED - needs your decision;accounts CL00147 was rejected, so this row cannot be attached to it;CT00171;CL00147;BLANC;Aurélie;Assistante de direction;07 39 24 35 88;aurelie.blanc@laposte.net
+173;CT00172;REJECTED - needs your decision;accounts CL00147 was rejected, so this row cannot be attached to it;CT00172;CL00147;ROUSSEL;Inès;Comptable;07 33 95 27 53;ines.roussel@orange.fr
+179;CT00178;MIGRATED with warning;mobile: Phone '33613633792' is not in a recognised format (loaded empty);CT00178;CL00151;GUÉRIN;Camille;;33613633792;camille.guerin@free.fr
+181;CT00180;MIGRATED with warning;email: 'remi.perrin@laposte' is not a valid email address (loaded empty);CT00180;CL00152;PERRIN;Rémi;Gérante;07 68 55 07 89;remi.perrin@laposte
+182;CT00181;MIGRATED with warning;mobile: Phone '06.43.69.70.93' is not in a recognised format (loaded empty);CT00181;CL00153;MERCIER;Nicolas;Responsable des achats;06.43.69.70.93;
+183;CT00182;MIGRATED with warning;mobile: Phone '33795560767' is not in a recognised format (loaded empty);CT00182;CL00154;THOMAS;Isabelle;;33795560767;isabelle.thomas@wanadoo.fr
+184;CT00183;REJECTED - needs your decision;accounts CL00155 was rejected, so this row cannot be attached to it;CT00183;CL00155;DUPONT;Noémie;;0754722398;noemie.dupont@free.fr
+185;CT00184;REJECTED - needs your decision;accounts CL00156 was rejected, so this row cannot be attached to it;CT00184;CL00156;ROUX;Julien;;+33 6 30 39 11 14;julien.roux@gmail.com
+188;CT00187;MIGRATED with warning;mobile: Phone '06.16.20.47.87' is not in a recognised format (loaded empty);CT00187;CL00158;LOPEZ;Nathalie;Responsable des achats;06.16.20.47.87;nathalie.lopez@orange.fr
+190;CT00189;REJECTED - needs your decision;accounts CL00159 was rejected, so this row cannot be attached to it;CT00189;CL00159;MASSON;Isabelle;;07 41 96 66 45;isabelle.masson@gmail.com
+191;CT00190;MIGRATED with warning;mobile: Phone '33679246320' is not in a recognised format (loaded empty);CT00190;CL00160;MORIN;Sandrine;;33679246320;sandrine.morin@gmail.com
+194;CT00193;MIGRATED with warning;mobile: Phone '07.50.89.17.76' is not in a recognised format (loaded empty);CT00193;CL00163;BOYER;Chloé;Responsable technique;07.50.89.17.76;
+199;CT00198;MIGRATED with warning;mobile: Phone '06.37.21.88.56' is not in a recognised format (loaded empty);CT00198;CL00167;ROUX;Antoine;Comptable;06.37.21.88.56;antoine.roux@sfr.fr
+201;CT00200;MIGRATED with warning;mobile: Phone '06 10 28 67' is not in a recognised format (loaded empty);CT00200;CL00168;MOREL;Hugo;Gérant;06 10 28 67;
+204;CT00203;MIGRATED with warning;mobile: Phone '07.52.77.58.44' is not in a recognised format (loaded empty);CT00203;CL00169;SIMON;Karim;;07.52.77.58.44;karim.simon@orange.fr
+206;CT00205;REJECTED - needs your decision;accounts CL00171 was rejected, so this row cannot be attached to it | mobile: Phone '07.66.18.94.37' is not in a recognised format (loaded empty);CT00205;CL00171;CHEVALIER;Inès;;07.66.18.94.37;ines.chevalier@gmail.com
+210;CT00209;MIGRATED with warning;mobile: Phone '07.86.89.99.36' is not in a recognised format (loaded empty);CT00209;CL00173;DENIS;Inès;Responsable technique;07.86.89.99.36;ines.denis@orange.fr
+213;CT00212;REJECTED - needs your decision;accounts CL00175 was rejected, so this row cannot be attached to it;CT00212;CL00175;RICHARD;Camille;;0788608490;camille.richard@gmail.com
+214;CT00213;REJECTED - needs your decision;accounts CL00176 was rejected, so this row cannot be attached to it;CT00213;CL00176;MOREL;Hélène;;;helene.morel@sfr.fr
+215;CT00214;MIGRATED with warning;mobile: Phone '07.32.51.44.88' is not in a recognised format (loaded empty);CT00214;CL00177;CLÉMENT;Céline;Gérante;07.32.51.44.88;
+217;CT00216;REJECTED - needs your decision;accounts CL00179 was rejected, so this row cannot be attached to it;CT00216;CL00179;DUBOIS;Jean;;0612252883;jean.dubois@free.fr
+219;CT00218;MIGRATED with warning;mobile: Phone '33637876553' is not in a recognised format (loaded empty);CT00218;CL00181;DUMONT;Hugo;;33637876553;
+220;CT00219;MIGRATED with warning;email: 'hugo.martin@free' is not a valid email address (loaded empty);CT00219;CL00182;MARTIN;Hugo;Comptable;0760571219;hugo.martin@free
+221;CT00220;MIGRATED with warning;mobile: Phone '07.56.18.51.74' is not in a recognised format (loaded empty);CT00220;CL00183;LEROY;Karim;Assistante de direction;07.56.18.51.74;karim.leroy@laposte.net
+222;CT00221;MIGRATED with warning;mobile: Phone '06.89.91.51.14' is not in a recognised format (loaded empty);CT00221;CL00183;BERNARD;Céline;Gérant;06.89.91.51.14;celine.bernard@free.fr
+225;CT00224;REJECTED - needs your decision;accounts CL00185 was rejected, so this row cannot be attached to it | mobile: Phone '06.98.31.52.29' is not in a recognised format (loaded empty);CT00224;CL00185;ROUSSEAU;Mathieu;;06.98.31.52.29;mathieu.rousseau@sfr.fr
+226;CT00225;REJECTED - needs your decision;accounts CL00187 was rejected, so this row cannot be attached to it;CT00225;CL00187;MORIN;Inès;;+33 6 28 36 08 49;ines.morin@gmail.com
+228;CT00227;MIGRATED with warning;mobile: Phone '06.62.34.19.03' is not in a recognised format (loaded empty);CT00227;CL00189;PERRIN;Noémie;Responsable technique;06.62.34.19.03;noemie.perrin@gmail.com
+231;CT00230;MIGRATED with warning;mobile: Phone '33600784361' is not in a recognised format (loaded empty) | email: 'jean.morin@free' is not a valid email address (loaded empty);CT00230;CL00192;MORIN;Jean;;33600784361;jean.morin@free
+233;CT00232;MIGRATED with warning;mobile: Phone '06.45.84.14.84' is not in a recognised format (loaded empty);CT00232;CL00193;DUPONT;Nathalie;Gérante;06.45.84.14.84;
+240;CT00239;REJECTED - needs your decision;accounts CL00201 was rejected, so this row cannot be attached to it;CT00239;CL00201;DUBOIS;Karim;Gérante;06 73 65 11 89;karim.dubois@wanadoo.fr
+241;CT00240;REJECTED - needs your decision;accounts CL00202 was rejected, so this row cannot be attached to it;CT00240;CL00202;FRANÇOIS;Yannick;Responsable des achats;07 82 01 90 43;yannick.francois@free.fr
+244;CT00243;REJECTED - needs your decision;accounts CL00205 was rejected, so this row cannot be attached to it | mobile: Phone '07 32 48 88' is not in a recognised format (loaded empty);CT00243;CL00205;MERCIER;Sandrine;;07 32 48 88;sandrine.mercier@sfr.fr
+251;CT00250;REJECTED - needs your decision;accounts CL00212 was rejected, so this row cannot be attached to it;CT00250;CL00212;BERNARD;Sandrine;Responsable technique;06 99 87 47 81;sandrine.bernard@orange.fr
+252;CT00251;REJECTED - needs your decision;accounts CL00212 was rejected, so this row cannot be attached to it;CT00251;CL00212;VINCENT;Inès;Responsable technique;07 70 86 70 09;ines.vincent@sfr.fr
+253;CT00252;REJECTED - needs your decision;accounts CL00212 was rejected, so this row cannot be attached to it;CT00252;CL00212;DAVID;Hélène;Gérant;07 84 82 66 91;helene.david@free.fr
+254;CT00253;REJECTED - needs your decision;accounts CL00213 was rejected, so this row cannot be attached to it;CT00253;CL00213;ROBIN;Camille;;0750542960;
+257;CT00256;MIGRATED with warning;mobile: Phone '06.81.64.32.12' is not in a recognised format (loaded empty);CT00256;CL00216;BLANC;Sandrine;Comptable;06.81.64.32.12;sandrine.blanc@gmail.com
+258;CT00257;MIGRATED with warning;mobile: Phone '07.64.20.36.25' is not in a recognised format (loaded empty);CT00257;CL00216;VINCENT;Sandrine;Comptable;07.64.20.36.25;sandrine.vincent@orange.fr
+259;CT00258;MIGRATED with warning;mobile: Phone '07.40.26.35.58' is not in a recognised format (loaded empty);CT00258;CL00216;FRANÇOIS;Thomas;Responsable des achats;07.40.26.35.58;thomas.francois@gmail.com
+260;CT00259;REJECTED - needs your decision;accounts CL00217 was rejected, so this row cannot be attached to it;CT00259;CL00217;CLÉMENT;Pierre;Directrice;07 48 98 80 31;pierre.clement@laposte.net
+261;CT00260;MIGRATED with warning;mobile: Phone '07.52.79.05.04' is not in a recognised format (loaded empty);CT00260;CL00218;MARTINEZ;Émilie;;07.52.79.05.04;
+269;CT00268;MIGRATED with warning;mobile: Phone '06.76.66.08.11' is not in a recognised format (loaded empty);CT00268;CL00223;THOMAS;Nathalie;;06.76.66.08.11;nathalie.thomas@wanadoo.fr
+271;CT00270;REJECTED - needs your decision;accounts CL00225 was rejected, so this row cannot be attached to it;CT00270;CL00225;DUPONT;Inès;;07 76 82 93 84;ines.dupont@laposte.net
+272;CT00271;MIGRATED with warning;email: 'celine.david@sfr' is not a valid email address (loaded empty);CT00271;CL00226;DAVID;Céline;Responsable des achats;06 54 37 88 26;celine.david@sfr
+273;CT00272;MIGRATED with warning;mobile: Phone '07.70.90.85.99' is not in a recognised format (loaded empty);CT00272;CL00227;PERRIN;Sandrine;Comptable;07.70.90.85.99;sandrine.perrin@gmail.com
+274;CT00273;MIGRATED with warning;mobile: Phone '07.49.26.99.96' is not in a recognised format (loaded empty);CT00273;CL00227;VINCENT;Hugo;Comptable;07.49.26.99.96;hugo.vincent@orange.fr
+275;CT00274;REJECTED - needs your decision;accounts CL00228 was rejected, so this row cannot be attached to it;CT00274;CL00228;ROBIN;Chloé;;0789971842;chloe.robin@laposte.net
+280;CT00279;REJECTED - needs your decision;accounts CL00232 was rejected, so this row cannot be attached to it | mobile: Phone '06.82.69.58.26' is not in a recognised format (loaded empty);CT00279;CL00232;MOREAU;Yannick;Responsable technique;06.82.69.58.26;yannick.moreau@sfr.fr
+284;CT00283;REJECTED - needs your decision;accounts CL00237 was rejected, so this row cannot be attached to it;CT00283;CL00237;DENIS;Chloé;Responsable des achats;06 01 68 09 41;chloe.denis@free.fr
+287;CT00286;REJECTED - needs your decision;accounts CL00239 was rejected, so this row cannot be attached to it | mobile: Phone '06.33.73.12.55' is not in a recognised format (loaded empty);CT00286;CL00239;DUPONT;Mathieu;;06.33.73.12.55;mathieu.dupont@sfr.fr
+288;CT00287;REJECTED - needs your decision;accounts CL00240 was rejected, so this row cannot be attached to it;CT00287;CL00240;DUBOIS;Rémi;;06 19 20 61 36;remi.dubois@free.fr
+289;CT00288;REJECTED - needs your decision;accounts CL00241 was rejected, so this row cannot be attached to it;CT00288;CL00241;LOPEZ;Noémie;;07 78 95 61 33;noemie.lopez@wanadoo.fr
+290;CT00289;REJECTED - needs your decision;accounts CL00242 was rejected, so this row cannot be attached to it | mobile: Phone '06 95 02 64' is not in a recognised format (loaded empty);CT00289;CL00242;VINCENT;Céline;Comptable;06 95 02 64;celine.vincent@free.fr
+291;CT00290;REJECTED - needs your decision;accounts CL00242 was rejected, so this row cannot be attached to it;CT00290;CL00242;ROUX;Céline;Gérante;+33 6 21 02 17 98;celine.roux@gmail.com
+292;CT00291;REJECTED - needs your decision;accounts CL00242 was rejected, so this row cannot be attached to it | mobile: Phone '33698579736' is not in a recognised format (loaded empty);CT00291;CL00242;LEFÈVRE;Julien;Directrice;33698579736;julien.lefevre@sfr.fr
+293;CT00292;REJECTED - needs your decision;accounts CL00246 was rejected, so this row cannot be attached to it;CT00292;CL00246;DAVID;Sophie;Comptable;+33 7 60 53 97 07;sophie.david@sfr.fr
+294;CT00293;REJECTED - needs your decision;accounts CL00246 was rejected, so this row cannot be attached to it | mobile: Phone '33770673682' is not in a recognised format (loaded empty);CT00293;CL00246;FONTAINE;Mathieu;Gérant;33770673682;
+295;CT00294;REJECTED - needs your decision;accounts CL00246 was rejected, so this row cannot be attached to it;CT00294;CL00246;ROBIN;Jean;Gérant;06 23 55 21 65;jean.robin@laposte.net
+298;CT00297;MIGRATED with warning;mobile: Phone '06.05.09.38.69' is not in a recognised format (loaded empty);CT00297;CL00249;DAVID;Isabelle;;06.05.09.38.69;isabelle.david@gmail.com
+299;CT00298;MIGRATED with warning;mobile: Phone '06.14.57.88.70' is not in a recognised format (loaded empty);CT00298;CL00250;MATHIEU;Nicolas;Responsable technique;06.14.57.88.70;nicolas.mathieu@free.fr
+301;CT00300;REJECTED - needs your decision;accounts CL00251 was rejected, so this row cannot be attached to it;CT00300;CL00251;ROBERT;Sandrine;Directrice;;sandrine.robert@wanadoo.fr
+302;CT00301;REJECTED - needs your decision;accounts CL00251 was rejected, so this row cannot be attached to it;CT00301;CL00251;LOPEZ;Noémie;Gérante;07 89 37 08 58;noemie.lopez@orange.fr
+303;CT00302;REJECTED - needs your decision;accounts CL00251 was rejected, so this row cannot be attached to it;CT00302;CL00251;GAUTHIER;Mathieu;Comptable;06 01 24 82 55;mathieu.gauthier@orange.fr
+304;CT00303;REJECTED - needs your decision;accounts CL00252 was rejected, so this row cannot be attached to it | mobile: Phone '07.32.59.42.32' is not in a recognised format (loaded empty);CT00303;CL00252;LEROY;Pierre;;07.32.59.42.32;pierre.leroy@sfr.fr
+305;CT00304;REJECTED - needs your decision;accounts CL00253 was rejected, so this row cannot be attached to it;CT00304;CL00253;GUÉRIN;Hugo;;06 38 91 56 24;hugo.guerin@free.fr
+307;CT00306;REJECTED - needs your decision;accounts CL00255 was rejected, so this row cannot be attached to it;CT00306;CL00255;GIRARD;Inès;Responsable technique;;ines.girard@sfr.fr
+313;CT00312;REJECTED - needs your decision;accounts CL00261 was rejected, so this row cannot be attached to it;CT00312;CL00261;MARTIN;Julien;Responsable des achats;;julien.martin@free.fr
+314;CT00313;REJECTED - needs your decision;accounts CL00261 was rejected, so this row cannot be attached to it | mobile: Phone '07 44 22 75' is not in a recognised format (loaded empty);CT00313;CL00261;ROUSSEL;Inès;Directrice;07 44 22 75;ines.roussel@laposte.net
+315;CT00314;REJECTED - needs your decision;accounts CL00262 was rejected, so this row cannot be attached to it;CT00314;CL00262;GUÉRIN;Mathieu;Directrice;;mathieu.guerin@free.fr
+316;CT00315;REJECTED - needs your decision;accounts CL00262 was rejected, so this row cannot be attached to it | mobile: Phone '06.00.02.45.39' is not in a recognised format (loaded empty);CT00315;CL00262;BOYER;Yannick;Gérant;06.00.02.45.39;yannick.boyer@laposte.net
+317;CT00316;REJECTED - needs your decision;accounts CL00263 was rejected, so this row cannot be attached to it;CT00316;CL00263;GUÉRIN;Camille;;06 55 13 05 57;camille.guerin@orange.fr
+319;CT00318;REJECTED - needs your decision;accounts CL00265 was rejected, so this row cannot be attached to it;CT00318;CL00265;SANCHEZ;Sandrine;;07 36 77 46 20;sandrine.sanchez@wanadoo.fr
+320;CT00319;REJECTED - needs your decision;accounts CL00266 was rejected, so this row cannot be attached to it;CT00319;CL00266;MERCIER;Céline;Gérant;0628123123;celine.mercier@orange.fr
+321;CT00320;MIGRATED with warning;mobile: Phone '06.18.36.47.23' is not in a recognised format (loaded empty);CT00320;CL00267;MORIN;Céline;Directrice;06.18.36.47.23;celine.morin@sfr.fr
+324;CT00323;REJECTED - needs your decision;accounts CL00270 was rejected, so this row cannot be attached to it;CT00323;CL00270;MOREL;François;;;francois.morel@wanadoo.fr
+327;CT00326;MIGRATED with warning;mobile: Phone '06.58.44.61.77' is not in a recognised format (loaded empty);CT00326;CL00272;MATHIEU;Camille;Responsable des achats;06.58.44.61.77;camille.mathieu@wanadoo.fr
+329;CT00328;REJECTED - needs your decision;accounts CL00273 was rejected, so this row cannot be attached to it;CT00328;CL00273;BONNET;Thomas;;;thomas.bonnet@sfr.fr
+331;CT00330;MIGRATED with warning;mobile: Phone '07.97.88.89.75' is not in a recognised format (loaded empty);CT00330;CL00275;DURAND;Hélène;;07.97.88.89.75;helene.durand@free.fr
+333;CT00332;MIGRATED with warning;mobile: Phone '06.95.01.43.74' is not in a recognised format (loaded empty) | email: 'noemie.henry@@gmail.com' is not a valid email address (loaded empty);CT00332;CL00276;HENRY;Noémie;Comptable;06.95.01.43.74;noemie.henry@@gmail.com
+334;CT00333;REJECTED - needs your decision;accounts CL00277 was rejected, so this row cannot be attached to it;CT00333;CL00277;THOMAS;Chloé;Assistante de direction;07 71 39 71 91;
+336;CT00335;MIGRATED with warning;mobile: Phone '06.66.12.20.19' is not in a recognised format (loaded empty);CT00335;CL00279;MULLER;Yannick;;06.66.12.20.19;yannick.muller@wanadoo.fr
+338;CT00337;REJECTED - needs your decision;accounts CL00281 was rejected, so this row cannot be attached to it;CT00337;CL00281;MARTIN;Aurélie;Comptable;07 81 24 21 14;aurelie.martin@orange.fr
+339;CT00338;REJECTED - needs your decision;accounts CL00281 was rejected, so this row cannot be attached to it;CT00338;CL00281;LAMBERT;Mathieu;Responsable technique;06 95 22 94 62;mathieu.lambert@sfr.fr
+340;CT00339;REJECTED - needs your decision;accounts CL00281 was rejected, so this row cannot be attached to it;CT00339;CL00281;LEFÈVRE;Yannick;Responsable technique;07 58 58 56 42;
+341;CT00340;MIGRATED with warning;mobile: Phone '07.90.63.22.48' is not in a recognised format (loaded empty) | email: 'remi.chevalier@orange' is not a valid email address (loaded empty);CT00340;CL00284;CHEVALIER;Rémi;Gérant;07.90.63.22.48;remi.chevalier@orange
+343;CT00342;MIGRATED with warning;mobile: Phone '07.56.49.15.79' is not in a recognised format (loaded empty);CT00342;CL00286;BERTRAND;Mathieu;;07.56.49.15.79;mathieu.bertrand@laposte.net
+347;CT00346;REJECTED - needs your decision;accounts CL00290 was rejected, so this row cannot be attached to it;CT00346;CL00290;ANDRÉ;Jean;;06 30 73 51 04;jean.andre@gmail.com
+348;CT00347;REJECTED - needs your decision;accounts CL00291 was rejected, so this row cannot be attached to it;CT00347;CL00291;MERCIER;Sophie;;06 62 13 00 96;sophie.mercier@free.fr
+350;CT00349;REJECTED - needs your decision;accounts CL00293 was rejected, so this row cannot be attached to it;CT00349;CL00293;NICOLAS;Hélène;Directrice;0766621591;helene.nicolas@orange.fr
+354;CT00353;REJECTED - needs your decision;accounts CL00296 was rejected, so this row cannot be attached to it;CT00353;CL00296;MASSON;Céline;;07 98 73 13 79;celine.masson@sfr.fr
+356;CT00355;REJECTED - needs your decision;accounts CL00298 was rejected, so this row cannot be attached to it;CT00355;CL00298;CLÉMENT;Hugo;Assistante de direction;06 37 08 78 21;
+357;CT00356;REJECTED - needs your decision;accounts CL00298 was rejected, so this row cannot be attached to it;CT00356;CL00298;SIMON;Aurélie;Comptable;07 80 18 64 48;aurelie.simon@wanadoo.fr
+358;CT00357;REJECTED - needs your decision;accounts CL00298 was rejected, so this row cannot be attached to it;CT00357;CL00298;MARTINEZ;Camille;Gérante;07 85 70 82 00;
+359;CT00358;REJECTED - needs your decision;accounts CL00299 was rejected, so this row cannot be attached to it | mobile: Phone '06.36.91.49.61' is not in a recognised format (loaded empty);CT00358;CL00299;MOREL;Karim;Responsable des achats;06.36.91.49.61;karim.morel@wanadoo.fr
+360;CT00359;REJECTED - needs your decision;accounts CL00299 was rejected, so this row cannot be attached to it;CT00359;CL00299;SIMON;Inès;Assistante de direction;06 27 48 83 56;ines.simon@laposte.net
+362;CT00361;REJECTED - needs your decision;accounts CL00301 was rejected, so this row cannot be attached to it | email: 'lea.morin@laposte' is not a valid email address (loaded empty);CT00361;CL00301;MORIN;Léa;;0662259364;lea.morin@laposte
+363;CT00362;MIGRATED with warning;mobile: Phone '33648688390' is not in a recognised format (loaded empty);CT00362;CL00302;MATHIEU;Isabelle;;33648688390;isabelle.mathieu@sfr.fr
+364;CT00363;REJECTED - needs your decision;accounts CL00303 was rejected, so this row cannot be attached to it;CT00363;CL00303;LAMBERT;Karim;Responsable des achats;07 99 16 09 11;karim.lambert@orange.fr
+365;CT00364;REJECTED - needs your decision;accounts CL00303 was rejected, so this row cannot be attached to it;CT00364;CL00303;LEMAIRE;Sophie;Comptable;0659236133;sophie.lemaire@sfr.fr
+366;CT00365;MIGRATED with warning;mobile: Phone '33788165025' is not in a recognised format (loaded empty);CT00365;CL00304;GIRARD;Isabelle;Responsable technique;33788165025;isabelle.girard@orange.fr
+369;CT00368;REJECTED - needs your decision;accounts CL00307 was rejected, so this row cannot be attached to it | mobile: Phone '07.64.86.98.93' is not in a recognised format (loaded empty);CT00368;CL00307;FOURNIER;Antoine;;07.64.86.98.93;antoine.fournier@sfr.fr
+371;CT00370;MIGRATED with warning;mobile: Phone '07.90.67.00.09' is not in a recognised format (loaded empty);CT00370;CL00308;LEROY;Sophie;Responsable technique;07.90.67.00.09;sophie.leroy@sfr.fr
+378;CT00377;REJECTED - needs your decision;accounts CL00313 was rejected, so this row cannot be attached to it | mobile: Phone '33778231299' is not in a recognised format (loaded empty);CT00377;CL00313;MARTIN;Sophie;Directrice;33778231299;sophie.martin@laposte.net
+379;CT00378;REJECTED - needs your decision;accounts CL00313 was rejected, so this row cannot be attached to it;CT00378;CL00313;SANCHEZ;Jean;Comptable;07 42 61 21 20;jean.sanchez@free.fr
+380;CT00379;REJECTED - needs your decision;accounts CL00313 was rejected, so this row cannot be attached to it;CT00379;CL00313;CHEVALIER;Rémi;Directrice;07 96 80 78 52;remi.chevalier@laposte.net
+384;CT00383;REJECTED - needs your decision;accounts CL00315 was rejected, so this row cannot be attached to it;CT00383;CL00315;MOREL;Sandrine;;+33 6 17 50 80 19;sandrine.morel@sfr.fr
+385;CT00384;REJECTED - needs your decision;accounts CL00316 was rejected, so this row cannot be attached to it;CT00384;CL00316;ROBIN;Mathieu;;06 06 93 58 82;mathieu.robin@gmail.com
+389;CT00388;REJECTED - needs your decision;accounts CL00319 was rejected, so this row cannot be attached to it;CT00388;CL00319;PETIT;Julien;Responsable technique;07 30 19 86 42;julien.petit@laposte.net
+390;CT00389;REJECTED - needs your decision;accounts CL00319 was rejected, so this row cannot be attached to it;CT00389;CL00319;LEMAIRE;Léa;Directrice;0683391218;lea.lemaire@wanadoo.fr
+392;CT00391;MIGRATED with warning;email: 'remi.fournier@@gmail.com' is not a valid email address (loaded empty);CT00391;CL00321;FOURNIER;Rémi;;06 00 18 67 66;remi.fournier@@gmail.com
+393;CT00392;REJECTED - needs your decision;accounts CL00322 was rejected, so this row cannot be attached to it;CT00392;CL00322;FAURE;Sandrine;;07 61 08 14 35;sandrine.faure@sfr.fr
+394;CT00393;REJECTED - needs your decision;accounts CL00323 was rejected, so this row cannot be attached to it | mobile: Phone '06.19.80.74.68' is not in a recognised format (loaded empty);CT00393;CL00323;FONTAINE;Nathalie;Responsable technique;06.19.80.74.68;nathalie.fontaine@sfr.fr
+402;CT00401;MIGRATED with warning;mobile: Phone '06.74.69.21.18' is not in a recognised format (loaded empty);CT00401;CL00329;FAURE;Émilie;Comptable;06.74.69.21.18;emilie.faure@free.fr
+407;CT00406;MIGRATED with warning;mobile: Phone '33611950927' is not in a recognised format (loaded empty);CT00406;CL00333;MARTIN;Karim;Responsable technique;33611950927;karim.martin@gmail.com
+409;CT00408;MIGRATED with warning;email: 'antoine.roussel@wanadoo' is not a valid email address (loaded empty);CT00408;CL00334;ROUSSEL;Antoine;Responsable technique;+33 6 89 48 54 32;antoine.roussel@wanadoo
+412;CT00411;REJECTED - needs your decision;accounts CL00336 was rejected, so this row cannot be attached to it;CT00411;CL00336;THOMAS;Chloé;;07 32 17 43 57;chloe.thomas@free.fr
+413;CT00412;MIGRATED with warning;mobile: Phone '06.68.06.48.60' is not in a recognised format (loaded empty);CT00412;CL00337;DURAND;Julien;;06.68.06.48.60;julien.durand@orange.fr
+418;CT00417;REJECTED - needs your decision;accounts CL00340 was rejected, so this row cannot be attached to it;CT00417;CL00340;MARTIN;Jean;;06 51 53 25 94;jean.martin@wanadoo.fr
+419;CT00418;MIGRATED with warning;mobile: Phone '06 59 50 31' is not in a recognised format (loaded empty);CT00418;CL00341;MERCIER;Thomas;;06 59 50 31;thomas.mercier@free.fr
+420;CT00419;REJECTED - needs your decision;accounts CL00342 was rejected, so this row cannot be attached to it;CT00419;CL00342;ROUX;Hugo;;0636089411;hugo.roux@wanadoo.fr
+422;CT00421;REJECTED - needs your decision;accounts CL00344 was rejected, so this row cannot be attached to it;CT00421;CL00344;THOMAS;François;Assistante de direction;06 06 96 80 18;francois.thomas@laposte.net
+424;CT00423;REJECTED - needs your decision;accounts CL00346 was rejected, so this row cannot be attached to it;CT00423;CL00346;GIRARD;Hugo;;06 06 77 62 55;hugo.girard@free.fr
+425;CT00424;REJECTED - needs your decision;accounts CL00347 was rejected, so this row cannot be attached to it;CT00424;CL00347;ROUSSEAU;Mathieu;;06 73 65 42 62;mathieu.rousseau@free.fr
+426;CT00425;REJECTED - needs your decision;accounts CL00348 was rejected, so this row cannot be attached to it;CT00425;CL00348;LAURENT;Hugo;Comptable;0633451100;hugo.laurent@gmail.com
+427;CT00426;REJECTED - needs your decision;accounts CL00348 was rejected, so this row cannot be attached to it | mobile: Phone '33688684302' is not in a recognised format (loaded empty);CT00426;CL00348;BONNET;Olivier;Gérante;33688684302;olivier.bonnet@wanadoo.fr
+430;CT00429;REJECTED - needs your decision;accounts CL00350 was rejected, so this row cannot be attached to it;CT00429;CL00350;GAUTHIER;Nicolas;;07 82 14 77 09;nicolas.gauthier@orange.fr
+431;CT00430;MIGRATED with warning;mobile: Phone '33738558819' is not in a recognised format (loaded empty);CT00430;CL00351;FRANÇOIS;Mathieu;;33738558819;mathieu.francois@gmail.com
+432;CT00431;REJECTED - needs your decision;accounts CL00352 was rejected, so this row cannot be attached to it;CT00431;CL00352;PERRIN;Pierre;;;pierre.perrin@laposte.net
+433;CT00432;REJECTED - needs your decision;accounts CL00353 was rejected, so this row cannot be attached to it;CT00432;CL00353;GARNIER;Isabelle;Responsable technique;06 18 22 72 00;isabelle.garnier@sfr.fr
+434;CT00433;REJECTED - needs your decision;accounts CL00353 was rejected, so this row cannot be attached to it | mobile: Phone '06 22 04 14' is not in a recognised format (loaded empty);CT00433;CL00353;VINCENT;Léa;Responsable des achats;06 22 04 14;lea.vincent@orange.fr
+435;CT00434;REJECTED - needs your decision;accounts CL00353 was rejected, so this row cannot be attached to it | mobile: Phone '06.16.59.93.02' is not in a recognised format (loaded empty);CT00434;CL00353;FONTAINE;Nicolas;Comptable;06.16.59.93.02;nicolas.fontaine@wanadoo.fr
+438;CT00437;REJECTED - needs your decision;accounts CL00356 was rejected, so this row cannot be attached to it;CT00437;CL00356;MARTINEZ;Noémie;;0677756919;noemie.martinez@gmail.com
+439;CT00438;REJECTED - needs your decision;accounts CL00357 was rejected, so this row cannot be attached to it;CT00438;CL00357;MOREAU;Antoine;;+33 6 29 83 10 43;antoine.moreau@gmail.com
+442;CT00441;REJECTED - needs your decision;accounts CL00359 was rejected, so this row cannot be attached to it;CT00441;CL00359;VINCENT;Rémi;Gérant;07 66 34 93 39;
+443;CT00442;REJECTED - needs your decision;accounts CL00359 was rejected, so this row cannot be attached to it;CT00442;CL00359;MATHIEU;Chloé;Gérante;06 26 26 11 42;chloe.mathieu@laposte.net
+444;CT00443;REJECTED - needs your decision;accounts CL00359 was rejected, so this row cannot be attached to it;CT00443;CL00359;CLÉMENT;Nicolas;Comptable;;nicolas.clement@wanadoo.fr
+445;CT00444;MIGRATED with warning;mobile: Phone '33638532472' is not in a recognised format (loaded empty);CT00444;CL00360;DENIS;Manon;;33638532472;manon.denis@wanadoo.fr
+447;CT00446;MIGRATED with warning;email: 'julien.martin@laposte' is not a valid email address (loaded empty);CT00446;CL00362;MARTIN;Julien;;0776947576;julien.martin@laposte
+450;CT00449;REJECTED - needs your decision;accounts CL00364 was rejected, so this row cannot be attached to it;CT00449;CL00364;FOURNIER;Inès;Gérante;+33 7 92 55 96 64;ines.fournier@gmail.com
+451;CT00450;REJECTED - needs your decision;accounts CL00364 was rejected, so this row cannot be attached to it;CT00450;CL00364;DAVID;Jean;Responsable technique;;jean.david@laposte.net
+452;CT00451;REJECTED - needs your decision;accounts CL00364 was rejected, so this row cannot be attached to it;CT00451;CL00364;CLÉMENT;Julien;Gérante;0626145430;julien.clement@wanadoo.fr
+453;CT00452;REJECTED - needs your decision;accounts CL00365 was rejected, so this row cannot be attached to it;CT00452;CL00365;ROBERT;Aurélie;;;aurelie.robert@wanadoo.fr
+456;CT00455;REJECTED - needs your decision;accounts CL00368 was rejected, so this row cannot be attached to it | mobile: Phone '07.58.00.02.72' is not in a recognised format (loaded empty);CT00455;CL00368;BONNET;Thomas;Gérant;07.58.00.02.72;
+457;CT00456;REJECTED - needs your decision;accounts CL00368 was rejected, so this row cannot be attached to it | mobile: Phone '06.60.94.39.13' is not in a recognised format (loaded empty);CT00456;CL00368;LAURENT;Antoine;Gérante;06.60.94.39.13;antoine.laurent@laposte.net
+464;CT00463;MIGRATED with warning;mobile: Phone '06.33.22.28.01' is not in a recognised format (loaded empty);CT00463;CL00374;LEFÈVRE;Antoine;Gérante;06.33.22.28.01;antoine.lefevre@laposte.net
+465;CT00464;MIGRATED with warning;mobile: Phone '06 22 56 06' is not in a recognised format (loaded empty);CT00464;CL00374;MOREAU;Camille;Responsable des achats;06 22 56 06;camille.moreau@sfr.fr
+467;CT00466;REJECTED - needs your decision;accounts CL00376 was rejected, so this row cannot be attached to it;CT00466;CL00376;BOYER;Sophie;;06 07 53 84 18;
+471;CT00470;MIGRATED with warning;mobile: Phone '33698731267' is not in a recognised format (loaded empty);CT00470;CL00382;NICOLAS;Hugo;;33698731267;hugo.nicolas@wanadoo.fr
+472;CT00471;REJECTED - needs your decision;accounts CL00383 was rejected, so this row cannot be attached to it;CT00471;CL00383;LOPEZ;Hugo;;0627607598;hugo.lopez@sfr.fr
+474;CT00473;REJECTED - needs your decision;accounts CL00385 was rejected, so this row cannot be attached to it;CT00473;CL00385;ROUSSEL;Pierre;Responsable des achats;07 76 44 97 47;
+475;CT00474;MIGRATED with warning;mobile: Phone '33776497974' is not in a recognised format (loaded empty);CT00474;CL00386;BONNET;Léa;Responsable technique;33776497974;lea.bonnet@laposte.net
+480;CT00479;REJECTED - needs your decision;accounts CL00391 was rejected, so this row cannot be attached to it;CT00479;CL00391;PERRIN;Hélène;Directrice;+33 7 34 54 43 44;helene.perrin@free.fr
+481;CT00480;REJECTED - needs your decision;accounts CL00391 was rejected, so this row cannot be attached to it;CT00480;CL00391;FOURNIER;Chloé;Assistante de direction;07 64 08 82 23;chloe.fournier@gmail.com
+483;CT00482;REJECTED - needs your decision;accounts CL00393 was rejected, so this row cannot be attached to it;CT00482;CL00393;LEGRAND;Isabelle;;06 21 70 75 48;isabelle.legrand@sfr.fr
+487;CT00486;MIGRATED with warning;mobile: Phone '06.46.31.04.37' is not in a recognised format (loaded empty);CT00486;CL00396;THOMAS;Thomas;Gérante;06.46.31.04.37;thomas.thomas@free.fr
+492;CT00491;REJECTED - needs your decision;accounts CL00400 was rejected, so this row cannot be attached to it;CT00491;CL00400;DAVID;Sandrine;Comptable;+33 7 30 12 39 84;sandrine.david@gmail.com
+493;CT00492;REJECTED - needs your decision;accounts CL00400 was rejected, so this row cannot be attached to it;CT00492;CL00400;BERNARD;Thomas;Responsable des achats;06 02 84 71 90;thomas.bernard@free.fr
+494;CT00493;REJECTED - needs your decision;accounts CL00401 was rejected, so this row cannot be attached to it;CT00493;CL00401;CLÉMENT;Manon;Responsable technique;06 76 48 71 77;manon.clement@orange.fr
+498;CT00497;MIGRATED with warning;mobile: Phone '33658690170' is not in a recognised format (loaded empty);CT00497;CL00405;DURAND;Inès;Gérant;33658690170;ines.durand@laposte.net
+499;CT00498;REJECTED - needs your decision;accounts CL00406 was rejected, so this row cannot be attached to it | mobile: Phone '06.99.94.52.95' is not in a recognised format (loaded empty);CT00498;CL00406;BOYER;Mathieu;Responsable technique;06.99.94.52.95;mathieu.boyer@orange.fr
+501;CT00500;MIGRATED with warning;mobile: Phone '33621626549' is not in a recognised format (loaded empty);CT00500;CL00408;MASSON;Pierre;;33621626549;pierre.masson@free.fr
+502;CT00501;REJECTED - needs your decision;accounts CL00409 was rejected, so this row cannot be attached to it;CT00501;CL00409;BONNET;Nicolas;;06 83 34 44 70;nicolas.bonnet@orange.fr
+503;CT00502;REJECTED - needs your decision;accounts CL00410 was rejected, so this row cannot be attached to it | mobile: Phone '07.70.20.59.68' is not in a recognised format (loaded empty);CT00502;CL00410;ROUSSEAU;Chloé;Gérant;07.70.20.59.68;
+504;CT00503;REJECTED - needs your decision;accounts CL00410 was rejected, so this row cannot be attached to it;CT00503;CL00410;MASSON;Noémie;Comptable;;noemie.masson@free.fr
+508;CT00507;REJECTED - needs your decision;accounts CL00413 was rejected, so this row cannot be attached to it | mobile: Phone '07.98.08.51.33' is not in a recognised format (loaded empty);CT00507;CL00413;DUMONT;Sophie;;07.98.08.51.33;sophie.dumont@orange.fr
+510;CT00509;MIGRATED with warning;mobile: Phone '06 58 26 86' is not in a recognised format (loaded empty);CT00509;CL00415;SANCHEZ;Pierre;Assistante de direction;06 58 26 86;pierre.sanchez@free.fr
+512;CT00511;MIGRATED with warning;mobile: Phone '07.78.73.58.56' is not in a recognised format (loaded empty);CT00511;CL00417;FONTAINE;Camille;;07.78.73.58.56;camille.fontaine@sfr.fr
+513;CT00512;REJECTED - needs your decision;accounts CL00418 was rejected, so this row cannot be attached to it | mobile: Phone '06.62.21.32.04' is not in a recognised format (loaded empty);CT00512;CL00418;BOYER;Aurélie;;06.62.21.32.04;
+514;CT00513;MIGRATED with warning;mobile: Phone '33614789117' is not in a recognised format (loaded empty);CT00513;CL00419;FAURE;Sophie;;33614789117;sophie.faure@orange.fr
+515;CT00514;MIGRATED with warning;mobile: Phone '33628318003' is not in a recognised format (loaded empty);CT00514;CL00420;ROUSSEL;Chloé;Responsable technique;33628318003;chloe.roussel@sfr.fr
+517;CT00516;MIGRATED with warning;mobile: Phone '06.43.83.80.58' is not in a recognised format (loaded empty);CT00516;CL00421;MARTIN;Antoine;Responsable des achats;06.43.83.80.58;antoine.martin@wanadoo.fr
+520;CT00519;MIGRATED with warning;mobile: Phone '06.01.32.82.33' is not in a recognised format (loaded empty);CT00519;CL00424;FRANÇOIS;Camille;;06.01.32.82.33;camille.francois@wanadoo.fr
+525;CT00524;MIGRATED with warning;mobile: Phone '06.55.39.46.07' is not in a recognised format (loaded empty);CT00524;CL00427;CLÉMENT;Céline;;06.55.39.46.07;celine.clement@laposte.net
+526;CT00525;MIGRATED with warning;mobile: Phone '06 74 72 96' is not in a recognised format (loaded empty);CT00525;CL00430;CLÉMENT;Julien;;06 74 72 96;julien.clement@sfr.fr
+527;CT00526;MIGRATED with warning;mobile: Phone '07.70.80.89.74' is not in a recognised format (loaded empty);CT00526;CL00431;LAMBERT;Olivier;;07.70.80.89.74;olivier.lambert@laposte.net
+531;CT00530;REJECTED - needs your decision;accounts CL00433 was rejected, so this row cannot be attached to it;CT00530;CL00433;LEFÈVRE;Noémie;Responsable technique;+33 7 48 83 99 74;noemie.lefevre@wanadoo.fr
+532;CT00531;REJECTED - needs your decision;accounts CL00433 was rejected, so this row cannot be attached to it;CT00531;CL00433;PETIT;Léa;Responsable des achats;06 02 75 00 03;lea.petit@free.fr
+533;CT00532;REJECTED - needs your decision;accounts CL00433 was rejected, so this row cannot be attached to it | mobile: Phone '07.30.56.41.84' is not in a recognised format (loaded empty);CT00532;CL00433;DUPONT;Rémi;Assistante de direction;07.30.56.41.84;remi.dupont@wanadoo.fr
+534;CT00533;REJECTED - needs your decision;accounts CL00434 was rejected, so this row cannot be attached to it;CT00533;CL00434;BERNARD;Léa;;0767908701;lea.bernard@laposte.net
+537;CT00536;REJECTED - needs your decision;accounts CL00437 was rejected, so this row cannot be attached to it;CT00536;CL00437;MOREAU;Manon;Responsable technique;0772562221;manon.moreau@orange.fr
+538;CT00537;REJECTED - needs your decision;accounts CL00437 was rejected, so this row cannot be attached to it | mobile: Phone '06.47.47.64.84' is not in a recognised format (loaded empty);CT00537;CL00437;MICHEL;Mathieu;Directrice;06.47.47.64.84;mathieu.michel@wanadoo.fr
+543;CT00542;MIGRATED with warning;mobile: Phone '07.74.47.35.35' is not in a recognised format (loaded empty);CT00542;CL00440;PERRIN;Sophie;;07.74.47.35.35;sophie.perrin@laposte.net
+547;CT00546;REJECTED - needs your decision;accounts CL00444 was rejected, so this row cannot be attached to it;CT00546;CL00444;ROUSSEAU;Antoine;;07 65 35 37 80;antoine.rousseau@orange.fr
+548;CT00547;MIGRATED with warning;mobile: Phone '07.34.46.71.77' is not in a recognised format (loaded empty);CT00547;CL00445;DUBOIS;Hugo;;07.34.46.71.77;hugo.dubois@gmail.com
+551;CT00550;MIGRATED with warning;mobile: Phone '06.18.96.84.42' is not in a recognised format (loaded empty);CT00550;CL00447;GARCIA;Olivier;Gérante;06.18.96.84.42;olivier.garcia@wanadoo.fr
+552;CT00551;REJECTED - needs your decision;accounts CL00448 was rejected, so this row cannot be attached to it | mobile: Phone '07.95.72.85.75' is not in a recognised format (loaded empty);CT00551;CL00448;MASSON;Inès;Responsable des achats;07.95.72.85.75;ines.masson@free.fr
+553;CT00552;REJECTED - needs your decision;accounts CL00448 was rejected, so this row cannot be attached to it;CT00552;CL00448;ROBIN;Inès;Comptable;0624883971;ines.robin@orange.fr
+554;CT00553;REJECTED - needs your decision;accounts CL00448 was rejected, so this row cannot be attached to it | mobile: Phone '06.12.30.38.85' is not in a recognised format (loaded empty);CT00553;CL00448;ROBIN;Hugo;Responsable technique;06.12.30.38.85;hugo.robin@sfr.fr
+558;CT00557;REJECTED - needs your decision;accounts CL00454 was rejected, so this row cannot be attached to it | mobile: Phone '06.55.13.60.90' is not in a recognised format (loaded empty);CT00557;CL00454;LEROY;Noémie;Responsable technique;06.55.13.60.90;noemie.leroy@sfr.fr
+559;CT00558;REJECTED - needs your decision;accounts CL00454 was rejected, so this row cannot be attached to it;CT00558;CL00454;GUÉRIN;Manon;Comptable;06 04 50 24 37;
+560;CT00559;REJECTED - needs your decision;accounts CL00454 was rejected, so this row cannot be attached to it;CT00559;CL00454;GIRARD;Yannick;Directrice;06 35 39 00 58;yannick.girard@sfr.fr
+564;CT00563;REJECTED - needs your decision;accounts CL00457 was rejected, so this row cannot be attached to it;CT00563;CL00457;PERRIN;Yannick;;0764051038;yannick.perrin@gmail.com
+565;CT00564;MIGRATED with warning;mobile: Phone '07.63.62.81.44' is not in a recognised format (loaded empty) | email: 'julien.guerin@@orange.fr' is not a valid email address (loaded empty);CT00564;CL00458;GUÉRIN;Julien;;07.63.62.81.44;julien.guerin@@orange.fr
+568;CT00567;MIGRATED with warning;email: 'julien.legrand@orange' is not a valid email address (loaded empty);CT00567;CL00459;LEGRAND;Julien;Responsable des achats;0616403439;julien.legrand@orange
+570;CT00569;REJECTED - needs your decision;accounts CL00461 was rejected, so this row cannot be attached to it | mobile: Phone '06.62.54.20.41' is not in a recognised format (loaded empty);CT00569;CL00461;SIMON;Nathalie;;06.62.54.20.41;nathalie.simon@orange.fr
+572;CT00571;REJECTED - needs your decision;accounts CL00463 was rejected, so this row cannot be attached to it | mobile: Phone '06.09.79.41.22' is not in a recognised format (loaded empty);CT00571;CL00463;CLÉMENT;Sophie;;06.09.79.41.22;sophie.clement@laposte.net
+575;CT00574;REJECTED - needs your decision;accounts CL00465 was rejected, so this row cannot be attached to it;CT00574;CL00465;FRANÇOIS;Sophie;Gérant;0609536621;sophie.francois@wanadoo.fr
+576;CT00575;REJECTED - needs your decision;accounts CL00465 was rejected, so this row cannot be attached to it | mobile: Phone '06.07.39.71.30' is not in a recognised format (loaded empty) | email: 'hugo.guerin@gmail' is not a valid email address (loaded empty);CT00575;CL00465;GUÉRIN;Hugo;Directrice;06.07.39.71.30;hugo.guerin@gmail
+577;CT00576;REJECTED - needs your decision;accounts CL00465 was rejected, so this row cannot be attached to it;CT00576;CL00465;RICHARD;Sophie;Directrice;06 87 16 72 21;sophie.richard@orange.fr
+579;CT00578;REJECTED - needs your decision;accounts CL00468 was rejected, so this row cannot be attached to it;CT00578;CL00468;DUPONT;Aurélie;;06 16 02 52 39;aurelie.dupont@free.fr
+586;CT00585;MIGRATED with warning;mobile: Phone '07.62.20.21.23' is not in a recognised format (loaded empty);CT00585;CL00472;CLÉMENT;Céline;;07.62.20.21.23;celine.clement@sfr.fr
+587;CT00586;REJECTED - needs your decision;accounts CL00473 was rejected, so this row cannot be attached to it;CT00586;CL00473;DAVID;Rémi;;06 55 03 30 00;remi.david@wanadoo.fr
+588;CT00587;REJECTED - needs your decision;accounts CL00474 was rejected, so this row cannot be attached to it;CT00587;CL00474;ANDRÉ;Karim;;0773919008;karim.andre@orange.fr
+589;CT00588;REJECTED - needs your decision;accounts CL00475 was rejected, so this row cannot be attached to it | mobile: Phone '06.09.16.92.32' is not in a recognised format (loaded empty);CT00588;CL00475;RICHARD;Sophie;Responsable des achats;06.09.16.92.32;sophie.richard@free.fr
+590;CT00589;REJECTED - needs your decision;accounts CL00475 was rejected, so this row cannot be attached to it | mobile: Phone '07 90 60 85' is not in a recognised format (loaded empty);CT00589;CL00475;LEGRAND;Sandrine;Responsable des achats;07 90 60 85;sandrine.legrand@sfr.fr
+591;CT00590;REJECTED - needs your decision;accounts CL00475 was rejected, so this row cannot be attached to it;CT00590;CL00475;MULLER;François;Directrice;06 00 09 98 43;francois.muller@laposte.net
+595;CT00594;MIGRATED with warning;email: 'francois.sanchez@@wanadoo.fr' is not a valid email address (loaded empty);CT00594;CL00479;SANCHEZ;François;;;francois.sanchez@@wanadoo.fr
+597;CT00596;MIGRATED with warning;mobile: Phone '06.61.25.59.04' is not in a recognised format (loaded empty) | email: 'camille.garcia@laposte' is not a valid email address (loaded empty);CT00596;CL00480;GARCIA;Camille;Gérant;06.61.25.59.04;camille.garcia@laposte
+599;CT00598;MIGRATED with warning;mobile: Phone '06.29.61.51.20' is not in a recognised format (loaded empty) | email: 'celine.francois@@gmail.com' is not a valid email address (loaded empty);CT00598;CL00482;FRANÇOIS;Céline;;06.29.61.51.20;celine.francois@@gmail.com
+600;CT00599;MIGRATED with warning;mobile: Phone '06.76.65.34.46' is not in a recognised format (loaded empty);CT00599;CL00483;BERTRAND;Chloé;;06.76.65.34.46;chloe.bertrand@sfr.fr
+602;CT00601;REJECTED - needs your decision;accounts CL00485 was rejected, so this row cannot be attached to it;CT00601;CL00485;FAURE;Sandrine;Gérante;0772435861;sandrine.faure@wanadoo.fr
+603;CT00602;REJECTED - needs your decision;accounts CL00485 was rejected, so this row cannot be attached to it | mobile: Phone '06.72.67.08.66' is not in a recognised format (loaded empty);CT00602;CL00485;SIMON;Isabelle;Comptable;06.72.67.08.66;isabelle.simon@free.fr
+605;CT00604;MIGRATED with warning;mobile: Phone '33789742235' is not in a recognised format (loaded empty);CT00604;CL00486;PERRIN;Céline;Gérant;33789742235;celine.perrin@laposte.net
+608;CT00607;REJECTED - needs your decision;accounts CL00492 was rejected, so this row cannot be attached to it;CT00607;CL00492;LOPEZ;Antoine;;06 82 73 06 34;antoine.lopez@laposte.net
+611;CT00610;REJECTED - needs your decision;accounts CL00494 was rejected, so this row cannot be attached to it;CT00610;CL00494;THOMAS;Céline;Assistante de direction;+33 6 32 03 19 78;celine.thomas@sfr.fr
+612;CT00611;REJECTED - needs your decision;accounts CL00494 was rejected, so this row cannot be attached to it;CT00611;CL00494;THOMAS;Pierre;Gérant;0634713171;pierre.thomas@gmail.com
+615;CT00614;MIGRATED with warning;email: 'sandrine.chevalier@@gmail.com' is not a valid email address (loaded empty);CT00614;CL00499;CHEVALIER;Sandrine;;0780727903;sandrine.chevalier@@gmail.com
+622;CT00621;MIGRATED with warning;mobile: Phone '33648110501' is not in a recognised format (loaded empty);CT00621;CL00504;ROUSSEAU;Rémi;;33648110501;remi.rousseau@sfr.fr
+627;CT00626;MIGRATED with warning;email: 'julien.guerin@@sfr.fr' is not a valid email address (loaded empty);CT00626;CL00507;GUÉRIN;Julien;;07 41 48 57 26;julien.guerin@@sfr.fr
+628;CT00627;REJECTED - needs your decision;accounts CL00508 was rejected, so this row cannot be attached to it | mobile: Phone '07 86 27 28' is not in a recognised format (loaded empty);CT00627;CL00508;NICOLAS;Thomas;;07 86 27 28;thomas.nicolas@free.fr
+630;CT00629;MIGRATED with warning;mobile: Phone '33638687906' is not in a recognised format (loaded empty) | re-linked from duplicate CL00510 to surviving record CL00207;CT00629;CL00510;GARNIER;François;Assistante de direction;33638687906;francois.garnier@wanadoo.fr
+631;CT00630;MIGRATED with warning;re-linked from duplicate CL00510 to surviving record CL00207;CT00630;CL00510;BOYER;Julien;Assistante de direction;07 93 20 55 34;julien.boyer@sfr.fr
+632;CT00631;MIGRATED with warning;re-linked from duplicate CL00511 to surviving record CL00182;CT00631;CL00511;LEMAIRE;Chloé;Assistante de direction;0656707897;chloe.lemaire@orange.fr
+633;CT00632;MIGRATED with warning;mobile: Phone '06.38.42.27.36' is not in a recognised format (loaded empty) | re-linked from duplicate CL00511 to surviving record CL00182;CT00632;CL00511;BERTRAND;Isabelle;Assistante de direction;06.38.42.27.36;isabelle.bertrand@laposte.net
+634;CT00633;MIGRATED with warning;re-linked from duplicate CL00511 to surviving record CL00182;CT00633;CL00511;FONTAINE;Thomas;Gérante;06 27 11 17 57;thomas.fontaine@orange.fr
+635;CT00634;MIGRATED with warning;re-linked from duplicate CL00512 to surviving record CL00480;CT00634;CL00512;PETIT;François;Responsable technique;0698514486;francois.petit@orange.fr
+636;CT00635;MIGRATED with warning;re-linked from duplicate CL00512 to surviving record CL00480;CT00635;CL00512;MERCIER;Isabelle;Assistante de direction;06 14 26 47 10;
+637;CT00636;MIGRATED with warning;re-linked from duplicate CL00513 to surviving record CL00308;CT00636;CL00513;MARTINEZ;Émilie;Responsable des achats;0663705004;emilie.martinez@gmail.com
+638;CT00637;MIGRATED with warning;re-linked from duplicate CL00514 to surviving record CL00183;CT00637;CL00514;LEMAIRE;Émilie;Responsable technique;07 93 17 29 47;emilie.lemaire@orange.fr
+639;CT00638;MIGRATED with warning;re-linked from duplicate CL00514 to surviving record CL00183;CT00638;CL00514;MULLER;Jean;Assistante de direction;+33 6 65 40 25 99;jean.muller@sfr.fr
+640;CT00639;REJECTED - needs your decision;accounts CL00515 was rejected, so this row cannot be attached to it;CT00639;CL00515;DUMONT;Chloé;Gérante;06 72 72 81 29;chloe.dumont@orange.fr
+641;CT00640;MIGRATED with warning;mobile: Phone '07.75.60.20.80' is not in a recognised format (loaded empty) | re-linked from duplicate CL00516 to surviving record CL00339;CT00640;CL00516;MATHIEU;Marie;Assistante de direction;07.75.60.20.80;marie.mathieu@free.fr
+642;CT00641;MIGRATED with warning;re-linked from duplicate CL00516 to surviving record CL00339;CT00641;CL00516;HENRY;Olivier;Gérante;0615439044;olivier.henry@orange.fr
+643;CT00642;MIGRATED with warning;re-linked from duplicate CL00517 to surviving record CL00250;CT00642;CL00517;GARCIA;Isabelle;Gérante;06 32 02 35 10;isabelle.garcia@orange.fr
+644;CT00643;MIGRATED with warning;re-linked from duplicate CL00517 to surviving record CL00250;CT00643;CL00517;MATHIEU;Manon;Gérant;07 39 33 32 43;manon.mathieu@free.fr
+645;CT00644;MIGRATED with warning;re-linked from duplicate CL00517 to surviving record CL00250;CT00644;CL00517;FRANÇOIS;Nicolas;Gérant;07 98 31 24 41;nicolas.francois@gmail.com
+646;CT00645;REJECTED - needs your decision;accounts CL00518 was rejected, so this row cannot be attached to it;CT00645;CL00518;MASSON;Antoine;Responsable des achats;0601237631;antoine.masson@sfr.fr
+647;CT00646;REJECTED - needs your decision;accounts CL00518 was rejected, so this row cannot be attached to it;CT00646;CL00518;MERCIER;Julien;Gérant;07 53 62 64 75;julien.mercier@orange.fr
+648;CT00647;MIGRATED with warning;mobile: Phone '06.84.52.40.32' is not in a recognised format (loaded empty) | re-linked from duplicate CL00519 to surviving record CL00256;CT00647;CL00519;BERTRAND;Hélène;Gérante;06.84.52.40.32;
+649;CT00648;MIGRATED with warning;mobile: Phone '06.43.21.91.43' is not in a recognised format (loaded empty) | re-linked from duplicate CL00519 to surviving record CL00256;CT00648;CL00519;DUMONT;Nathalie;Responsable technique;06.43.21.91.43;
+650;CT00649;REJECTED - needs your decision;accounts CL00520 was rejected, so this row cannot be attached to it;CT00649;CL00520;FAURE;Hugo;Responsable technique;0792542218;hugo.faure@laposte.net
+651;CT00650;REJECTED - needs your decision;accounts CL00520 was rejected, so this row cannot be attached to it;CT00650;CL00520;BERTRAND;Mathieu;Assistante de direction;0776933329;mathieu.bertrand@wanadoo.fr
+652;CT00651;MIGRATED with warning;mobile: Phone '07.78.46.40.85' is not in a recognised format (loaded empty) | re-linked from duplicate CL00521 to surviving record CL00442;CT00651;CL00521;PETIT;Camille;Gérante;07.78.46.40.85;camille.petit@sfr.fr
+653;CT00652;MIGRATED with warning;re-linked from duplicate CL00521 to surviving record CL00442;CT00652;CL00521;ANDRÉ;Sandrine;Responsable des achats;06 56 72 62 08;sandrine.andre@sfr.fr
+654;CT00653;REJECTED - needs your decision;accounts CL00522 was rejected, so this row cannot be attached to it;CT00653;CL00522;CLÉMENT;Hugo;;06 55 19 62 82;hugo.clement@orange.fr
+655;CT00654;REJECTED - needs your decision;accounts CL00523 was rejected, so this row cannot be attached to it;CT00654;CL00523;MARTIN;Rémi;;0762472863;remi.martin@gmail.com
+656;CT00655;REJECTED - needs your decision;accounts CL00524 was rejected, so this row cannot be attached to it;CT00655;CL00524;LAURENT;Mathieu;;0623414992;mathieu.laurent@gmail.com
+657;CT00656;REJECTED - needs your decision;accounts CL00377 does not exist in the accounts export;CT00656;CL00377;LEMAIRE;Yannick;Directrice;06 17 40 03 91;yannick.lemaire@laposte.net
+658;CT00657;REJECTED - needs your decision;accounts CL00495 does not exist in the accounts export;CT00657;CL00495;MERCIER;Rémi;Gérante;+33 6 24 71 19 36;remi.mercier@orange.fr
+659;CT00658;REJECTED - needs your decision;accounts CL00377 does not exist in the accounts export | mobile: Phone '06 56 46 16' is not in a recognised format (loaded empty);CT00658;CL00377;BLANC;Nicolas;;06 56 46 16;nicolas.blanc@laposte.net
+660;CT00659;REJECTED - needs your decision;accounts CL00283 does not exist in the accounts export;CT00659;CL00283;LOPEZ;Inès;Gérant;06 95 37 23 46;ines.lopez@wanadoo.fr
+661;CT00660;REJECTED - needs your decision;accounts CL00092 does not exist in the accounts export;CT00660;CL00092;GAUTHIER;Sophie;;06 61 09 44 16;sophie.gauthier@orange.fr
+662;CT00661;REJECTED - needs your decision;accounts CL00056 does not exist in the accounts export;CT00661;CL00056;ROUX;Olivier;Comptable;;olivier.roux@free.fr
+663;CT00662;REJECTED - needs your decision;accounts CL00015 does not exist in the accounts export;CT00662;CL00015;DUMONT;Thomas;Gérante;0646175518;
+664;CT00663;REJECTED - needs your decision;accounts CL00055 does not exist in the accounts export;CT00663;CL00055;FAURE;Chloé;;06 42 02 48 37;chloe.faure@sfr.fr
+665;CT00664;REJECTED - needs your decision;accounts CL00049 does not exist in the accounts export;CT00664;CL00049;SIMON;Nathalie;;07 38 69 47 90;nathalie.simon@free.fr
+666;CT00665;REJECTED - needs your decision;accounts CL00490 does not exist in the accounts export | mobile: Phone '06.47.23.86.41' is not in a recognised format (loaded empty);CT00665;CL00490;GARCIA;Hélène;Assistante de direction;06.47.23.86.41;helene.garcia@orange.fr
+667;CT00666;REJECTED - needs your decision;accounts CL00013 does not exist in the accounts export;CT00666;CL00013;GARCIA;Inès;;+33 7 74 21 64 35;ines.garcia@free.fr
+668;CT00667;REJECTED - needs your decision;accounts CL00015 does not exist in the accounts export | mobile: Phone '07.43.70.66.18' is not in a recognised format (loaded empty);CT00667;CL00015;GARCIA;Karim;;07.43.70.66.18;karim.garcia@sfr.fr
+669;CT00668;REJECTED - needs your decision;accounts CL00245 does not exist in the accounts export;CT00668;CL00245;BERTRAND;François;;07 36 81 54 18;francois.bertrand@laposte.net
+670;CT00669;REJECTED - needs your decision;accounts CL00495 does not exist in the accounts export;CT00669;CL00495;THOMAS;Nicolas;Comptable;06 33 74 69 83;nicolas.thomas@laposte.net
+671;CT00670;REJECTED - needs your decision;accounts CL00428 does not exist in the accounts export | mobile: Phone '06.82.22.66.79' is not in a recognised format (loaded empty);CT00670;CL00428;BERNARD;Olivier;;06.82.22.66.79;olivier.bernard@laposte.net

@@ -1,0 +1,58 @@
+﻿Line in export;Legacy ID;Status;Issue(s);Réf contrat;N° client;Formule;Montant annuel HT;Date début;Date fin;Statut
+5;CTR-2018-0274;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2018-0274;CL00327;Contrat Sérénité;575,20;02/05/2018;01/05/2019;Résilié
+12;CTR-2025-0423;MIGRATED with warning;re-linked from duplicate CL00515 to surviving record CL00065;CTR-2025-0423;CL00515;Contrat Sérénité+;2 778,86;07/01/2025;06/01/2026;Actif
+13;CTR-2020-0084;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2020-0084;CL00101;Contrat Sérénité;229,21;10/12/2020;09/12/2021;Résilié
+31;CTR-2026-0434;REJECTED - needs your decision;accounts CL00109 does not exist in the accounts export;CTR-2026-0434;CL00109;Maintenance multi-sites;2 315,58;23/10/2026;22/10/2027;Actif
+36;CTR-2026-0060;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2026-0060;CL00072;Contrat Sérénité;452,48;05/10/26;04/10/2027;Résilié
+47;CTR-2024-0143;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2024-0143;CL00172;Maintenance PAC;2.628;01/11/2024;31/10/2025;Résilié
+52;CTR-2018-0187;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2018-0187;CL00226;Maintenance PAC;900;18/09/2018;17/09/19;Résilié
+56;CTR-2022-0188;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2022-0188;CL00227;Maintenance multi-sites;4 690,91 €;15/07/2022;14/07/2023;Résilié
+58;CTR-2024-0435;REJECTED - needs your decision;accounts CL00109 does not exist in the accounts export;CTR-2024-0435;CL00109;Maintenance multi-sites;5.400;19/10/2024;18/10/2025;Actif
+65;CTR-2025-0421;MIGRATED with warning;re-linked from duplicate CL00513 to surviving record CL00308;CTR-2025-0421;CL00513;Maintenance PAC;1.150;28/06/2025;27/06/2026;Actif
+72;CTR-2023-0022;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2023-0022;CL00028;Contrat Sérénité;574,64;16/10/23;14/10/2024;Résilié
+82;CTR-2023-0142;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2023-0142;CL00171;Entretien annuel chaudière;360;18/06/2023;16/06/24;Résilié
+85;CTR-2023-0070;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2023-0070;CL00083;Contrat Sérénité;148,32;03/04/2023;01/04/2024;Résilié
+94;CTR-2024-0414;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2024-0414;CL00506;Contrat Sérénité+;3 508,68 €;12/05/2024;11/05/2025;Résilié
+98;CTR-2026-0262;REJECTED - needs your decision;start_date: Date '00/01/2022' is not a real calendar date (expected DD/MM/YYYY);CTR-2026-0262;CL00313;Contrat Sérénité+;3 625,94;00/01/2022;29/01/2027;Actif
+101;CTR-2024-0049;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2024-0049;CL00060;Maintenance PAC;6 429,27;16/12/2024;15/12/2025;Résilié
+104;CTR-2020-0436;REJECTED - needs your decision;accounts CL00197 does not exist in the accounts export;CTR-2020-0436;CL00197;Contrat Sérénité+;5 058,13;05/03/20;04/03/2021;Actif
+122;CTR-2023-0086;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2023-0086;CL00103;Maintenance PAC;6 487,76;14/03/2023;12/03/2024;Résilié
+124;CTR-2018-0346;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2018-0346;CL00416;Maintenance multi-sites;1 017,10;20/06/2018;19/06/2019;Résilié
+129;CTR-2025-0175;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2025-0175;CL00214;Entretien annuel chaudière;561,23;13/11/2025;12/11/26;Résilié
+133;CTR-2026-0419;MIGRATED with warning;re-linked from duplicate CL00511 to surviving record CL00182;CTR-2026-0419;CL00511;Contrat Sérénité+;2.350;17/02/2026;16/02/2027;Actif
+140;CTR-2025-0241;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2025-0241;CL00289;Contrat Sérénité+;3 310,99;28/06/2025;27/06/26;Résilié
+150;CTR-2026-0430;REJECTED - needs your decision;accounts CL00522 was rejected, so this row cannot be attached to it;CTR-2026-0430;CL00522;Contrat Sérénité;490;01/02/2026;31/01/2027;Actif
+154;CTR-2018-0433;REJECTED - needs your decision;accounts CL00092 does not exist in the accounts export;CTR-2018-0433;CL00092;Contrat Sérénité+;5 704,67;23/08/2018;22/08/19;Actif
+164;CTR-2019-0318;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2019-0318;CL00379;Contrat Sérénité;265,12;15/08/19;13/08/20;Résilié
+177;CTR-2025-0256;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2025-0256;CL00306;Contrat Sérénité;548,80;01/02/25;31/01/26;Résilié
+185;CTR-2023-0426;MIGRATED with warning;re-linked from duplicate CL00518 to surviving record CL00400;CTR-2023-0426;CL00518;Maintenance PAC;5 128,89;03/05/2023;01/05/2024;Actif
+200;CTR-2023-0432;REJECTED - needs your decision;accounts CL00524 was rejected, so this row cannot be attached to it;CTR-2023-0432;CL00524;Contrat Sérénité;156,35 €;16/12/2023;14/12/2024;Actif
+207;CTR-2023-0328;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2023-0328;CL00390;Maintenance multi-sites;6 483,66;29/01/23;28/01/2024;Résilié
+216;CTR-2026-0424;MIGRATED with warning;re-linked from duplicate CL00516 to surviving record CL00339;CTR-2026-0424;CL00516;Maintenance multi-sites;3 549,85 €;23/06/2026;22/06/27;Actif
+227;CTR-2020-0137;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2020-0137;CL00165;Entretien annuel chaudière;550,38;06/04/20;05/04/2021;Résilié
+230;CTR-2025-0231;REJECTED - needs your decision;start_date: Date '29/02/2023' is not a real calendar date (expected DD/MM/YYYY);CTR-2025-0231;CL00276;Maintenance multi-sites;2 777,69;29/02/2023;04/01/2026;Actif
+231;CTR-2019-0008;REJECTED - needs your decision;start_date: Date '31/02/2023' is not a real calendar date (expected DD/MM/YYYY);CTR-2019-0008;CL00009;Contrat Sérénité;455,79;31/02/2023;05/05/2020;Résilié
+241;CTR-2022-0003;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2022-0003;CL00004;Entretien annuel chaudière;281,03 €;26/06/2022;25/06/2023;Résilié
+251;CTR-2025-0034;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2025-0034;CL00040;Maintenance PAC;6 794,42 €;27/12/25;26/12/2026;Résilié
+254;CTR-2026-0011;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2026-0011;CL00012;Contrat Sérénité+;2 649,80 €;25/08/2026;24/08/2027;Résilié
+275;CTR-2025-0040;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2025-0040;CL00046;Maintenance PAC;1 964,38;18/12/2025;17/12/26;Résilié
+277;CTR-2022-0017;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2022-0017;CL00023;Contrat Sérénité;520;04/04/2022;03/04/2023;Résilié
+279;CTR-2023-0302;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2023-0302;CL00360;Entretien annuel chaudière;305,18;10/07/2023;08/07/2024;Résilié
+281;CTR-2019-0087;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2019-0087;CL00104;Entretien annuel chaudière;475,97;16/07/2019;14/07/2020;Résilié
+293;CTR-2026-0144;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2026-0144;CL00173;Maintenance multi-sites;6 727,75;07/06/26;06/06/2027;Résilié
+313;CTR-2018-0275;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2018-0275;CL00328;Maintenance PAC;4 655,36;01/02/2018;31/01/2019;Résilié
+318;CTR-2022-0420;MIGRATED with warning;re-linked from duplicate CL00512 to surviving record CL00480;CTR-2022-0420;CL00512;Maintenance PAC;3 591,28;01/07/2022;30/06/2023;Actif
+326;CTR-2018-0025;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2018-0025;CL00031;Maintenance multi-sites;1 892,62;21/08/18;20/08/2019;Résilié
+342;CTR-2025-0254;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2025-0254;CL00304;Maintenance PAC;5 710,63;24/08/2025;23/08/2026;Résilié
+351;CTR-2018-0006;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2018-0006;CL00007;Maintenance PAC;4 288,39 €;13/10/2018;12/10/19;Résilié
+369;CTR-2025-0418;MIGRATED with warning;re-linked from duplicate CL00510 to surviving record CL00207;CTR-2025-0418;CL00510;Maintenance multi-sites;2 181,59;16/07/2025;15/07/26;Actif
+372;CTR-2023-0071;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2023-0071;CL00084;Maintenance multi-sites;4 172,42;02/09/23;31/08/2024;Résilié
+376;CTR-2026-0427;MIGRATED with warning;re-linked from duplicate CL00519 to surviving record CL00256;CTR-2026-0427;CL00519;Maintenance PAC;2.450;13/06/2026;12/06/2027;Actif
+379;CTR-2022-0425;MIGRATED with warning;re-linked from duplicate CL00517 to surviving record CL00250;CTR-2022-0425;CL00517;Maintenance PAC;3 481,46 €;30/08/2022;29/08/23;Actif
+381;CTR-2019-0227;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2019-0227;CL00272;Maintenance PAC;5 475,86;15/10/2019;13/10/2020;Résilié
+382;CTR-2025-0422;MIGRATED with warning;re-linked from duplicate CL00514 to surviving record CL00183;CTR-2025-0422;CL00514;Maintenance PAC;2 886,22;04/08/2025;03/08/26;Actif
+390;CTR-2022-0431;REJECTED - needs your decision;accounts CL00523 was rejected, so this row cannot be attached to it;CTR-2022-0431;CL00523;Contrat Sérénité;501,53;12/09/2022;11/09/2023;Résilié
+391;CTR-2018-0080;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2018-0080;CL00097;Contrat Sérénité+;5 687,08;09/03/18;08/03/2019;Résilié
+399;CTR-2018-0043;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2018-0043;CL00052;Maintenance multi-sites;5 005,45;23/07/18;22/07/2019;Résilié
+418;CTR-2020-0429;MIGRATED with warning;re-linked from duplicate CL00521 to surviving record CL00442;CTR-2020-0429;CL00521;Maintenance multi-sites;6 501,43 €;20/08/2020;19/08/2021;Actif
+428;CTR-2019-0428;MIGRATED with warning;re-linked from duplicate CL00520 to surviving record CL00246;CTR-2019-0428;CL00520;Contrat Sérénité+;6 400,81;17/10/19;15/10/2020;Actif

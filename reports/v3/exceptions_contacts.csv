@@ -1,0 +1,80 @@
+﻿Line in export;Legacy ID;Status;Issue(s);N° contact;N° client;Nom;Prénom;Fonction;Tél portable;E-mail
+46;CT00045;MIGRATED with warning;mobile: Phone '06 55 33 34' is not a valid French number (loaded empty);CT00045;CL00042;LOPEZ;Noémie;;06 55 33 34;noemie.lopez@orange.fr
+69;CT00068;MIGRATED with warning;mobile: Phone '07 39 73 96' is not a valid French number (loaded empty);CT00068;CL00064;ANDRÉ;Pierre;Responsable des achats;07 39 73 96;pierre.andre@gmail.com
+81;CT00080;MIGRATED with warning;email: 'aurelie.chevalier@orange' is not a valid email address (loaded empty);CT00080;CL00073;CHEVALIER;Aurélie;;06 57 21 51 49;aurelie.chevalier@orange
+94;CT00093;MIGRATED with warning;email: 'olivier.chevalier@@free.fr' is not a valid email address (loaded empty);CT00093;CL00083;CHEVALIER;Olivier;;06 66 64 37 49;olivier.chevalier@@free.fr
+110;CT00109;MIGRATED with warning;mobile: Phone '06 95 79 92' is not a valid French number (loaded empty);CT00109;CL00098;SIMON;Nicolas;Assistante de direction;06 95 79 92;nicolas.simon@orange.fr
+148;CT00147;MIGRATED with warning;mobile: Phone '06 55 62 96' is not a valid French number (loaded empty);CT00147;CL00124;GUÉRIN;Isabelle;Responsable technique;06 55 62 96;isabelle.guerin@free.fr
+155;CT00154;MIGRATED with warning;mobile: Phone '07 69 97 99' is not a valid French number (loaded empty);CT00154;CL00131;FOURNIER;Antoine;;07 69 97 99;antoine.fournier@laposte.net
+156;CT00155;MIGRATED with warning;mobile: Phone '07 68 16 99' is not a valid French number (loaded empty);CT00155;CL00132;FONTAINE;Céline;;07 68 16 99;celine.fontaine@free.fr
+181;CT00180;MIGRATED with warning;email: 'remi.perrin@laposte' is not a valid email address (loaded empty);CT00180;CL00152;PERRIN;Rémi;Gérante;07 68 55 07 89;remi.perrin@laposte
+201;CT00200;MIGRATED with warning;mobile: Phone '06 10 28 67' is not a valid French number (loaded empty);CT00200;CL00168;MOREL;Hugo;Gérant;06 10 28 67;
+220;CT00219;MIGRATED with warning;email: 'hugo.martin@free' is not a valid email address (loaded empty);CT00219;CL00182;MARTIN;Hugo;Comptable;0760571219;hugo.martin@free
+231;CT00230;MIGRATED with warning;email: 'jean.morin@free' is not a valid email address (loaded empty);CT00230;CL00192;MORIN;Jean;;33600784361;jean.morin@free
+244;CT00243;MIGRATED with warning;mobile: Phone '07 32 48 88' is not a valid French number (loaded empty);CT00243;CL00205;MERCIER;Sandrine;;07 32 48 88;sandrine.mercier@sfr.fr
+272;CT00271;MIGRATED with warning;email: 'celine.david@sfr' is not a valid email address (loaded empty);CT00271;CL00226;DAVID;Céline;Responsable des achats;06 54 37 88 26;celine.david@sfr
+290;CT00289;MIGRATED with warning;mobile: Phone '06 95 02 64' is not a valid French number (loaded empty);CT00289;CL00242;VINCENT;Céline;Comptable;06 95 02 64;celine.vincent@free.fr
+314;CT00313;MIGRATED with warning;mobile: Phone '07 44 22 75' is not a valid French number (loaded empty);CT00313;CL00261;ROUSSEL;Inès;Directrice;07 44 22 75;ines.roussel@laposte.net
+333;CT00332;MIGRATED with warning;email: 'noemie.henry@@gmail.com' is not a valid email address (loaded empty);CT00332;CL00276;HENRY;Noémie;Comptable;06.95.01.43.74;noemie.henry@@gmail.com
+341;CT00340;MIGRATED with warning;email: 'remi.chevalier@orange' is not a valid email address (loaded empty);CT00340;CL00284;CHEVALIER;Rémi;Gérant;07.90.63.22.48;remi.chevalier@orange
+362;CT00361;MIGRATED with warning;email: 'lea.morin@laposte' is not a valid email address (loaded empty);CT00361;CL00301;MORIN;Léa;;0662259364;lea.morin@laposte
+392;CT00391;MIGRATED with warning;email: 'remi.fournier@@gmail.com' is not a valid email address (loaded empty);CT00391;CL00321;FOURNIER;Rémi;;06 00 18 67 66;remi.fournier@@gmail.com
+409;CT00408;MIGRATED with warning;email: 'antoine.roussel@wanadoo' is not a valid email address (loaded empty);CT00408;CL00334;ROUSSEL;Antoine;Responsable technique;+33 6 89 48 54 32;antoine.roussel@wanadoo
+419;CT00418;MIGRATED with warning;mobile: Phone '06 59 50 31' is not a valid French number (loaded empty);CT00418;CL00341;MERCIER;Thomas;;06 59 50 31;thomas.mercier@free.fr
+434;CT00433;MIGRATED with warning;mobile: Phone '06 22 04 14' is not a valid French number (loaded empty);CT00433;CL00353;VINCENT;Léa;Responsable des achats;06 22 04 14;lea.vincent@orange.fr
+447;CT00446;MIGRATED with warning;email: 'julien.martin@laposte' is not a valid email address (loaded empty);CT00446;CL00362;MARTIN;Julien;;0776947576;julien.martin@laposte
+465;CT00464;MIGRATED with warning;mobile: Phone '06 22 56 06' is not a valid French number (loaded empty);CT00464;CL00374;MOREAU;Camille;Responsable des achats;06 22 56 06;camille.moreau@sfr.fr
+510;CT00509;MIGRATED with warning;mobile: Phone '06 58 26 86' is not a valid French number (loaded empty);CT00509;CL00415;SANCHEZ;Pierre;Assistante de direction;06 58 26 86;pierre.sanchez@free.fr
+526;CT00525;MIGRATED with warning;mobile: Phone '06 74 72 96' is not a valid French number (loaded empty);CT00525;CL00430;CLÉMENT;Julien;;06 74 72 96;julien.clement@sfr.fr
+565;CT00564;MIGRATED with warning;email: 'julien.guerin@@orange.fr' is not a valid email address (loaded empty);CT00564;CL00458;GUÉRIN;Julien;;07.63.62.81.44;julien.guerin@@orange.fr
+568;CT00567;MIGRATED with warning;email: 'julien.legrand@orange' is not a valid email address (loaded empty);CT00567;CL00459;LEGRAND;Julien;Responsable des achats;0616403439;julien.legrand@orange
+576;CT00575;MIGRATED with warning;email: 'hugo.guerin@gmail' is not a valid email address (loaded empty);CT00575;CL00465;GUÉRIN;Hugo;Directrice;06.07.39.71.30;hugo.guerin@gmail
+590;CT00589;MIGRATED with warning;mobile: Phone '07 90 60 85' is not a valid French number (loaded empty);CT00589;CL00475;LEGRAND;Sandrine;Responsable des achats;07 90 60 85;sandrine.legrand@sfr.fr
+595;CT00594;MIGRATED with warning;email: 'francois.sanchez@@wanadoo.fr' is not a valid email address (loaded empty);CT00594;CL00479;SANCHEZ;François;;;francois.sanchez@@wanadoo.fr
+597;CT00596;MIGRATED with warning;email: 'camille.garcia@laposte' is not a valid email address (loaded empty);CT00596;CL00480;GARCIA;Camille;Gérant;06.61.25.59.04;camille.garcia@laposte
+599;CT00598;MIGRATED with warning;email: 'celine.francois@@gmail.com' is not a valid email address (loaded empty);CT00598;CL00482;FRANÇOIS;Céline;;06.29.61.51.20;celine.francois@@gmail.com
+615;CT00614;MIGRATED with warning;email: 'sandrine.chevalier@@gmail.com' is not a valid email address (loaded empty);CT00614;CL00499;CHEVALIER;Sandrine;;0780727903;sandrine.chevalier@@gmail.com
+627;CT00626;MIGRATED with warning;email: 'julien.guerin@@sfr.fr' is not a valid email address (loaded empty);CT00626;CL00507;GUÉRIN;Julien;;07 41 48 57 26;julien.guerin@@sfr.fr
+628;CT00627;MIGRATED with warning;mobile: Phone '07 86 27 28' is not a valid French number (loaded empty);CT00627;CL00508;NICOLAS;Thomas;;07 86 27 28;thomas.nicolas@free.fr
+630;CT00629;MIGRATED with warning;re-linked from duplicate CL00510 to surviving record CL00207;CT00629;CL00510;GARNIER;François;Assistante de direction;33638687906;francois.garnier@wanadoo.fr
+631;CT00630;MIGRATED with warning;re-linked from duplicate CL00510 to surviving record CL00207;CT00630;CL00510;BOYER;Julien;Assistante de direction;07 93 20 55 34;julien.boyer@sfr.fr
+632;CT00631;MIGRATED with warning;re-linked from duplicate CL00511 to surviving record CL00182;CT00631;CL00511;LEMAIRE;Chloé;Assistante de direction;0656707897;chloe.lemaire@orange.fr
+633;CT00632;MIGRATED with warning;re-linked from duplicate CL00511 to surviving record CL00182;CT00632;CL00511;BERTRAND;Isabelle;Assistante de direction;06.38.42.27.36;isabelle.bertrand@laposte.net
+634;CT00633;MIGRATED with warning;re-linked from duplicate CL00511 to surviving record CL00182;CT00633;CL00511;FONTAINE;Thomas;Gérante;06 27 11 17 57;thomas.fontaine@orange.fr
+635;CT00634;MIGRATED with warning;re-linked from duplicate CL00512 to surviving record CL00480;CT00634;CL00512;PETIT;François;Responsable technique;0698514486;francois.petit@orange.fr
+636;CT00635;MIGRATED with warning;re-linked from duplicate CL00512 to surviving record CL00480;CT00635;CL00512;MERCIER;Isabelle;Assistante de direction;06 14 26 47 10;
+637;CT00636;MIGRATED with warning;re-linked from duplicate CL00513 to surviving record CL00308;CT00636;CL00513;MARTINEZ;Émilie;Responsable des achats;0663705004;emilie.martinez@gmail.com
+638;CT00637;MIGRATED with warning;re-linked from duplicate CL00514 to surviving record CL00183;CT00637;CL00514;LEMAIRE;Émilie;Responsable technique;07 93 17 29 47;emilie.lemaire@orange.fr
+639;CT00638;MIGRATED with warning;re-linked from duplicate CL00514 to surviving record CL00183;CT00638;CL00514;MULLER;Jean;Assistante de direction;+33 6 65 40 25 99;jean.muller@sfr.fr
+640;CT00639;MIGRATED with warning;re-linked from duplicate CL00515 to surviving record CL00065;CT00639;CL00515;DUMONT;Chloé;Gérante;06 72 72 81 29;chloe.dumont@orange.fr
+641;CT00640;MIGRATED with warning;re-linked from duplicate CL00516 to surviving record CL00339;CT00640;CL00516;MATHIEU;Marie;Assistante de direction;07.75.60.20.80;marie.mathieu@free.fr
+642;CT00641;MIGRATED with warning;re-linked from duplicate CL00516 to surviving record CL00339;CT00641;CL00516;HENRY;Olivier;Gérante;0615439044;olivier.henry@orange.fr
+643;CT00642;MIGRATED with warning;re-linked from duplicate CL00517 to surviving record CL00250;CT00642;CL00517;GARCIA;Isabelle;Gérante;06 32 02 35 10;isabelle.garcia@orange.fr
+644;CT00643;MIGRATED with warning;re-linked from duplicate CL00517 to surviving record CL00250;CT00643;CL00517;MATHIEU;Manon;Gérant;07 39 33 32 43;manon.mathieu@free.fr
+645;CT00644;MIGRATED with warning;re-linked from duplicate CL00517 to surviving record CL00250;CT00644;CL00517;FRANÇOIS;Nicolas;Gérant;07 98 31 24 41;nicolas.francois@gmail.com
+646;CT00645;MIGRATED with warning;re-linked from duplicate CL00518 to surviving record CL00400;CT00645;CL00518;MASSON;Antoine;Responsable des achats;0601237631;antoine.masson@sfr.fr
+647;CT00646;MIGRATED with warning;re-linked from duplicate CL00518 to surviving record CL00400;CT00646;CL00518;MERCIER;Julien;Gérant;07 53 62 64 75;julien.mercier@orange.fr
+648;CT00647;MIGRATED with warning;re-linked from duplicate CL00519 to surviving record CL00256;CT00647;CL00519;BERTRAND;Hélène;Gérante;06.84.52.40.32;
+649;CT00648;MIGRATED with warning;re-linked from duplicate CL00519 to surviving record CL00256;CT00648;CL00519;DUMONT;Nathalie;Responsable technique;06.43.21.91.43;
+650;CT00649;MIGRATED with warning;re-linked from duplicate CL00520 to surviving record CL00246;CT00649;CL00520;FAURE;Hugo;Responsable technique;0792542218;hugo.faure@laposte.net
+651;CT00650;MIGRATED with warning;re-linked from duplicate CL00520 to surviving record CL00246;CT00650;CL00520;BERTRAND;Mathieu;Assistante de direction;0776933329;mathieu.bertrand@wanadoo.fr
+652;CT00651;MIGRATED with warning;re-linked from duplicate CL00521 to surviving record CL00442;CT00651;CL00521;PETIT;Camille;Gérante;07.78.46.40.85;camille.petit@sfr.fr
+653;CT00652;MIGRATED with warning;re-linked from duplicate CL00521 to surviving record CL00442;CT00652;CL00521;ANDRÉ;Sandrine;Responsable des achats;06 56 72 62 08;sandrine.andre@sfr.fr
+654;CT00653;REJECTED - needs your decision;accounts CL00522 was rejected, so this row cannot be attached to it;CT00653;CL00522;CLÉMENT;Hugo;;06 55 19 62 82;hugo.clement@orange.fr
+655;CT00654;REJECTED - needs your decision;accounts CL00523 was rejected, so this row cannot be attached to it;CT00654;CL00523;MARTIN;Rémi;;0762472863;remi.martin@gmail.com
+656;CT00655;REJECTED - needs your decision;accounts CL00524 was rejected, so this row cannot be attached to it;CT00655;CL00524;LAURENT;Mathieu;;0623414992;mathieu.laurent@gmail.com
+657;CT00656;REJECTED - needs your decision;accounts CL00377 does not exist in the accounts export;CT00656;CL00377;LEMAIRE;Yannick;Directrice;06 17 40 03 91;yannick.lemaire@laposte.net
+658;CT00657;REJECTED - needs your decision;accounts CL00495 does not exist in the accounts export;CT00657;CL00495;MERCIER;Rémi;Gérante;+33 6 24 71 19 36;remi.mercier@orange.fr
+659;CT00658;REJECTED - needs your decision;accounts CL00377 does not exist in the accounts export | mobile: Phone '06 56 46 16' is not a valid French number (loaded empty);CT00658;CL00377;BLANC;Nicolas;;06 56 46 16;nicolas.blanc@laposte.net
+660;CT00659;REJECTED - needs your decision;accounts CL00283 does not exist in the accounts export;CT00659;CL00283;LOPEZ;Inès;Gérant;06 95 37 23 46;ines.lopez@wanadoo.fr
+661;CT00660;REJECTED - needs your decision;accounts CL00092 does not exist in the accounts export;CT00660;CL00092;GAUTHIER;Sophie;;06 61 09 44 16;sophie.gauthier@orange.fr
+662;CT00661;REJECTED - needs your decision;accounts CL00056 does not exist in the accounts export;CT00661;CL00056;ROUX;Olivier;Comptable;;olivier.roux@free.fr
+663;CT00662;REJECTED - needs your decision;accounts CL00015 does not exist in the accounts export;CT00662;CL00015;DUMONT;Thomas;Gérante;0646175518;
+664;CT00663;REJECTED - needs your decision;accounts CL00055 does not exist in the accounts export;CT00663;CL00055;FAURE;Chloé;;06 42 02 48 37;chloe.faure@sfr.fr
+665;CT00664;REJECTED - needs your decision;accounts CL00049 does not exist in the accounts export;CT00664;CL00049;SIMON;Nathalie;;07 38 69 47 90;nathalie.simon@free.fr
+666;CT00665;REJECTED - needs your decision;accounts CL00490 does not exist in the accounts export;CT00665;CL00490;GARCIA;Hélène;Assistante de direction;06.47.23.86.41;helene.garcia@orange.fr
+667;CT00666;REJECTED - needs your decision;accounts CL00013 does not exist in the accounts export;CT00666;CL00013;GARCIA;Inès;;+33 7 74 21 64 35;ines.garcia@free.fr
+668;CT00667;REJECTED - needs your decision;accounts CL00015 does not exist in the accounts export;CT00667;CL00015;GARCIA;Karim;;07.43.70.66.18;karim.garcia@sfr.fr
+669;CT00668;REJECTED - needs your decision;accounts CL00245 does not exist in the accounts export;CT00668;CL00245;BERTRAND;François;;07 36 81 54 18;francois.bertrand@laposte.net
+670;CT00669;REJECTED - needs your decision;accounts CL00495 does not exist in the accounts export;CT00669;CL00495;THOMAS;Nicolas;Comptable;06 33 74 69 83;nicolas.thomas@laposte.net
+671;CT00670;REJECTED - needs your decision;accounts CL00428 does not exist in the accounts export;CT00670;CL00428;BERNARD;Olivier;;06.82.22.66.79;olivier.bernard@laposte.net

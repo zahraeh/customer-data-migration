@@ -1,0 +1,175 @@
+﻿Line in export;Legacy ID;Status;Issue(s);Réf contrat;N° client;Formule;Montant annuel HT;Date début;Date fin;Statut
+5;CTR-2018-0274;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2018-0274;CL00327;Contrat Sérénité;575,20;02/05/2018;01/05/2019;Résilié
+6;CTR-2025-0358;REJECTED - needs your decision;accounts CL00434 was rejected, so this row cannot be attached to it;CTR-2025-0358;CL00434;Contrat Sérénité;590;21/05/2025;20/05/26;Actif
+10;CTR-2025-0242;REJECTED - needs your decision;accounts CL00290 was rejected, so this row cannot be attached to it;CTR-2025-0242;CL00290;Entretien annuel chaudière;539,94;16/07/2025;15/07/26;Actif
+11;CTR-2022-0149;REJECTED - needs your decision;accounts CL00179 was rejected, so this row cannot be attached to it;CTR-2022-0149;CL00179;Contrat Sérénité;566,83;25/01/22;24/01/2023;Actif
+12;CTR-2025-0423;REJECTED - needs your decision;accounts CL00515 was rejected, so this row cannot be attached to it;CTR-2025-0423;CL00515;Contrat Sérénité+;2 778,86;07/01/2025;06/01/2026;Actif
+13;CTR-2020-0084;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2020-0084;CL00101;Contrat Sérénité;229,21;10/12/2020;09/12/2021;Résilié
+16;CTR-2021-0286;REJECTED - needs your decision;accounts CL00342 was rejected, so this row cannot be attached to it;CTR-2021-0286;CL00342;Entretien annuel chaudière;181,05 €;27/07/2021;26/07/2022;Actif
+17;CTR-2021-0221;REJECTED - needs your decision;accounts CL00266 was rejected, so this row cannot be attached to it;CTR-2021-0221;CL00266;Maintenance PAC;3 397,77;07/05/2021;06/05/2022;Actif
+20;CTR-2018-0403;REJECTED - needs your decision;accounts CL00492 was rejected, so this row cannot be attached to it;CTR-2018-0403;CL00492;Contrat Sérénité;460;12/04/2018;11/04/2019;Suspendu
+26;CTR-2020-0202;REJECTED - needs your decision;accounts CL00246 was rejected, so this row cannot be attached to it;CTR-2020-0202;CL00246;Maintenance multi-sites;2 892,49;03/01/2020;01/01/2021;Actif
+31;CTR-2026-0434;REJECTED - needs your decision;accounts CL00109 does not exist in the accounts export;CTR-2026-0434;CL00109;Maintenance multi-sites;2 315,58;23/10/2026;22/10/2027;Actif
+35;CTR-2023-0208;REJECTED - needs your decision;accounts CL00252 was rejected, so this row cannot be attached to it;CTR-2023-0208;CL00252;Entretien annuel chaudière;465,11 €;19/08/2023;17/08/24;Actif
+36;CTR-2026-0060;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2026-0060;CL00072;Contrat Sérénité;452,48;05/10/26;04/10/2027;Résilié
+37;CTR-2023-0155;REJECTED - needs your decision;accounts CL00187 was rejected, so this row cannot be attached to it;CTR-2023-0155;CL00187;Entretien annuel chaudière;364,79;10/12/23;08/12/2024;Actif
+47;CTR-2024-0143;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2024-0143;CL00172;Maintenance PAC;2.628;01/11/2024;31/10/2025;Résilié
+48;CTR-2021-0207;REJECTED - needs your decision;accounts CL00251 was rejected, so this row cannot be attached to it;CTR-2021-0207;CL00251;Maintenance PAC;3 798,51;12/08/21;11/08/2022;Actif
+49;CTR-2026-0166;REJECTED - needs your decision;accounts CL00202 was rejected, so this row cannot be attached to it;CTR-2026-0166;CL00202;Maintenance multi-sites;3 152,45;07/11/2026;06/11/27;Actif
+52;CTR-2018-0187;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2018-0187;CL00226;Maintenance PAC;900;18/09/2018;17/09/19;Résilié
+56;CTR-2022-0188;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2022-0188;CL00227;Maintenance multi-sites;4 690,91 €;15/07/2022;14/07/2023;Résilié
+57;CTR-2021-0010;REJECTED - needs your decision;accounts CL00011 was rejected, so this row cannot be attached to it;CTR-2021-0010;CL00011;Entretien annuel chaudière;462,80;10/04/2021;09/04/2022;Actif
+58;CTR-2024-0435;REJECTED - needs your decision;accounts CL00109 does not exist in the accounts export;CTR-2024-0435;CL00109;Maintenance multi-sites;5.400;19/10/2024;18/10/2025;Actif
+65;CTR-2025-0421;MIGRATED with warning;re-linked from duplicate CL00513 to surviving record CL00308;CTR-2025-0421;CL00513;Maintenance PAC;1.150;28/06/2025;27/06/2026;Actif
+66;CTR-2019-0085;REJECTED - needs your decision;accounts CL00102 was rejected, so this row cannot be attached to it;CTR-2019-0085;CL00102;Maintenance multi-sites;1 960,70;05/04/19;03/04/2020;Actif
+72;CTR-2023-0022;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2023-0022;CL00028;Contrat Sérénité;574,64;16/10/23;14/10/2024;Résilié
+76;CTR-2025-0145;REJECTED - needs your decision;accounts CL00175 was rejected, so this row cannot be attached to it;CTR-2025-0145;CL00175;Entretien annuel chaudière;520;04/08/2025;03/08/26;Actif
+77;CTR-2023-0265;REJECTED - needs your decision;accounts CL00316 was rejected, so this row cannot be attached to it;CTR-2023-0265;CL00316;Contrat Sérénité;260;30/08/2023;28/08/2024;Actif
+78;CTR-2023-0253;REJECTED - needs your decision;accounts CL00303 was rejected, so this row cannot be attached to it;CTR-2023-0253;CL00303;Contrat Sérénité+;6 108,37;23/05/23;21/05/2024;Actif
+79;CTR-2019-0390;REJECTED - needs your decision;accounts CL00473 was rejected, so this row cannot be attached to it;CTR-2019-0390;CL00473;Entretien annuel chaudière;428,01;24/11/2019;22/11/20;Actif
+81;CTR-2025-0294;REJECTED - needs your decision;accounts CL00350 was rejected, so this row cannot be attached to it;CTR-2025-0294;CL00350;Contrat Sérénité;230;06/03/25;05/03/2026;Actif
+82;CTR-2023-0142;REJECTED - needs your decision;accounts CL00171 was rejected, so this row cannot be attached to it;CTR-2023-0142;CL00171;Entretien annuel chaudière;360;18/06/2023;16/06/24;Résilié
+83;CTR-2019-0271;REJECTED - needs your decision;accounts CL00323 was rejected, so this row cannot be attached to it;CTR-2019-0271;CL00323;Maintenance multi-sites;1 891,19;09/08/19;07/08/2020;Actif
+85;CTR-2023-0070;REJECTED - needs your decision;accounts CL00083 was rejected, so this row cannot be attached to it;CTR-2023-0070;CL00083;Contrat Sérénité;148,32;03/04/2023;01/04/2024;Résilié
+90;CTR-2024-0072;REJECTED - needs your decision;accounts CL00085 was rejected, so this row cannot be attached to it;CTR-2024-0072;CL00085;Maintenance multi-sites;4 068,07;21/09/2024;20/09/2025;Actif
+91;CTR-2026-0371;REJECTED - needs your decision;accounts CL00448 was rejected, so this row cannot be attached to it;CTR-2026-0371;CL00448;Maintenance multi-sites;3 187,43;25/09/2026;24/09/27;Actif
+93;CTR-2021-0228;REJECTED - needs your decision;accounts CL00273 was rejected, so this row cannot be attached to it;CTR-2021-0228;CL00273;Entretien annuel chaudière;454,13;16/10/2021;15/10/2022;Actif
+94;CTR-2024-0414;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2024-0414;CL00506;Contrat Sérénité+;3 508,68 €;12/05/2024;11/05/2025;Résilié
+95;CTR-2026-0105;REJECTED - needs your decision;accounts CL00126 was rejected, so this row cannot be attached to it;CTR-2026-0105;CL00126;Contrat Sérénité;560;31/01/26;30/01/2027;Actif
+97;CTR-2022-0132;REJECTED - needs your decision;accounts CL00159 was rejected, so this row cannot be attached to it;CTR-2022-0132;CL00159;Entretien annuel chaudière;327,83;30/06/2022;29/06/2023;Actif
+98;CTR-2026-0262;REJECTED - needs your decision;start_date: Date '00/01/2022' is not a real calendar date (expected DD/MM/YYYY) | accounts CL00313 was rejected, so this row cannot be attached to it;CTR-2026-0262;CL00313;Contrat Sérénité+;3 625,94;00/01/2022;29/01/2027;Actif
+101;CTR-2024-0049;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2024-0049;CL00060;Maintenance PAC;6 429,27;16/12/2024;15/12/2025;Résilié
+102;CTR-2018-0041;REJECTED - needs your decision;accounts CL00047 was rejected, so this row cannot be attached to it;CTR-2018-0041;CL00047;Contrat Sérénité;310;20/07/2018;19/07/19;Suspendu
+103;CTR-2019-0306;REJECTED - needs your decision;accounts CL00364 was rejected, so this row cannot be attached to it;CTR-2019-0306;CL00364;Contrat Sérénité+;6 645,51;04/03/2019;02/03/20;Actif
+104;CTR-2020-0436;REJECTED - needs your decision;accounts CL00197 does not exist in the accounts export;CTR-2020-0436;CL00197;Contrat Sérénité+;5 058,13;05/03/20;04/03/2021;Actif
+108;CTR-2021-0217;REJECTED - needs your decision;accounts CL00262 was rejected, so this row cannot be attached to it;CTR-2021-0217;CL00262;Contrat Sérénité+;4 343,28;01/08/21;31/07/22;Actif
+110;CTR-2023-0307;REJECTED - needs your decision;accounts CL00365 was rejected, so this row cannot be attached to it;CTR-2023-0307;CL00365;Contrat Sérénité;410;13/04/23;11/04/2024;Actif
+115;CTR-2026-0015;REJECTED - needs your decision;accounts CL00020 was rejected, so this row cannot be attached to it;CTR-2026-0015;CL00020;Maintenance multi-sites;3.850;16/02/2026;15/02/2027;Actif
+120;CTR-2021-0189;REJECTED - needs your decision;accounts CL00228 was rejected, so this row cannot be attached to it;CTR-2021-0189;CL00228;Contrat Sérénité;454,27;25/01/2021;24/01/22;Actif
+122;CTR-2023-0086;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2023-0086;CL00103;Maintenance PAC;6 487,76;14/03/2023;12/03/2024;Résilié
+124;CTR-2018-0346;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2018-0346;CL00416;Maintenance multi-sites;1 017,10;20/06/2018;19/06/2019;Résilié
+129;CTR-2025-0175;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2025-0175;CL00214;Entretien annuel chaudière;561,23;13/11/2025;12/11/26;Résilié
+131;CTR-2025-0019;REJECTED - needs your decision;accounts CL00025 was rejected, so this row cannot be attached to it;CTR-2025-0019;CL00025;Maintenance PAC;6.450;27/01/25;26/01/2026;Actif
+133;CTR-2026-0419;MIGRATED with warning;re-linked from duplicate CL00511 to surviving record CL00182;CTR-2026-0419;CL00511;Contrat Sérénité+;2.350;17/02/2026;16/02/2027;Actif
+135;CTR-2022-0146;REJECTED - needs your decision;accounts CL00176 was rejected, so this row cannot be attached to it;CTR-2022-0146;CL00176;Entretien annuel chaudière;417,26;06/11/2022;05/11/23;Actif
+136;CTR-2019-0053;REJECTED - needs your decision;accounts CL00065 was rejected, so this row cannot be attached to it;CTR-2019-0053;CL00065;Maintenance multi-sites;2 191,95;09/05/19;07/05/2020;Actif
+137;CTR-2022-0334;REJECTED - needs your decision;accounts CL00400 was rejected, so this row cannot be attached to it;CTR-2022-0334;CL00400;Maintenance PAC;4 646,92;19/07/2022;18/07/2023;Actif
+140;CTR-2025-0241;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2025-0241;CL00289;Contrat Sérénité+;3 310,99;28/06/2025;27/06/26;Résilié
+141;CTR-2025-0281;REJECTED - needs your decision;accounts CL00336 was rejected, so this row cannot be attached to it;CTR-2025-0281;CL00336;Contrat Sérénité;463,14;30/05/2025;29/05/2026;Actif
+144;CTR-2023-0338;REJECTED - needs your decision;accounts CL00406 was rejected, so this row cannot be attached to it;CTR-2023-0338;CL00406;Maintenance multi-sites;5 065,47;14/12/2023;12/12/2024;Actif
+147;CTR-2023-0257;REJECTED - needs your decision;accounts CL00307 was rejected, so this row cannot be attached to it;CTR-2023-0257;CL00307;Contrat Sérénité;271,85;21/09/2023;19/09/2024;Actif
+150;CTR-2026-0430;REJECTED - needs your decision;accounts CL00522 was rejected, so this row cannot be attached to it;CTR-2026-0430;CL00522;Contrat Sérénité;490;01/02/2026;31/01/2027;Actif
+154;CTR-2018-0433;REJECTED - needs your decision;accounts CL00092 does not exist in the accounts export;CTR-2018-0433;CL00092;Contrat Sérénité+;5 704,67;23/08/2018;22/08/19;Actif
+159;CTR-2020-0385;REJECTED - needs your decision;accounts CL00468 was rejected, so this row cannot be attached to it;CTR-2020-0385;CL00468;Contrat Sérénité;370;11/08/2020;10/08/21;Actif
+160;CTR-2024-0201;REJECTED - needs your decision;accounts CL00242 was rejected, so this row cannot be attached to it;CTR-2024-0201;CL00242;Contrat Sérénité+;6.750;25/10/2024;24/10/2025;Suspendu
+161;CTR-2022-0216;REJECTED - needs your decision;accounts CL00261 was rejected, so this row cannot be attached to it;CTR-2022-0216;CL00261;Maintenance PAC;2 074,55 €;04/07/22;03/07/23;Actif
+163;CTR-2021-0057;REJECTED - needs your decision;accounts CL00069 was rejected, so this row cannot be attached to it;CTR-2021-0057;CL00069;Maintenance PAC;2 555,34;25/06/2021;24/06/22;Actif
+164;CTR-2019-0318;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2019-0318;CL00379;Contrat Sérénité;265,12;15/08/19;13/08/20;Résilié
+167;CTR-2025-0169;REJECTED - needs your decision;accounts CL00205 was rejected, so this row cannot be attached to it;CTR-2025-0169;CL00205;Contrat Sérénité;522,14;03/12/2025;02/12/26;Actif
+168;CTR-2026-0035;REJECTED - needs your decision;accounts CL00041 was rejected, so this row cannot be attached to it;CTR-2026-0035;CL00041;Maintenance multi-sites;3 276,13;12/09/26;11/09/2027;Actif
+172;CTR-2018-0270;REJECTED - needs your decision;accounts CL00322 was rejected, so this row cannot be attached to it;CTR-2018-0270;CL00322;Contrat Sérénité;225,67;01/02/18;31/01/2019;Actif
+175;CTR-2021-0197;REJECTED - needs your decision;accounts CL00237 was rejected, so this row cannot be attached to it;CTR-2021-0197;CL00237;Maintenance PAC;2 597,91;04/02/21;03/02/2022;Actif
+177;CTR-2025-0256;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2025-0256;CL00306;Contrat Sérénité;548,80;01/02/25;31/01/26;Résilié
+178;CTR-2024-0129;REJECTED - needs your decision;accounts CL00156 was rejected, so this row cannot be attached to it;CTR-2024-0129;CL00156;Contrat Sérénité;531,30;13/06/24;12/06/2025;Actif
+185;CTR-2023-0426;REJECTED - needs your decision;accounts CL00518 was rejected, so this row cannot be attached to it;CTR-2023-0426;CL00518;Maintenance PAC;5 128,89;03/05/2023;01/05/2024;Actif
+187;CTR-2022-0128;REJECTED - needs your decision;accounts CL00155 was rejected, so this row cannot be attached to it;CTR-2022-0128;CL00155;Contrat Sérénité;468,81;24/04/2022;23/04/2023;Actif
+191;CTR-2022-0154;REJECTED - needs your decision;accounts CL00185 was rejected, so this row cannot be attached to it;CTR-2022-0154;CL00185;Entretien annuel chaudière;280;09/07/2022;08/07/2023;Actif
+194;CTR-2022-0288;REJECTED - needs your decision;accounts CL00344 was rejected, so this row cannot be attached to it;CTR-2022-0288;CL00344;Maintenance PAC;3.586;18/06/2022;17/06/23;Actif
+198;CTR-2026-0298;REJECTED - needs your decision;accounts CL00356 was rejected, so this row cannot be attached to it;CTR-2026-0298;CL00356;Entretien annuel chaudière;220;06/06/2026;05/06/2027;Actif
+200;CTR-2023-0432;REJECTED - needs your decision;accounts CL00524 was rejected, so this row cannot be attached to it;CTR-2023-0432;CL00524;Contrat Sérénité;156,35 €;16/12/2023;14/12/2024;Actif
+201;CTR-2025-0108;REJECTED - needs your decision;accounts CL00130 was rejected, so this row cannot be attached to it;CTR-2025-0108;CL00130;Maintenance PAC;2 760,44;18/07/2025;17/07/26;Actif
+203;CTR-2022-0067;REJECTED - needs your decision;accounts CL00079 was rejected, so this row cannot be attached to it;CTR-2022-0067;CL00079;Maintenance multi-sites;4 922,73;03/03/2022;02/03/2023;Actif
+204;CTR-2022-0093;REJECTED - needs your decision;accounts CL00113 was rejected, so this row cannot be attached to it;CTR-2022-0093;CL00113;Entretien annuel chaudière;425,30 €;13/12/2022;12/12/2023;Actif
+207;CTR-2023-0328;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2023-0328;CL00390;Maintenance multi-sites;6 483,66;29/01/23;28/01/2024;Résilié
+208;CTR-2024-0301;REJECTED - needs your decision;accounts CL00359 was rejected, so this row cannot be attached to it;CTR-2024-0301;CL00359;Maintenance multi-sites;1 441,73;10/07/2024;09/07/2025;Actif
+210;CTR-2020-0225;REJECTED - needs your decision;accounts CL00270 was rejected, so this row cannot be attached to it;CTR-2020-0225;CL00270;Contrat Sérénité;314,93;31/12/2020;30/12/2021;Actif
+213;CTR-2018-0244;REJECTED - needs your decision;accounts CL00293 was rejected, so this row cannot be attached to it;CTR-2018-0244;CL00293;Contrat Sérénité+;2 469,44;30/11/2018;29/11/2019;Actif
+216;CTR-2026-0424;MIGRATED with warning;re-linked from duplicate CL00516 to surviving record CL00339;CTR-2026-0424;CL00516;Maintenance multi-sites;3 549,85 €;23/06/2026;22/06/27;Actif
+217;CTR-2021-0096;REJECTED - needs your decision;accounts CL00116 was rejected, so this row cannot be attached to it;CTR-2021-0096;CL00116;Contrat Sérénité;440;03/08/2021;02/08/2022;Actif
+220;CTR-2023-0392;REJECTED - needs your decision;accounts CL00475 was rejected, so this row cannot be attached to it;CTR-2023-0392;CL00475;Contrat Sérénité+;6 648,46 €;20/03/2023;18/03/2024;Actif
+221;CTR-2026-0056;REJECTED - needs your decision;accounts CL00068 was rejected, so this row cannot be attached to it;CTR-2026-0056;CL00068;Entretien annuel chaudière;371,55;06/02/2026;05/02/2027;Actif
+223;CTR-2020-0400;REJECTED - needs your decision;accounts CL00485 was rejected, so this row cannot be attached to it;CTR-2020-0400;CL00485;Contrat Sérénité+;1 974,74;13/01/2020;11/01/21;Actif
+224;CTR-2022-0405;REJECTED - needs your decision;accounts CL00494 was rejected, so this row cannot be attached to it;CTR-2022-0405;CL00494;Maintenance multi-sites;5 544,47;08/04/2022;07/04/23;Actif
+227;CTR-2020-0137;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2020-0137;CL00165;Entretien annuel chaudière;550,38;06/04/20;05/04/2021;Résilié
+230;CTR-2025-0231;REJECTED - needs your decision;start_date: Date '29/02/2023' is not a real calendar date (expected DD/MM/YYYY);CTR-2025-0231;CL00276;Maintenance multi-sites;2 777,69;29/02/2023;04/01/2026;Actif
+231;CTR-2019-0008;REJECTED - needs your decision;start_date: Date '31/02/2023' is not a real calendar date (expected DD/MM/YYYY);CTR-2019-0008;CL00009;Contrat Sérénité;455,79;31/02/2023;05/05/2020;Résilié
+235;CTR-2024-0292;REJECTED - needs your decision;accounts CL00348 was rejected, so this row cannot be attached to it;CTR-2024-0292;CL00348;Maintenance PAC;2.600;25/04/2024;24/04/25;Actif
+239;CTR-2026-0030;REJECTED - needs your decision;accounts CL00036 was rejected, so this row cannot be attached to it;CTR-2026-0030;CL00036;Maintenance PAC;6.700;15/07/26;14/07/2027;Actif
+241;CTR-2022-0003;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2022-0003;CL00004;Entretien annuel chaudière;281,03 €;26/06/2022;25/06/2023;Résilié
+246;CTR-2021-0026;REJECTED - needs your decision;accounts CL00032 was rejected, so this row cannot be attached to it;CTR-2021-0026;CL00032;Contrat Sérénité;432,58;28/08/2021;27/08/2022;Actif
+251;CTR-2025-0034;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2025-0034;CL00040;Maintenance PAC;6 794,42 €;27/12/25;26/12/2026;Résilié
+254;CTR-2026-0011;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2026-0011;CL00012;Contrat Sérénité+;2 649,80 €;25/08/2026;24/08/2027;Résilié
+256;CTR-2020-0048;REJECTED - needs your decision;accounts CL00059 was rejected, so this row cannot be attached to it;CTR-2020-0048;CL00059;Contrat Sérénité+;3 732,65;08/08/2020;07/08/2021;Actif
+258;CTR-2026-0220;REJECTED - needs your decision;accounts CL00265 was rejected, so this row cannot be attached to it;CTR-2026-0220;CL00265;Contrat Sérénité;514,41 €;22/03/2026;21/03/2027;Actif
+259;CTR-2022-0249;REJECTED - needs your decision;accounts CL00299 was rejected, so this row cannot be attached to it;CTR-2022-0249;CL00299;Contrat Sérénité+;4 088,53;05/09/2022;04/09/2023;Actif
+268;CTR-2021-0321;REJECTED - needs your decision;accounts CL00383 was rejected, so this row cannot be attached to it;CTR-2021-0321;CL00383;Entretien annuel chaudière;520;13/07/2021;12/07/2022;Actif
+271;CTR-2026-0211;REJECTED - needs your decision;accounts CL00255 was rejected, so this row cannot be attached to it;CTR-2026-0211;CL00255;Maintenance PAC;3 268,95 €;14/07/2026;13/07/2027;Actif
+274;CTR-2026-0199;REJECTED - needs your decision;accounts CL00239 was rejected, so this row cannot be attached to it;CTR-2026-0199;CL00239;Entretien annuel chaudière;168,98;06/06/2026;05/06/2027;Actif
+275;CTR-2025-0040;REJECTED - needs your decision;accounts CL00046 was rejected, so this row cannot be attached to it;CTR-2025-0040;CL00046;Maintenance PAC;1 964,38;18/12/2025;17/12/26;Résilié
+277;CTR-2022-0017;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2022-0017;CL00023;Contrat Sérénité;520;04/04/2022;03/04/2023;Résilié
+278;CTR-2026-0299;REJECTED - needs your decision;accounts CL00357 was rejected, so this row cannot be attached to it;CTR-2026-0299;CL00357;Contrat Sérénité;207,20 €;01/10/2026;30/09/2027;Actif
+279;CTR-2023-0302;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2023-0302;CL00360;Entretien annuel chaudière;305,18;10/07/2023;08/07/2024;Résilié
+280;CTR-2022-0186;REJECTED - needs your decision;accounts CL00225 was rejected, so this row cannot be attached to it;CTR-2022-0186;CL00225;Contrat Sérénité;176,13;01/01/2022;31/12/2022;Actif
+281;CTR-2019-0087;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2019-0087;CL00104;Entretien annuel chaudière;475,97;16/07/2019;14/07/2020;Résilié
+283;CTR-2025-0121;REJECTED - needs your decision;accounts CL00147 was rejected, so this row cannot be attached to it;CTR-2025-0121;CL00147;Maintenance multi-sites;5 750,10;16/11/2025;15/11/26;Actif
+290;CTR-2022-0295;REJECTED - needs your decision;accounts CL00352 was rejected, so this row cannot be attached to it;CTR-2022-0295;CL00352;Contrat Sérénité;536,67;18/11/22;17/11/2023;Actif
+292;CTR-2019-0193;REJECTED - needs your decision;accounts CL00232 was rejected, so this row cannot be attached to it;CTR-2019-0193;CL00232;Maintenance multi-sites;6 740,19 €;20/05/2019;18/05/2020;Actif
+293;CTR-2026-0144;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2026-0144;CL00173;Maintenance multi-sites;6 727,75;07/06/26;06/06/2027;Résilié
+296;CTR-2026-0052;REJECTED - needs your decision;accounts CL00063 was rejected, so this row cannot be attached to it;CTR-2026-0052;CL00063;Contrat Sérénité;330;20/03/26;19/03/27;Actif
+298;CTR-2020-0323;REJECTED - needs your decision;accounts CL00385 was rejected, so this row cannot be attached to it;CTR-2020-0323;CL00385;Maintenance multi-sites;5 251,19;05/01/2020;03/01/21;Actif
+304;CTR-2023-0343;REJECTED - needs your decision;accounts CL00413 was rejected, so this row cannot be attached to it;CTR-2023-0343;CL00413;Contrat Sérénité;543,75;10/03/2023;08/03/2024;Actif
+305;CTR-2018-0382;REJECTED - needs your decision;accounts CL00463 was rejected, so this row cannot be attached to it;CTR-2018-0382;CL00463;Contrat Sérénité;290;16/01/2018;15/01/2019;Actif
+310;CTR-2025-0218;REJECTED - needs your decision;accounts CL00263 was rejected, so this row cannot be attached to it;CTR-2025-0218;CL00263;Contrat Sérénité;159,91;09/06/2025;08/06/2026;Actif
+313;CTR-2018-0275;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2018-0275;CL00328;Maintenance PAC;4 655,36;01/02/2018;31/01/2019;Résilié
+318;CTR-2022-0420;MIGRATED with warning;re-linked from duplicate CL00512 to surviving record CL00480;CTR-2022-0420;CL00512;Maintenance PAC;3 591,28;01/07/2022;30/06/2023;Actif
+326;CTR-2018-0025;REJECTED - needs your decision;accounts CL00031 was rejected, so this row cannot be attached to it;CTR-2018-0025;CL00031;Maintenance multi-sites;1 892,62;21/08/18;20/08/2019;Résilié
+328;CTR-2023-0367;REJECTED - needs your decision;accounts CL00444 was rejected, so this row cannot be attached to it;CTR-2023-0367;CL00444;Contrat Sérénité;280;10/02/2023;09/02/2024;Actif
+333;CTR-2019-0088;REJECTED - needs your decision;accounts CL00105 was rejected, so this row cannot be attached to it;CTR-2019-0088;CL00105;Contrat Sérénité;392,04;25/05/2019;23/05/2020;Actif
+335;CTR-2022-0361;REJECTED - needs your decision;accounts CL00437 was rejected, so this row cannot be attached to it;CTR-2022-0361;CL00437;Maintenance multi-sites;2 008,89;27/03/22;26/03/2023;Actif
+341;CTR-2018-0285;REJECTED - needs your decision;accounts CL00340 was rejected, so this row cannot be attached to it;CTR-2018-0285;CL00340;Contrat Sérénité;288,53;01/10/18;30/09/2019;Actif
+342;CTR-2025-0254;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2025-0254;CL00304;Maintenance PAC;5 710,63;24/08/2025;23/08/2026;Résilié
+349;CTR-2019-0004;REJECTED - needs your decision;accounts CL00005 was rejected, so this row cannot be attached to it;CTR-2019-0004;CL00005;Entretien annuel chaudière;590;20/07/2019;18/07/2020;Actif
+351;CTR-2018-0006;REJECTED - needs your decision;accounts CL00007 was rejected, so this row cannot be attached to it;CTR-2018-0006;CL00007;Maintenance PAC;4 288,39 €;13/10/2018;12/10/19;Résilié
+356;CTR-2020-0029;REJECTED - needs your decision;accounts CL00035 was rejected, so this row cannot be attached to it;CTR-2020-0029;CL00035;Maintenance multi-sites;4 240,76;19/01/2020;17/01/21;Actif
+357;CTR-2019-0101;REJECTED - needs your decision;accounts CL00121 was rejected, so this row cannot be attached to it;CTR-2019-0101;CL00121;Contrat Sérénité;150,52;15/02/2019;14/02/2020;Actif
+359;CTR-2023-0042;REJECTED - needs your decision;accounts CL00050 was rejected, so this row cannot be attached to it;CTR-2023-0042;CL00050;Contrat Sérénité;483,76;03/12/2023;01/12/24;Actif
+360;CTR-2024-0391;REJECTED - needs your decision;accounts CL00474 was rejected, so this row cannot be attached to it;CTR-2024-0391;CL00474;Entretien annuel chaudière;510;18/07/24;17/07/2025;Actif
+362;CTR-2020-0178;REJECTED - needs your decision;accounts CL00217 was rejected, so this row cannot be attached to it;CTR-2020-0178;CL00217;Maintenance PAC;2 586,94;29/12/2020;28/12/21;Actif
+364;CTR-2026-0330;REJECTED - needs your decision;accounts CL00393 was rejected, so this row cannot be attached to it;CTR-2026-0330;CL00393;Contrat Sérénité;317,34 €;04/08/26;03/08/2027;Actif
+366;CTR-2023-0001;REJECTED - needs your decision;accounts CL00002 was rejected, so this row cannot be attached to it;CTR-2023-0001;CL00002;Maintenance PAC;3 839,17;08/09/2023;06/09/2024;Actif
+369;CTR-2025-0418;MIGRATED with warning;re-linked from duplicate CL00510 to surviving record CL00207;CTR-2025-0418;CL00510;Maintenance multi-sites;2 181,59;16/07/2025;15/07/26;Actif
+370;CTR-2024-0264;REJECTED - needs your decision;accounts CL00315 was rejected, so this row cannot be attached to it;CTR-2024-0264;CL00315;Contrat Sérénité;292,67;17/08/2024;16/08/25;Actif
+371;CTR-2018-0290;REJECTED - needs your decision;accounts CL00346 was rejected, so this row cannot be attached to it;CTR-2018-0290;CL00346;Contrat Sérénité;458,96;11/05/2018;10/05/2019;Actif
+372;CTR-2023-0071;REJECTED - needs your decision;accounts CL00084 was rejected, so this row cannot be attached to it;CTR-2023-0071;CL00084;Maintenance multi-sites;4 172,42;02/09/23;31/08/2024;Résilié
+374;CTR-2021-0014;REJECTED - needs your decision;accounts CL00019 was rejected, so this row cannot be attached to it;CTR-2021-0014;CL00019;Contrat Sérénité;505,09;12/02/2021;11/02/2022;Actif
+375;CTR-2021-0416;REJECTED - needs your decision;accounts CL00508 was rejected, so this row cannot be attached to it;CTR-2021-0416;CL00508;Entretien annuel chaudière;444,14;09/12/2021;08/12/2022;Actif
+376;CTR-2026-0427;MIGRATED with warning;re-linked from duplicate CL00519 to surviving record CL00256;CTR-2026-0427;CL00519;Maintenance PAC;2.450;13/06/2026;12/06/2027;Actif
+378;CTR-2026-0236;REJECTED - needs your decision;accounts CL00281 was rejected, so this row cannot be attached to it;CTR-2026-0236;CL00281;Contrat Sérénité+;2 479,52;03/09/2026;02/09/2027;Actif
+379;CTR-2022-0425;MIGRATED with warning;re-linked from duplicate CL00517 to surviving record CL00250;CTR-2022-0425;CL00517;Maintenance PAC;3 481,46 €;30/08/2022;29/08/23;Actif
+381;CTR-2019-0227;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2019-0227;CL00272;Maintenance PAC;5 475,86;15/10/2019;13/10/2020;Résilié
+382;CTR-2025-0422;MIGRATED with warning;re-linked from duplicate CL00514 to surviving record CL00183;CTR-2025-0422;CL00514;Maintenance PAC;2 886,22;04/08/2025;03/08/26;Actif
+384;CTR-2019-0291;REJECTED - needs your decision;accounts CL00347 was rejected, so this row cannot be attached to it;CTR-2019-0291;CL00347;Contrat Sérénité;281,21;19/03/2019;17/03/2020;Actif
+389;CTR-2024-0051;REJECTED - needs your decision;accounts CL00062 was rejected, so this row cannot be attached to it;CTR-2024-0051;CL00062;Contrat Sérénité;561,34;26/11/2024;25/11/2025;Actif
+390;CTR-2022-0431;REJECTED - needs your decision;accounts CL00523 was rejected, so this row cannot be attached to it;CTR-2022-0431;CL00523;Contrat Sérénité;501,53;12/09/2022;11/09/2023;Résilié
+391;CTR-2018-0080;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2018-0080;CL00097;Contrat Sérénité+;5 687,08;09/03/18;08/03/2019;Résilié
+394;CTR-2020-0251;REJECTED - needs your decision;accounts CL00301 was rejected, so this row cannot be attached to it;CTR-2020-0251;CL00301;Entretien annuel chaudière;280;05/12/20;04/12/21;Actif
+396;CTR-2025-0375;REJECTED - needs your decision;accounts CL00454 was rejected, so this row cannot be attached to it;CTR-2025-0375;CL00454;Maintenance multi-sites;6 730,69;26/03/2025;25/03/26;Actif
+398;CTR-2022-0381;REJECTED - needs your decision;accounts CL00461 was rejected, so this row cannot be attached to it;CTR-2022-0381;CL00461;Contrat Sérénité;523,73;24/10/2022;23/10/2023;Suspendu
+399;CTR-2018-0043;OUT OF SCOPE - not migrated;terminated contracts stay in the legacy archive (decision D-03);CTR-2018-0043;CL00052;Maintenance multi-sites;5 005,45;23/07/18;22/07/2019;Résilié
+404;CTR-2023-0058;REJECTED - needs your decision;accounts CL00070 was rejected, so this row cannot be attached to it;CTR-2023-0058;CL00070;Maintenance PAC;5 458,08;30/12/23;28/12/24;Actif
+406;CTR-2018-0083;REJECTED - needs your decision;accounts CL00100 was rejected, so this row cannot be attached to it;CTR-2018-0083;CL00100;Contrat Sérénité;213,37 €;29/06/18;28/06/2019;Actif
+407;CTR-2022-0110;REJECTED - needs your decision;accounts CL00132 was rejected, so this row cannot be attached to it;CTR-2022-0110;CL00132;Contrat Sérénité;280;31/05/22;30/05/2023;Actif
+408;CTR-2026-0232;REJECTED - needs your decision;accounts CL00277 was rejected, so this row cannot be attached to it;CTR-2026-0232;CL00277;Maintenance PAC;4 287,62;27/05/26;26/05/27;Actif
+409;CTR-2023-0033;REJECTED - needs your decision;accounts CL00039 was rejected, so this row cannot be attached to it;CTR-2023-0033;CL00039;Contrat Sérénité;297,88;21/09/2023;19/09/2024;Actif
+412;CTR-2021-0200;REJECTED - needs your decision;accounts CL00241 was rejected, so this row cannot be attached to it;CTR-2021-0200;CL00241;Contrat Sérénité;427,35;29/12/2021;28/12/2022;Actif
+414;CTR-2022-0310;REJECTED - needs your decision;accounts CL00368 was rejected, so this row cannot be attached to it;CTR-2022-0310;CL00368;Contrat Sérénité+;1 656,13;18/10/2022;17/10/2023;Actif
+418;CTR-2020-0429;MIGRATED with warning;re-linked from duplicate CL00521 to surviving record CL00442;CTR-2020-0429;CL00521;Maintenance multi-sites;6 501,43 €;20/08/2020;19/08/2021;Actif
+420;CTR-2021-0076;REJECTED - needs your decision;accounts CL00089 was rejected, so this row cannot be attached to it;CTR-2021-0076;CL00089;Maintenance PAC;2 612,78 €;21/01/2021;20/01/2022;Actif
+421;CTR-2019-0209;REJECTED - needs your decision;accounts CL00253 was rejected, so this row cannot be attached to it;CTR-2019-0209;CL00253;Entretien annuel chaudière;334,34 €;13/01/19;12/01/2020;Actif
+422;CTR-2019-0009;REJECTED - needs your decision;accounts CL00010 was rejected, so this row cannot be attached to it;CTR-2019-0009;CL00010;Contrat Sérénité;554,85;06/01/2019;05/01/2020;Actif
+423;CTR-2024-0165;REJECTED - needs your decision;accounts CL00201 was rejected, so this row cannot be attached to it;CTR-2024-0165;CL00201;Contrat Sérénité+;2 835,75;04/10/2024;03/10/25;Actif
+425;CTR-2019-0329;REJECTED - needs your decision;accounts CL00391 was rejected, so this row cannot be attached to it;CTR-2019-0329;CL00391;Maintenance multi-sites;4.450;02/10/2019;30/09/20;Actif
+428;CTR-2019-0428;REJECTED - needs your decision;accounts CL00520 was rejected, so this row cannot be attached to it;CTR-2019-0428;CL00520;Contrat Sérénité+;6 400,81;17/10/19;15/10/2020;Actif
+429;CTR-2018-0248;REJECTED - needs your decision;accounts CL00298 was rejected, so this row cannot be attached to it;CTR-2018-0248;CL00298;Maintenance PAC;6 340,07;14/07/18;13/07/2019;Suspendu
+431;CTR-2020-0341;REJECTED - needs your decision;accounts CL00409 was rejected, so this row cannot be attached to it;CTR-2020-0341;CL00409;Contrat Sérénité;283,19;08/06/20;07/06/21;Actif
+433;CTR-2021-0335;REJECTED - needs your decision;accounts CL00401 was rejected, so this row cannot be attached to it;CTR-2021-0335;CL00401;Maintenance PAC;4 416,39;17/03/2021;16/03/2022;Actif

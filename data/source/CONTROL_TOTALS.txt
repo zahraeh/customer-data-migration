@@ -1,0 +1,4 @@
+Provided by Maison Verte Services (ops lead), exported from the legacy tool's
+'CA contrats actifs' report on 18/09/2026, the same day as the CSV exports.
+
+Active + suspended contracts, total annual value excl. VAT: 701366.21 EUR

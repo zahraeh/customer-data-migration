@@ -1,0 +1,64 @@
+project: Maison Verte Services, legacy tool → new field-service platform
+version: v3
+notes: |
+  Dry run 3. Amounts now parsed with French number rules (amount_fr): the legacy
+  export writes whole-euro amounts ≥ 1,000 with a dot as thousands separator
+  ("2.400" = €2,400), which amount_naive read as €2.40. See docs/04-incident-control-total-gap.md.
+
+entities:
+  accounts:
+    source: data/source/clients.csv
+    key: "N° client"
+    fields:
+      name:       {source: "Raison sociale", transforms: [strip], required: true}
+      siret:      {source: "SIRET",          transforms: [siret]}
+      address:    {source: "Adresse",        transforms: [strip]}
+      postcode:   {source: "CP",             transforms: [postcode_fr], required: true}
+      city:       {source: "Ville",          transforms: [strip], required: true}
+      phone:      {source: "Tél",            transforms: [phone_fr]}
+      email:      {source: "Email",          transforms: [email]}
+      created_on: {source: "Date création",  transforms: [date_fr]}
+      owner:      {source: "Commercial",     transforms: [strip]}
+    dedupe:
+      strong_key: siret                # same legal entity: merge automatically (decision D-02)
+      review_keys: [name, postcode]    # households: flag only, customer confirms (decision D-02)
+
+  contacts:
+    source: data/source/contacts.csv
+    key: "N° contact"
+    parent: {entity: accounts, source: "N° client", field: account_external_id}
+    fields:
+      last_name:  {source: "Nom",          transforms: [strip], required: true}
+      first_name: {source: "Prénom",       transforms: [strip]}
+      job_title:  {source: "Fonction",     transforms: [strip]}
+      mobile:     {source: "Tél portable", transforms: [phone_fr]}
+      email:      {source: "E-mail",       transforms: [email]}
+
+  contracts:
+    source: data/source/contrats.csv
+    key: "Réf contrat"
+    parent: {entity: accounts, source: "N° client", field: account_external_id}
+    fields:
+      type:         {source: "Formule",           transforms: [strip], required: true}
+      annual_value: {source: "Montant annuel HT", transforms: [amount_fr], required: true}
+      start_date:   {source: "Date début",        transforms: [date_fr], required: true}
+      end_date:     {source: "Date fin",          transforms: [date_fr]}
+      status:
+        source: "Statut"
+        required: true
+        transforms:
+          - map: {"Actif": active, "Suspendu": suspended, "Résilié": terminated}
+    scope:
+      field: status
+      exclude: [terminated]
+      reason: terminated contracts stay in the legacy archive (decision D-03)
+
+control_totals:
+  - entity: contracts
+    sum_field: annual_value
+    expected: 701366.21
+    provided_by: "Maison Verte ops lead, legacy 'CA contrats actifs' report, 18/09/2026 (data/source/CONTROL_TOTALS.txt)"
+
+go_live:
+  max_reject_rate: 0.03          # agreed at kickoff (decision D-01)
+  control_totals_must_match: true

@@ -1,0 +1,486 @@
+N° client;Raison sociale;SIRET;Adresse;CP;Ville;Tél;Email;Date création;Commercial
+CL00002;Garage David;01338908386371;2 avenue des Écoles;1000;Bourg-en-Bresse;04 72 18 19 60;contact@garage-david.fr;03/03/18;Sophie Laurent
+CL00003;Cabinet comptable André;84959310341314;117 chemin Victor Hugo;69001;Lyon;04 78 07 81 61;contact@cabinet-comptable-andre.fr;19/01/20;Sophie Laurent
+CL00004;Nicolas Mathieu;;9 chemin du Stade;69400;Villefranche-sur-Saône;06 27 64 83 50;mathieu.nicolas@orange.fr;07/08/13;Élodie Garnier
+CL00005;Mathieu Émilie;;41 place Jean Jaurès;1600;Trévoux;07 53 28 71 01;emilie.mathieu@orange.fr;13/03/2023;Élodie Garnier
+CL00006;Durand Aurélie;;46 rue de la Gare;69100;Villeurbanne;0751462704;aurelie.durand@sfr.fr;04/04/2012;Élodie Garnier
+CL00007;Auto-école Guérin;54303911718222;141 avenue des Tilleuls;1100;Oyonnax;0437095701;contact@auto-ecole-guerin.fr;16/08/2015;Élodie Garnier
+CL00008;Boucherie Lambert;15098393010316;85 rue Jean Jaurès;69400;Villefranche-sur-Saône;04 78 78 71 33;contact@boucherie-lambert.fr;28/12/2018;Julien Petit
+CL00009;David Manon;;14 rue de la République;71000;Mâcon;07 31 16 56 67;manon.david@laposte.net;21/10/2024;Claire Moreau
+CL00010;Laurent Julien;;61 avenue du Stade;1100;Oyonnax;06 17 81 08 01;julien.laurent@laposte.net;23/01/2022;Claire Moreau
+CL00011;Sanchez Manon;;139 rue des Écoles;1000;Bourg-en-Bresse;07 68 72 34 30;manon.sanchez@laposte.net;03/10/2020;Élodie Garnier
+CL00012;Pharmacie Laurent;99091699854353;102 avenue des Écoles;69500;Bron;04.37.13.61.93;contact@pharmacie-laurent.fr;18/10/2013;Claire Moreau
+CL00016;Fromagerie Robert;54278498084125;28 avenue des Tilleuls;69500;Bron;04 72 84 25 13;contact@fromagerie-robert.fr;30/03/14;Sophie Laurent
+CL00017;Bertrand Noémie;;142 place Jean Jaurès;69400;Villefranche-sur-Saône;06 64 00 52 42;noemie.bertrand@gmail.com;2017-12-02;Julien Petit
+CL00018;François Nicolas;;105 avenue Victor Hugo;38200;Vienne;33750533158;nicolas.francois@gmail.com;23/01/2025;Julien Petit
+CL00019;Bonnet Manon;;118 chemin des Tilleuls;1000;Bourg-en-Bresse;33642160733;manon.bonnet@wanadoo.fr;14/06/19;Julien Petit
+CL00020;Restaurant Masson;42940196556986;148 avenue des Tilleuls;1500;Ambérieu-en-Bugey;04 78 86 85 01;contact@restaurant-masson.fr;22/07/2013;Élodie Garnier
+CL00021;Crèche Mercier;46564823662995;141 rue des Tilleuls;69500;Bron;04 74 59 51 48;contact@creche-mercier.fr;02/06/2016;Élodie Garnier
+CL00022;Michel Inès;;51 avenue de la République;1600;Trévoux;06 14 89 51;ines.michel@laposte.net;28/11/2021;Claire Moreau
+CL00023;Dumont Hélène;;143 avenue de la Gare;38200;Vienne;07 32 01 63 28;helene.dumont@laposte.net;28/11/24;Karim Benali
+CL00024;Robin Émilie;;134 place des Écoles;69500;Bron;07 87 27 74 34;emilie.robin@sfr.fr;09/05/2025;Sophie Laurent
+CL00025;Cabinet dentaire Richard;65876036690969;91 chemin de la Gare;1600;Trévoux;33472362316;contact@cabinet-dentaire-richard.fr;11/02/2024;Élodie Garnier
+CL00026;Salon de coiffure Garcia;62729806990163;119 avenue de la République;69100;Villeurbanne;04 72 46 70 65;contact@salon-de-coiffure-garcia.fr;12/07/2025;Karim Benali
+CL00027;Lemaire François;;64 avenue de la Gare;71000;Mâcon;06 70 80 53 10;francois.lemaire@free.fr;02/07/20;Julien Petit
+CL00028;Bertrand Rémi;;148 place du Stade;01000;Bourg-en-Bresse;06 99 12 41 90;remi.bertrand@free.fr;20/11/2016;Julien Petit
+CL00029;Sanchez Hugo;;28 place des Tilleuls;71000;Mâcon;07.86.51.85.06;hugo.sanchez@gmail.com;19/06/2025;Julien Petit
+CL00030;Auto-école Perrin;31473799650751;55 chemin de la Gare;71000;Mâcon;04 37 77 69 45;contact@auto-ecole-perrin.fr;21/01/2018;Élodie Garnier
+CL00031;Garage Blanc;77014363495788;109 chemin des Tilleuls;1500;Ambérieu-en-Bugey;04 74 36 78 37;contact@garage-blanc.fr;24/03/2012;Claire Moreau
+CL00032;Dumont Isabelle;;93 avenue des Tilleuls;1600;Trévoux;0674989413;isabelle.dumont@orange.fr;07/01/2024;Claire Moreau
+CL00033;Robin Karim;;145 chemin de la République;69400;Villefranche-sur-Saône;07 71 16 71;karim.robin@gmail.com;2014-10-31;Karim Benali
+CL00034;Dupont Émilie;;54 avenue des Tilleuls;71000;Mâcon;07.96.49.90.91;emilie.dupont@laposte.net;22/01/17;Julien Petit
+CL00035;Librairie Martinez;71349361832426;43 chemin Jean Jaurès;1100;Oyonnax;0437740344;contact@librairie-martinez.fr;28/02/2021;Claire Moreau
+CL00036;Fromagerie Roux;59401399049022;167 place des Tilleuls;1600;Trévoux;0437771906;contact@fromagerie-roux.fr;10/01/2021;Karim Benali
+CL00037;Clément Sophie;;83 rue de la Gare;69003;Lyon;07 67 46 80 71;sophie.clement@orange.fr;27/02/2021;Claire Moreau
+CL00038;Blanc Camille;;125 rue de la République;69100;Villeurbanne;07 70 34 82;camille.blanc@sfr.fr;08/04/2021;Julien Petit
+CL00039;Richard Nathalie;;35 rue des Tilleuls;1600;Trévoux;+33 7 37 82 63 98;nathalie.richard@gmail.com;22/04/2012;Élodie Garnier
+CL00040;Cabinet comptable Lemaire;58867533963602;122 place du Stade;01000;Bourg-en-Bresse;+33 4 37 72 78 75;contact@cabinet-comptable-lemaire.fr;11/09/2018;Julien Petit
+CL00041;Hôtel Roussel;62174596158657;125 rue Jean Jaurès;1000;Bourg-en-Bresse;04.74.71.87.02;contact@hotel-roussel.fr;07/04/2023;Julien Petit
+CL00042;Lopez Noémie;;157 place Jean Jaurès;69003;Lyon;07.62.38.69.22;noemie.lopez@gmail.com;17/03/2014;Élodie Garnier
+CL00043;Clément Jean;;117 chemin Victor Hugo;69003;Lyon;07 82 17 59;jean.clement@laposte.net;11/09/2017;Claire Moreau
+CL00044;Dumont Céline;;91 avenue des Écoles;69100;Villeurbanne;07 40 90 97 43;celine.dumont@gmail.com;21/11/2024;Julien Petit
+CL00045;Auto-école Fournier;56232858842471;76 chemin de la Gare;69500;Bron;03 85 09 52 14;contact@auto-ecole-fournier.fr;18/11/2012;Julien Petit
+CL00046;Fromagerie Boyer;75496513709857;57 rue des Écoles;1300;Belley;33478160481;contact@fromagerie-boyer.fr;29/11/2020;Karim Benali
+CL00047;Faure Sophie;;40 place des Écoles;1000;Bourg-en-Bresse;0682675869;sophie.faure@gmail.com;31/10/2012;Sophie Laurent
+CL00050;Mercier Sophie;;55 rue de la République;1300;Belley;07 85 06 43 17;sophie.mercier@wanadoo.fr;21/12/21;Élodie Garnier
+CL00051;Michel Olivier;;14 avenue des Écoles;38200;Vienne;06 10 20 53 95;olivier.michel@orange;2024-06-06;Claire Moreau
+CL00052;Pharmacie Roussel;70076617711598;33 chemin Jean Jaurès;71000;Mâcon;03.85.83.90.84;contact@pharmacie-roussel.fr;06/07/2023;Sophie Laurent
+CL00053;Fromagerie Legrand;73657661565456;176 place de la République;69100;Villeurbanne;04 37 61 18 36;contact@fromagerie-legrand.fr;2018-08-12;Karim Benali
+CL00054;Roussel Léa;;160 rue Jean Jaurès;71000;Mâcon;;lea.roussel@sfr.fr;01/12/2014;Sophie Laurent
+CL00057;André Jean;;14 avenue Victor Hugo;69400;Villefranche-sur-Saône;07.67.52.54.59;jean.andre@orange.fr;2018-12-06;Claire Moreau
+CL00058;Bonnet Julien;;102 rue de la République;69400;Villefranche-sur-Saône;06 56 14 97 84;julien.bonnet@orange.fr;22/11/2022;Julien Petit
+CL00059;Salon de coiffure Martin;85160607159696;164 place des Tilleuls;1500;Ambérieu-en-Bugey;03 85 22 68 38;contact@salon-de-coiffure-martin.fr;09/09/2014;Élodie Garnier
+CL00060;Crèche Richard;64535218188355;166 avenue Victor Hugo;69400;Villefranche-sur-Saône;04 74 36 96 81;contact@creche-richard.fr;12/02/2020;Julien Petit
+CL00061;Masson Mathieu;;121 place des Écoles;71000;Mâcon;07 99 79 95 52;mathieu.masson@laposte.net;09/09/2013;Claire Moreau
+CL00062;Thomas Camille;;11 place de la Gare;1000;Bourg-en-Bresse;06 19 98 67 98;camille.thomas@free.fr;10/05/2022;Élodie Garnier
+CL00063;Lemaire Antoine;;94 chemin des Tilleuls;1000;Bourg-en-Bresse;06.82.03.77.88;antoine.lemaire@wanadoo.fr;27/04/2014;Claire Moreau
+CL00064;Pharmacie Girard;19254629148653;172 rue des Écoles;69400;Villefranche-sur-Saône;04.37.64.49.25;contact@pharmacie-girard.fr;23/06/2013;Claire Moreau
+CL00065;Auto-école Girard;18880592962224;160 avenue des Écoles;1100;Oyonnax;03 85 33 22 14;contact@auto-ecole-girard.fr;20/10/2016;Julien Petit
+CL00066;David Céline;;42 avenue de la Gare;69100;Villeurbanne;0659774688;celine.david@laposte.net;25/01/2022;Claire Moreau
+CL00067;Lopez Noémie;;57 place des Tilleuls;38200;Vienne;;noemie.lopez@sfr.fr;08/06/2024;Karim Benali
+CL00068;Bernard Antoine;;74 avenue des Tilleuls;1300;Belley;06 10 43 28 98;antoine.bernard@gmail.com;30/10/2013;Élodie Garnier
+CL00069;Fromagerie Nicolas;09539621851888;130 rue du Stade;1000;Bourg-en-Bresse;04 74 89 32 46;contact@fromagerie-nicolas.fr;18/03/2023;Sophie Laurent
+CL00070;Garage André;52772217043034;81 chemin Jean Jaurès;1000;Bourg-en-Bresse;+33 4 74 95 20 58;contact@garage-andre.fr;07/07/2013;Claire Moreau
+CL00071;Thomas Noémie;;128 place des Tilleuls;01100;Oyonnax;0741566765;noemie.thomas@wanadoo.fr;03/01/2020;Karim Benali
+CL00072;Morel Sophie;;91 place des Tilleuls;69100;Villeurbanne;07.44.79.62.75;sophie.morel@gmail.com;18/01/2016;Claire Moreau
+CL00073;Chevalier Aurélie;;146 rue Jean Jaurès;69400;Villefranche-sur-Saône;06 29 70 21 35;aurelie.chevalier@orange.fr;24/02/2020;Sophie Laurent
+CL00074;Fromagerie Leroy;27868144739470;35 rue du Stade;71000;Mâcon;04 78 65 43 10;contact@fromagerie-leroy.fr;14/11/2024;Claire Moreau
+CL00075;Hôtel Clément;58313237058951;142 avenue Jean Jaurès;69500;Bron;33474884422;contact@hotel-clement.fr;2019-03-03;Karim Benali
+CL00076;Bonnet Olivier;;142 avenue de la Gare;69400;Villefranche-sur-Saône;;olivier.bonnet@sfr.fr;16/10/2023;Claire Moreau
+CL00077;Morel Yannick;;158 rue Jean Jaurès;69003;Lyon;07.84.14.38.42;yannick.morel@orange.fr;27/10/2018;Élodie Garnier
+CL00078;Henry Marie;;161 chemin des Écoles;69400;Villefranche-sur-Saône;;marie.henry@gmail.com;28/07/2025;Karim Benali
+CL00079;Salon de coiffure Simon;55562588153711;64 avenue de la République;1000;Bourg-en-Bresse;;contact@salon-de-coiffure-simon.fr;05/05/2013;Karim Benali
+CL00080;Hôtel Denis;74701687339501;127 place des Tilleuls;38200;Vienne;0437532787;contact@hotel-denis.fr;01/08/2015;Karim Benali
+CL00081;Mercier Marie;;141 chemin de la Gare;01500;Ambérieu-en-Bugey;06.98.35.84.16;marie.mercier@laposte.net;2020-03-15;Claire Moreau
+CL00082;Mercier Rémi;;122 place Victor Hugo;71000;Mâcon;0698680002;remi.mercier@orange.fr;09/08/2019;Sophie Laurent
+CL00083;Chevalier Olivier;;173 rue du Stade;1600;Trévoux;+33 7 88 87 94 70;olivier.chevalier@free.fr;24/10/2020;Claire Moreau
+CL00084;Garage Henry;23091307562639;157 place de la Gare;1500;Ambérieu-en-Bugey;04.74.97.28.96;contact@garage-henry.fr;21/12/2024;Élodie Garnier
+CL00085;Crèche Blanc;49733484344378;90 chemin des Tilleuls;1600;Trévoux;04.78.27.85.85;contact@creche-blanc.fr;23/09/2022;Karim Benali
+CL00086;Vincent Yannick;;36 rue Jean Jaurès;69500;Bron;07.74.73.38.48;yannick.vincent@gmail.com;14/04/15;Claire Moreau
+CL00087;Bonnet Antoine;;10 avenue du Stade;69100;Villeurbanne;33645401938;antoine.bonnet@wanadoo.fr;22/03/17;Claire Moreau
+CL00088;Chevalier Noémie;;140 place Victor Hugo;69001;Lyon;+33 6 04 99 15 47;noemie.chevalier@free.fr;10/02/2023;Julien Petit
+CL00089;Restaurant Mathieu;96685161227536;61 place de la Gare;1600;Trévoux;04 72 05 49 32;contact@restaurant-mathieu;17/04/2022;Élodie Garnier
+CL00093;Boucherie Thomas;14593327279566;121 avenue de la Gare;69001;Lyon;04 74 74 26 84;contact@boucherie-thomas.fr;19/04/2017;Claire Moreau
+CL00094;Henry Sophie;;150 place de la République;69100;Villeurbanne;33698225871;sophie.henry@gmail.com;11/02/2020;Claire Moreau
+CL00095;Muller Émilie;;35 place des Tilleuls;69003;Lyon;07 51 80 17;emilie.muller@wanadoo.fr;31/03/2022;Karim Benali
+CL00096;André Sophie;;98 avenue Victor Hugo;69400;Villefranche-sur-Saône;0782300478;sophie.andre@orange.fr;04/02/24;Julien Petit
+CL00097;Auto-école Dubois;90790306738300;75 avenue de la Gare;71000;Mâcon;;contact@auto-ecole-dubois.fr;13/07/2014;Élodie Garnier
+CL00098;Restaurant David;89268705685664;97 avenue de la Gare;69400;Villefranche-sur-Saône;0472836440;contact@restaurant-david.fr;11/03/19;Julien Petit
+CL00099;Muller François;;49 rue des Tilleuls;69400;Villefranche-sur-Saône;06 63 43 51 75;francois.muller@laposte.net;21/05/2022;Claire Moreau
+CL00100;Muller Thomas;;53 place Victor Hugo;1100;Oyonnax;06.54.03.31.73;thomas.muller@laposte.net;06/03/2025;Élodie Garnier
+CL00101;Faure Émilie;;5 chemin Jean Jaurès;01600;Trévoux;0753556093;emilie.faure@gmail.com;25/01/2020;Julien Petit
+CL00102;Garage Lemaire;25228728080100;106 avenue de la Gare;1300;Belley;03 85 85 47 77;contact@garage-lemaire.fr;11/10/24;Julien Petit
+CL00103;Boucherie Morin;60084840862115;62 avenue Jean Jaurès;69001;Lyon;0437770088;contact@boucherie-morin.fr;09/11/2025;Sophie Laurent
+CL00104;David Yannick;;11 avenue Victor Hugo;01000;Bourg-en-Bresse;06.02.17.65.91;yannick.david@orange.fr;08/02/2021;Sophie Laurent
+CL00105;Henry Aurélie;;62 place des Écoles;1000;Bourg-en-Bresse;06 50 39 26 14;aurelie.henry@gmail.com;15/04/2018;Julien Petit
+CL00106;André Marie;;116 place Victor Hugo;69400;Villefranche-sur-Saône;07 31 59 99 65;marie.andre@gmail;04/10/2013;Karim Benali
+CL00107;Auto-école Richard;62655110475411;48 place du Stade;69100;Villeurbanne;0437431142;contact@auto-ecole-richard.fr;10/07/2020;Claire Moreau
+CL00110;Auto-école Nicolas;83982622444726;112 chemin du Stade;69100;Villeurbanne;04 78 60 46 61;contact@auto-ecole-nicolas.fr;22/05/2025;Sophie Laurent
+CL00111;Lefèvre Émilie;;167 avenue des Tilleuls;1500;Ambérieu-en-Bugey;;emilie.lefevre@gmail.com;13/02/23;Sophie Laurent
+CL00112;Dumont Mathieu;;140 avenue des Écoles;69001;Lyon;06.56.46.51.93;mathieu.dumont@laposte.net;2019-02-27;Karim Benali
+CL00113;Robert Olivier;;93 rue de la République;1300;Belley;07.97.96.88.68;olivier.robert@laposte.net;14/07/2018;Élodie Garnier
+CL00114;Hôtel Robin;88993756798253;124 rue des Tilleuls;69500;Bron;03 85 10 14 38;contact@hotel-robin.fr;17/12/2020;Claire Moreau
+CL00115;Hôtel Fournier;77514010512380;41 chemin Jean Jaurès;71000;Mâcon;03 85 38 75 71;contact@hotel-fournier.fr;24/10/2019;Karim Benali
+CL00116;Chevalier Chloé;;138 avenue des Tilleuls;1100;Oyonnax;0796603341;chloe.chevalier@orange.fr;10/09/2021;Karim Benali
+CL00117;Lambert Hugo;;81 rue Victor Hugo;69400;Villefranche-sur-Saône;07 57 92 49 91;hugo.lambert@gmail.com;22/05/25;Julien Petit
+CL00118;François Isabelle;;92 rue du Stade;69001;Lyon;06 82 74 22 57;isabelle.francois@laposte.net;03/02/2015;Élodie Garnier
+CL00119;Librairie Bonnet;40438427978816;69 chemin Jean Jaurès;69003;Lyon;+33 3 85 72 19 03;contact@librairie-bonnet.fr;2023-01-11;Karim Benali
+CL00120;Boucherie Chevalier;71339596292330;146 chemin Jean Jaurès;69500;Bron;04 72 40 74 51;contact@boucherie-chevalier.fr;18/04/2014;Sophie Laurent
+CL00121;Rousseau Aurélie;;174 place du Stade;1500;Ambérieu-en-Bugey;06.60.42.23.25;aurelie.rousseau@gmail.com;04/11/2024;Karim Benali
+CL00122;Chevalier Julien;;137 place Victor Hugo;69400;Villefranche-sur-Saône;;julien.chevalier@wanadoo.fr;01/02/2014;Karim Benali
+CL00123;Leroy Hugo;;24 rue de la République;38200;Vienne;07 41 52 06 43;hugo.leroy@laposte.net;2019-07-29;Élodie Garnier
+CL00124;Librairie Martin;61115542622180;157 avenue du Stade;69400;Villefranche-sur-Saône;04 78 16 27 13;contact@librairie-martin.fr;17/03/12;Julien Petit
+CL00125;Pharmacie Michel;52341389994042;156 avenue des Écoles;69100;Villeurbanne;04 74 21 96 56;contact@pharmacie-michel.fr;03/12/2021;Julien Petit
+CL00126;Robert Inès;;19 rue Jean Jaurès;1000;Bourg-en-Bresse;07 52 69 65 82;ines.robert@gmail.com;2023-03-16;Claire Moreau
+CL00127;Rousseau Rémi;;131 avenue de la Gare;69001;Lyon;07 61 88 92 41;remi.rousseau@laposte.net;04/06/2018;Élodie Garnier
+CL00128;François Sandrine;;169 avenue de la République;38200;Vienne;06 31 61 79 90;sandrine.francois@orange.fr;25/06/13;Claire Moreau
+CL00129;Auto-école Blanc;56481491778507;146 avenue des Tilleuls;69500;Bron;04 78 25 24 10;contact@auto-ecole-blanc.fr;24/09/2023;Élodie Garnier
+CL00130;Boulangerie Martin;20863536541953;173 rue Victor Hugo;1000;Bourg-en-Bresse;0474307562;contact@boulangerie-martin.fr;2023-05-31;Karim Benali
+CL00131;Fournier Antoine;;7 avenue Jean Jaurès;69003;Lyon;07 59 73 83 20;antoine.fournier@gmail.com;01/05/2018;Claire Moreau
+CL00132;Fontaine Céline;;60 place des Écoles;1000;Bourg-en-Bresse;0683670241;celine.fontaine@gmail.com;09/06/2020;Élodie Garnier
+CL00133;Henry Marie;;20 avenue Victor Hugo;1000;Bourg-en-Bresse;0634456557;marie.henry@laposte.net;04/11/20;Julien Petit
+CL00134;Hôtel Guérin;24903521356805;67 avenue de la République;01600;Trévoux;+33 4 72 74 74 11;contact@hotel-guerin.fr;16/09/2014;Élodie Garnier
+CL00135;Boulangerie Durand;99410137215102;13 avenue Jean Jaurès;69003;Lyon;04 74 32 36 51;contact@boulangerie-durand.fr;19/02/2015;Karim Benali
+CL00139;Laurent Julien;;135 avenue des Écoles;69003;Lyon;07 87 01 46;julien.laurent@free.fr;09/12/2019;Claire Moreau
+CL00140;Sanchez Karim;;72 rue de la Gare;71000;Mâcon;07 64 20 59;karim.sanchez@free.fr;20/01/2020;Élodie Garnier
+CL00141;David Julien;;127 chemin Victor Hugo;69500;Bron;0759059929;julien.david@sfr.fr;2014-03-31;Julien Petit
+CL00142;Hôtel Martin;02921851569157;35 avenue des Écoles;01000;Bourg-en-Bresse;+33 4 37 32 52 50;contact@hotel-martin.fr;20/09/2022;Sophie Laurent
+CL00143;Hôtel Sanchez;20969029593912;37 chemin des Écoles;69500;Bron;04 72 92 64 42;contact@hotel-sanchez.fr;06/10/2025;Sophie Laurent
+CL00144;Clément Mathieu;;1 rue du Stade;38200;Vienne;07 70 43 31 54;mathieu.clement@wanadoo.fr;27/12/2013;Julien Petit
+CL00145;Dupont Sophie;;19 chemin Victor Hugo;69003;Lyon;33627104054;sophie.dupont@laposte.net;29/06/20;Claire Moreau
+CL00146;Perrin Karim;;49 place des Écoles;38200;Vienne;0662962015;karim.perrin@wanadoo.fr;01/02/2014;Élodie Garnier
+CL00147;Boulangerie Petit;06149731032412;30 chemin de la Gare;1500;Ambérieu-en-Bugey;0385987205;contact@boulangerie-petit.fr;29/04/2017;Claire Moreau
+CL00148;Hôtel Dupont;34902115869387;100 place Jean Jaurès;69001;Lyon;04.72.70.47.74;contact@hotel-dupont.fr;27/04/2020;Élodie Garnier
+CL00149;Lopez Marie;;175 place Victor Hugo;69003;Lyon;06 17 22 33;marie.lopez@sfr.fr;08/10/2013;Élodie Garnier
+CL00150;Muller Hélène;;39 avenue Jean Jaurès;69500;Bron;0748709986;helene.muller@sfr.fr;02/07/2013;Claire Moreau
+CL00151;Guérin Camille;;159 place de la République;69100;Villeurbanne;07 67 99 70 24;camille.guerin@laposte.net;07/04/2014;Julien Petit
+CL00152;Boulangerie Mercier;24754691373678;96 rue Jean Jaurès;69003;Lyon;+33 4 78 44 47 13;contact@boulangerie-mercier.fr;2018-01-09;Élodie Garnier
+CL00153;Boulangerie Henry;05345786103576;46 place Jean Jaurès;71000;Mâcon;0472330307;contact@boulangerie-henry.fr;04/10/2023;Sophie Laurent
+CL00154;Thomas Isabelle;;34 avenue Jean Jaurès;69400;Villefranche-sur-Saône;+33 6 33 34 68 00;isabelle.thomas@sfr.fr;24/05/18;Élodie Garnier
+CL00155;Dupont Noémie;;131 chemin Jean Jaurès;1600;Trévoux;0743748969;noemie.dupont@free.fr;05/03/2018;Claire Moreau
+CL00156;Roux Julien;;7 place des Tilleuls;1600;Trévoux;07 32 83 09 65;julien.roux@wanadoo.fr;14/03/2018;Claire Moreau
+CL00157;Librairie Girard;82417248251354;79 place de la Gare;69500;Bron;33472875842;contact@librairie-girard.fr;04/04/2016;Élodie Garnier
+CL00158;Boucherie Thomas;16846022356974;47 rue du Stade;38200;Vienne;04 37 99 17 38;contact@boucherie-thomas.fr;21/07/2022;Sophie Laurent
+CL00159;Masson Isabelle;;99 rue de la République;1000;Bourg-en-Bresse;06.71.29.66.66;isabelle.masson@sfr.fr;18/02/2018;Sophie Laurent
+CL00160;Morin Sandrine;;12 chemin des Tilleuls;69100;Villeurbanne;0654216894;sandrine.morin@orange.fr;26/05/2012;Élodie Garnier
+CL00161;Faure Camille;;32 chemin des Écoles;38200;Vienne;06.60.33.23.09;camille.faure@orange.fr;2015-01-01;Sophie Laurent
+CL00162;Boucherie Thomas;18472304618490;36 place de la Gare;69400;Villefranche-sur-Saône;33474001676;contact@boucherie-thomas.fr;27/04/2025;Élodie Garnier
+CL00163;Garage Faure;42087375300115;172 place Victor Hugo;01000;Bourg-en-Bresse;04.37.34.83.56;contact@garage-faure.fr;2014-05-20;Claire Moreau
+CL00164;Vincent Julien;;12 rue de la Gare;69400;Villefranche-sur-Saône;06 12 04 55 61;julien.vincent@laposte.net;30/03/2022;Sophie Laurent
+CL00165;Fontaine Pierre;;34 place du Stade;69003;Lyon;07 97 29 65 90;pierre.fontaine@free.fr;11/12/2025;Claire Moreau
+CL00166;Gauthier Inès;;174 place Victor Hugo;69400;Villefranche-sur-Saône;+33 6 58 89 16 37;ines.gauthier@wanadoo.fr;11/04/2012;Élodie Garnier
+CL00167;Salon de coiffure Rousseau;40838663177975;128 place des Tilleuls;69400;Villefranche-sur-Saône;03 85 21 75 35;contact@salon-de-coiffure-rousseau.fr;09/07/2015;Claire Moreau
+CL00168;Boulangerie Muller;75503758997574;169 avenue de la République;69001;Lyon;04 74 99 48 83;contact@boulangerie-muller.fr;30/06/2024;Sophie Laurent
+CL00169;Simon Karim;;151 avenue du Stade;69001;Lyon;07 35 16 09 17;karim.simon@orange.fr;20/05/2014;Élodie Garnier
+CL00170;Masson Isabelle;;156 avenue des Tilleuls;38200;Vienne;06 21 69 95 86;isabelle.masson@wanadoo.fr;31/10/2022;Sophie Laurent
+CL00171;Chevalier Inès;;167 avenue Jean Jaurès;1000;Bourg-en-Bresse;07.83.33.94.52;ines.chevalier@free.fr;04/04/2021;Sophie Laurent
+CL00172;Librairie Gauthier;62003424420437;9 chemin de la Gare;69100;Villeurbanne;0437460810;contact@librairie-gauthier.fr;12/05/2021;Élodie Garnier
+CL00173;Garage Dupont;80043973598934;50 chemin du Stade;71000;Mâcon;04 37 40 66 65;contact@garage-dupont.fr;02/08/2024;Julien Petit
+CL00174;François Julien;;19 chemin Jean Jaurès;71000;Mâcon;06 25 90 94 79;julien.francois@sfr.fr;04/09/14;Claire Moreau
+CL00175;Richard Camille;;167 rue de la République;1100;Oyonnax;06 55 54 39 87;camille.richard@orange.fr;06/03/2024;Élodie Garnier
+CL00176;Morel Hélène;;12 chemin des Écoles;1500;Ambérieu-en-Bugey;0748408588;helene.morel@gmail.com;22/11/2012;Julien Petit
+CL00177;Boucherie Martin;61207501102484;59 chemin du Stade;71000;Mâcon;04 74 33 61 38;contact@boucherie-martin.fr;17/12/2023;Karim Benali
+CL00178;Boulangerie Guérin;14491476607283;101 chemin des Écoles;69001;Lyon;04 37 19 01 58;contact@boulangerie-guerin.fr;27/08/2014;Sophie Laurent
+CL00179;Dubois Jean;;132 avenue Victor Hugo;1000;Bourg-en-Bresse;0788143536;jean.dubois@sfr.fr;13/06/2024;Claire Moreau
+CL00180;Muller Émilie;;172 avenue de la République;71000;Mâcon;06 41 41 39 75;emilie.muller@wanadoo.fr;2013-03-21;Julien Petit
+CL00181;Dumont Hugo;;93 avenue des Écoles;69003;Lyon;07.56.20.53.36;hugo.dumont@orange.fr;28/10/2025;Karim Benali
+CL00182;Pharmacie Muller;41108099693089;139 place des Écoles;71000;Mâcon;04.72.91.42.83;contact@pharmacie-muller.fr;03/12/2022;Julien Petit
+CL00183;Salon de coiffure Leroy;39282722992756;125 avenue de la République;69100;Villeurbanne;04 37 81 65 80;contact@salon-de-coiffure-leroy.fr;11/07/18;Julien Petit
+CL00184;Legrand Marie;;91 chemin du Stade;71000;Mâcon;+33 7 65 91 84 63;marie.legrand@gmail.com;14/09/2020;Claire Moreau
+CL00185;Rousseau Mathieu;;30 place des Écoles;1000;Bourg-en-Bresse;06 22 25 91 36;mathieu.rousseau@free.fr;18/09/15;Karim Benali
+CL00187;Morin Inès;;170 chemin de la République;1000;Bourg-en-Bresse;0602428699;ines.morin@gmail.com;14/04/2025;Karim Benali
+CL00188;Auto-école Moreau;79913662103886;39 rue Victor Hugo;38200;Vienne;0437298425;contact@auto-ecole-moreau.fr;23/06/2025;Claire Moreau
+CL00189;Salon de coiffure Richard;50863765991625;60 rue des Tilleuls;69100;Villeurbanne;0472980686;contact@salon-de-coiffure-richard.fr;20/08/2014;Sophie Laurent
+CL00190;Durand Inès;;138 place Jean Jaurès;69400;Villefranche-sur-Saône;07 35 65 12 69;ines.durand@gmail.com;28/02/2012;Karim Benali
+CL00191;Mercier Léa;;180 avenue de la République;69001;Lyon;07 44 95 62 13;lea.mercier@sfr.fr;03/07/2024;Sophie Laurent
+CL00192;Morin Jean;;10 place du Stade;69100;Villeurbanne;0679611435;jean.morin@gmail.com;02/03/2013;Élodie Garnier
+CL00193;Salon de coiffure Morin;98839205302148;91 place du Stade;71000;Mâcon;0385038430;contact@salon-de-coiffure-morin.fr;06/12/2015;Claire Moreau
+CL00194;Hôtel Roussel;90426818184515;66 chemin des Écoles;69100;Villeurbanne;04 78 43 93 76;contact@hotel-roussel.fr;16/07/2024;Karim Benali
+CL00195;Roussel Noémie;;88 rue Jean Jaurès;71000;Mâcon;;noemie.roussel@gmail.com;16/04/2022;Sophie Laurent
+CL00196;Gauthier Thomas;;28 rue de la République;69100;Villeurbanne;06.33.43.33.39;thomas.gauthier@laposte.net;06/02/2016;Élodie Garnier
+CL00200;Morel Karim;;109 place Jean Jaurès;69500;Bron;07 72 84 63 92;karim.morel@sfr.fr;25/10/2022;Julien Petit
+CL00201;Hôtel Legrand;59428434795525;54 place des Écoles;1000;Bourg-en-Bresse;04 74 03 69 15;contact@hotel-legrand.fr;16/08/2023;Karim Benali
+CL00202;Garage Gauthier;22702672885741;146 rue du Stade;1000;Bourg-en-Bresse;04 74 43 86 63;contact@garage-gauthier.fr;30/11/24;Sophie Laurent
+CL00203;Bertrand Camille;;167 avenue de la Gare;69400;Villefranche-sur-Saône;07 50 61 59 39;camille.bertrand@free.fr;02/02/2022;Élodie Garnier
+CL00204;Vincent Émilie;;59 chemin des Tilleuls;71000;Mâcon;06.25.69.96.11;emilie.vincent@wanadoo.fr;04/10/2013;Élodie Garnier
+CL00205;Mercier Sandrine;;102 rue de la République;1500;Ambérieu-en-Bugey;33762202341;sandrine.mercier@sfr.fr;23/12/2021;Claire Moreau
+CL00206;Restaurant Petit;47228200557785;141 place Victor Hugo;69100;Villeurbanne;;contact@restaurant-petit.fr;12/11/2013;Julien Petit
+CL00207;Fromagerie François;74564240082541;3 place de la Gare;69003;Lyon;0437457831;contact@fromagerie-francois.fr;2024-08-25;Karim Benali
+CL00208;Lefèvre François;;62 chemin des Tilleuls;69100;Villeurbanne;07.63.26.63.41;francois.lefevre@sfr.fr;29/02/2012;Sophie Laurent
+CL00209;Durand Mathieu;;6 avenue de la République;38200;Vienne;07 49 73 50 20;mathieu.durand@laposte.net;03/02/16;Karim Benali
+CL00210;Roussel Léa;;101 rue Jean Jaurès;71000;Mâcon;0747570512;lea.roussel@free.fr;19/05/15;Sophie Laurent
+CL00211;Librairie Masson;18376452088143;77 avenue des Tilleuls;38200;Vienne;33472673037;contact@librairie-masson.fr;26/09/2014;Julien Petit
+CL00212;Boulangerie Morel;09792513271950;161 rue de la République;1300;Belley;04 72 49 16 30;contact@boulangerie-morel.fr;26/09/2021;Claire Moreau
+CL00213;Robin Camille;;139 place Victor Hugo;1300;Belley;0606524077;camille.robin@laposte.net;10/07/2024;Karim Benali
+CL00214;Blanc Nicolas;;159 chemin de la Gare;38200;Vienne;0748570862;nicolas.blanc@laposte.net;08/06/2024;Claire Moreau
+CL00215;Gauthier Karim;;147 place des Écoles;69100;Villeurbanne;0602203173;karim.gauthier@sfr.fr;09/09/2020;Élodie Garnier
+CL00216;Pharmacie Lopez;86509480141388;60 place Victor Hugo;69001;Lyon;04 74 37 17 05;contact@pharmacie-lopez.fr;03/08/2025;Élodie Garnier
+CL00217;Librairie Bonnet;28685289755858;106 place de la Gare;1100;Oyonnax;0474957612;contact@librairie-bonnet.fr;08/07/2024;Julien Petit
+CL00218;Martinez Émilie;;57 avenue de la Gare;69100;Villeurbanne;06 04 90 82 40;emilie.martinez@laposte.net;12/09/2017;Sophie Laurent
+CL00219;Moreau Sophie;;77 rue Jean Jaurès;69003;Lyon;07 52 24 59 33;sophie.moreau@gmail.com;18/10/2024;Claire Moreau
+CL00220;Dumont Yannick;;11 chemin Jean Jaurès;71000;Mâcon;0766139060;yannick.dumont@sfr.fr;17/11/2015;Julien Petit
+CL00221;Auto-école Martinez;62251790864163;179 avenue de la Gare;69400;Villefranche-sur-Saône;04 37 98 13 64;contact@auto-ecole-martinez.fr;23/10/2020;Karim Benali
+CL00222;Librairie Perrin;91166553559047;90 place Jean Jaurès;69100;Villeurbanne;04 37 33 14 65;contact@librairie-perrin.fr;2024-08-02;Julien Petit
+CL00223;Thomas Nathalie;;138 avenue Victor Hugo;69001;Lyon;0640514770;nathalie.thomas@sfr.fr;03/12/2013;Élodie Garnier
+CL00224;Clément Jean;;3 rue du Stade;71000;Mâcon;06.42.04.39.40;jean.clement@laposte.net;03/03/2015;Sophie Laurent
+CL00225;Dupont Inès;;144 rue de la République;1000;Bourg-en-Bresse;0657981238;ines.dupont@wanadoo.fr;01/09/2020;Karim Benali
+CL00226;Boucherie André;08432562168937;147 avenue du Stade;01000;Bourg-en-Bresse;33478384046;contact@boucherie-andre.fr;22/11/2019;Élodie Garnier
+CL00227;Boucherie Guérin;92518812520567;78 place des Écoles;69400;Villefranche-sur-Saône;;contact@boucherie-guerin.fr;11/01/2025;Sophie Laurent
+CL00228;Robin Chloé;;177 place Victor Hugo;1100;Oyonnax;0799939330;chloe.robin@sfr.fr;13/12/2014;Sophie Laurent
+CL00229;Lefèvre Nathalie;;98 chemin du Stade;69001;Lyon;0797573660;nathalie.lefevre@gmail.com;17/08/2022;Élodie Garnier
+CL00230;Martinez Émilie;;113 place des Tilleuls;69400;Villefranche-sur-Saône;06.88.60.86.80;emilie.martinez@gmail.com;11/11/2012;Julien Petit
+CL00231;Fromagerie Dumont;98266570279372;83 avenue des Écoles;69100;Villeurbanne;04.72.77.18.12;contact@fromagerie-dumont.fr;2013-03-22;Karim Benali
+CL00232;Auto-école Fontaine;25922220644740;31 avenue Victor Hugo;1000;Bourg-en-Bresse;04.37.92.68.60;contact@auto-ecole-fontaine.fr;2020-08-12;Karim Benali
+CL00233;Faure Nathalie;;72 avenue de la République;69100;Villeurbanne;07 76 71 99 03;nathalie.faure@orange.fr;2012-02-17;Sophie Laurent
+CL00235;Richard Marie;;110 rue des Tilleuls;69400;Villefranche-sur-Saône;0795014556;marie.richard@gmail.com;13/07/25;Sophie Laurent
+CL00236;Perrin Marie;;160 chemin Victor Hugo;69001;Lyon;0679469548;marie.perrin@gmail.com;15/09/2016;Karim Benali
+CL00237;Librairie Garcia;39660558303448;79 chemin Jean Jaurès;1100;Oyonnax;04.78.30.10.71;contact@librairie-garcia.fr;2025-09-01;Sophie Laurent
+CL00238;Cabinet dentaire Bernard;72785760849587;54 chemin de la Gare;71000;Mâcon;;contact@cabinet-dentaire-bernard.fr;25/10/2025;Claire Moreau
+CL00239;Dupont Mathieu;;70 place de la République;1500;Ambérieu-en-Bugey;06 99 62 91 45;mathieu.dupont@sfr.fr;12/09/2012;Sophie Laurent
+CL00240;Dubois Rémi;;135 chemin de la Gare;1600;Trévoux;06.78.07.82.35;remi.dubois@orange.fr;2014-07-08;Élodie Garnier
+CL00241;Lopez Noémie;;169 chemin de la République;1000;Bourg-en-Bresse;06 04 09 15 70;noemie.lopez@sfr.fr;26/10/2012;Sophie Laurent
+CL00242;Auto-école Morel;09881385854249;44 rue des Tilleuls;1500;Ambérieu-en-Bugey;03 85 14 22 41;contact@auto-ecole-morel.fr;09/12/2023;Julien Petit
+CL00246;Pharmacie Thomas;54538179217173;165 place du Stade;1000;Bourg-en-Bresse;03 85 62 99 79;contact@pharmacie-thomas.fr;08/08/2020;Élodie Garnier
+CL00247;Clément Antoine;;73 chemin Jean Jaurès;69001;Lyon;0770171577;antoine.clement@free.fr;11/02/2016;Karim Benali
+CL00248;Robert Manon;;99 rue des Tilleuls;71000;Mâcon;07 69 63 93 82;manon.robert@free.fr;23/04/2019;Karim Benali
+CL00249;David Isabelle;;98 chemin du Stade;69003;Lyon;06.72.46.19.19;isabelle.david@wanadoo.fr;2019-09-04;Julien Petit
+CL00250;Cabinet dentaire Robin;73354946519090;104 avenue de la Gare;38200;Vienne;04 72 78 46 99;contact@cabinet-dentaire-robin.fr;02/01/2012;Élodie Garnier
+CL00251;Hôtel Denis;56666832723861;93 place Victor Hugo;1000;Bourg-en-Bresse;33474403696;contact@hotel-denis.fr;23/07/24;Claire Moreau
+CL00252;Leroy Pierre;;116 place des Tilleuls;1000;Bourg-en-Bresse;07 79 69 27 86;pierre.leroy@orange.fr;2022-12-01;Karim Benali
+CL00253;Guérin Hugo;;135 chemin du Stade;1300;Belley;0609751971;hugo.guerin@free.fr;03/04/2023;Julien Petit
+CL00254;Guérin Manon;;147 chemin du Stade;71000;Mâcon;07 90 58 07 78;manon.guerin@sfr.fr;01/10/2013;Sophie Laurent
+CL00255;Restaurant Chevalier;04904712814424;71 chemin de la République;1000;Bourg-en-Bresse;0437407929;contact@restaurant-chevalier.fr;27/05/2025;Julien Petit
+CL00256;Auto-école Bertrand;29276637239503;30 rue Victor Hugo;69001;Lyon;0472728051;contact@auto-ecole-bertrand.fr;07/12/2015;Karim Benali
+CL00257;Gauthier Yannick;;136 rue de la République;71000;Mâcon;;yannick.gauthier@laposte.net;11/12/2023;Karim Benali
+CL00258;Roux Manon;;47 chemin Jean Jaurès;69400;Villefranche-sur-Saône;07 96 73 93 85;manon.roux@gmail.com;2018-02-11;Claire Moreau
+CL00260;Fontaine Céline;;31 rue de la Gare;69100;Villeurbanne;0600910939;celine.fontaine@free.fr;01/01/2022;Élodie Garnier
+CL00261;Cabinet dentaire Dumont;54214066504426;126 avenue Jean Jaurès;1100;Oyonnax;04.78.47.17.46;contact@cabinet-dentaire-dumont.fr;2014-06-27;Élodie Garnier
+CL00262;Librairie Martinez;70720064256900;126 place du Stade;1300;Belley;04.78.10.11.94;contact@librairie-martinez.fr;20/05/2014;Claire Moreau
+CL00263;Guérin Camille;;75 avenue Victor Hugo;1000;Bourg-en-Bresse;;camille.guerin@free.fr;24/10/2022;Sophie Laurent
+CL00264;Morin Émilie;;139 chemin du Stade;38200;Vienne;0620309376;emilie.morin@wanadoo.fr;22/01/2020;Karim Benali
+CL00265;Sanchez Sandrine;;34 rue Victor Hugo;1000;Bourg-en-Bresse;33602707903;sandrine.sanchez@gmail.com;11/08/2019;Claire Moreau
+CL00266;Pharmacie Robert;65651982530927;31 chemin Victor Hugo;1100;Oyonnax;04 74 79 93 13;contact@pharmacie-robert.fr;03/04/2025;Julien Petit
+CL00267;Pharmacie Leroy;02194672324877;45 rue Jean Jaurès;69500;Bron;04 37 62 07 10;contact@pharmacie-leroy.fr;29/11/2012;Claire Moreau
+CL00268;Muller Nathalie;;169 avenue des Tilleuls;71000;Mâcon;06 81 95 88 37;nathalie.muller@orange.fr;2019-10-20;Julien Petit
+CL00269;Simon Aurélie;;14 avenue Victor Hugo;69500;Bron;+33 6 54 36 45 97;aurelie.simon@gmail.com;22/08/2022;Claire Moreau
+CL00270;Morel François;;57 rue du Stade;1300;Belley;07 31 53 13 63;francois.morel@orange.fr;22/12/2021;Julien Petit
+CL00271;Cabinet dentaire Mercier;09042177625343;164 avenue Jean Jaurès;69003;Lyon;03 85 35 43;contact@cabinet-dentaire-mercier.fr;08/09/2020;Claire Moreau
+CL00272;Salon de coiffure Roussel;69392906007801;101 place de la Gare;69100;Villeurbanne;+33 3 85 40 63 35;contact@salon-de-coiffure-roussel.fr;08/11/2016;Karim Benali
+CL00273;Bonnet Thomas;;150 rue du Stade;1000;Bourg-en-Bresse;07 43 10 74 27;thomas.bonnet@orange.fr;11/04/2012;Julien Petit
+CL00274;Martin Noémie;;54 rue Jean Jaurès;69001;Lyon;33665804649;noemie.martin@wanadoo.fr;31/05/2022;Claire Moreau
+CL00275;Durand Hélène;;53 avenue des Tilleuls;69500;Bron;07 90 55 28 18;helene.durand@free.fr;2020-02-29;Karim Benali
+CL00276;Librairie Robin;01557788178844;95 rue Victor Hugo;71000;Mâcon;33472554864;contact@librairie-robin.fr;14/09/2016;Claire Moreau
+CL00277;Cabinet dentaire Petit;04682756704319;134 chemin du Stade;1100;Oyonnax;04.78.12.72.38;contact@@cabinet-dentaire-petit.fr;22/09/2013;Karim Benali
+CL00278;Fournier Hugo;;178 avenue Victor Hugo;69400;Villefranche-sur-Saône;07 47 29 28 42;hugo.fournier@orange.fr;2024-04-20;Sophie Laurent
+CL00279;Muller Yannick;;7 place du Stade;69003;Lyon;07.52.57.82.84;yannick.muller@gmail.com;16/04/2020;Sophie Laurent
+CL00280;Girard Mathieu;;11 avenue des Écoles;69500;Bron;0774929751;mathieu.girard@wanadoo.fr;01/04/2024;Karim Benali
+CL00281;Hôtel Richard;30187186375993;15 chemin du Stade;1300;Belley;+33 4 74 93 98 34;contact@hotel-richard.fr;06/01/2020;Sophie Laurent
+CL00284;Pharmacie Muller;62991234785199;23 rue du Stade;69001;Lyon;04.72.76.74.26;contact@pharmacie-muller.fr;29/12/2021;Julien Petit
+CL00285;Lemaire Hélène;;177 avenue de la République;69400;Villefranche-sur-Saône;06 02 44 71 46;helene.lemaire@free.fr;26/01/2015;Claire Moreau
+CL00286;Bertrand Mathieu;;163 chemin de la République;69001;Lyon;06 25 72 52 04;mathieu.bertrand@wanadoo.fr;11/10/2022;Claire Moreau
+CL00287;Nicolas Rémi;;4 avenue Jean Jaurès;71000;Mâcon;07 54 45 18 95;remi.nicolas@orange.fr;10/02/2016;Karim Benali
+CL00288;Cabinet dentaire Michel;81671120754528;153 chemin Victor Hugo;69500;Bron;04.37.33.89.88;contact@cabinet-dentaire-michel.fr;2014-04-19;Claire Moreau
+CL00289;Garage Dumont;10760310890717;12 rue des Tilleuls;38200;Vienne;04.78.23.21.61;contact@garage-dumont.fr;12/03/2015;Claire Moreau
+CL00290;André Jean;;18 rue de la Gare;1300;Belley;06 49 55 28 93;jean.andre@gmail.com;26/06/16;Julien Petit
+CL00291;Mercier Sophie;;132 avenue du Stade;1300;Belley;07 59 27 12;sophie.mercier@orange.fr;18/01/24;Claire Moreau
+CL00292;Muller Sandrine;;114 avenue Jean Jaurès;69003;Lyon;06 57 16 47 94;sandrine.muller@gmail.com;07/02/2020;Karim Benali
+CL00293;Hôtel Gauthier;11266912153537;104 rue Victor Hugo;1000;Bourg-en-Bresse;04.72.07.16.78;contact@hotel-gauthier.fr;01/09/2022;Élodie Garnier
+CL00294;Salon de coiffure André;11477320101709;98 chemin Victor Hugo;71000;Mâcon;04 37 67 84 27;contact@salon-de-coiffure-andre.fr;22/12/2020;Claire Moreau
+CL00295;Lefèvre Céline;;9 place de la République;69003;Lyon;07 78 48 58 80;celine.lefevre@wanadoo.fr;15/01/2023;Karim Benali
+CL00296;Masson Céline;;169 place du Stade;1000;Bourg-en-Bresse;06 76 24 67 19;celine.masson@wanadoo.fr;2015-12-19;Sophie Laurent
+CL00297;Masson Céline;;161 chemin du Stade;69500;Bron;06 09 02 55 90;celine.masson@free.fr;01/11/2025;Sophie Laurent
+CL00298;Garage David;20850769864079;82 place Jean Jaurès;1000;Bourg-en-Bresse;0478911415;contact@garage-david.fr;23/06/2017;Claire Moreau
+CL00299;Auto-école Rousseau;71834404963916;149 rue Jean Jaurès;1300;Belley;04 78 29 45 63;contact@auto-ecole-rousseau.fr;21/02/2023;Karim Benali
+CL00300;Fournier Inès;;141 avenue de la République;69001;Lyon;0785366498;ines.fournier@free.fr;20/09/2013;Julien Petit
+CL00301;Morin Léa;;176 chemin de la Gare;1300;Belley;07 90 83 57 23;lea.morin@sfr.fr;25/06/2022;Claire Moreau
+CL00302;Mathieu Isabelle;;144 place du Stade;38200;Vienne;06.63.12.30.34;isabelle.mathieu@free.fr;2017-12-26;Julien Petit
+CL00303;Fromagerie Clément;94165162319816;149 chemin du Stade;1000;Bourg-en-Bresse;04 72 07 00 15;contact@fromagerie-clement.fr;25/03/18;Sophie Laurent
+CL00304;Librairie Boyer;47649078515862;64 chemin de la Gare;69100;Villeurbanne;;contact@librairie-boyer.fr;29/09/2020;Sophie Laurent
+CL00305;Chevalier Aurélie;;100 rue du Stade;01000;Bourg-en-Bresse;;aurelie.chevalier@gmail.com;02/08/2025;Julien Petit
+CL00306;Morin Antoine;;117 rue de la Gare;38200;Vienne;06 24 81 56 98;antoine.morin@wanadoo.fr;05/08/2015;Karim Benali
+CL00307;Fournier Antoine;;35 chemin Victor Hugo;1000;Bourg-en-Bresse;+33 6 12 38 29 65;antoine.fournier@sfr.fr;26/12/2020;Julien Petit
+CL00308;Cabinet comptable Dupont;73420696942152;146 rue de la République;69001;Lyon;04.72.00.89.31;contact@cabinet-comptable-dupont.fr;28/10/2020;Karim Benali
+CL00309;Garage Lopez;39343626204431;64 chemin Jean Jaurès;69003;Lyon;04.72.44.76.26;contact@garage-lopez.fr;12/01/2017;Claire Moreau
+CL00310;Lopez Hélène;;121 chemin Jean Jaurès;38200;Vienne;;helene.lopez@wanadoo.fr;30/11/2020;Élodie Garnier
+CL00311;Perrin Hélène;;87 place Victor Hugo;71000;Mâcon;07 52 80 92 42;helene.perrin@free.fr;13/02/2012;Karim Benali
+CL00312;Faure Noémie;;81 place de la Gare;01000;Bourg-en-Bresse;0764494856;noemie.faure@free.fr;27/12/2012;Karim Benali
+CL00313;Boulangerie Laurent;07587771215133;47 avenue des Écoles;1100;Oyonnax;03 85 42 76 17;contact@boulangerie-laurent.fr;26/02/2017;Élodie Garnier
+CL00314;Auto-école Blanc;50416591520173;169 place du Stade;69500;Bron;0437261371;contact@auto-ecole-blanc.fr;03/02/2012;Claire Moreau
+CL00315;Morel Sandrine;;103 chemin Victor Hugo;1000;Bourg-en-Bresse;06.30.45.01.89;sandrine.morel@wanadoo.fr;16/12/2025;Claire Moreau
+CL00316;Robin Mathieu;;132 avenue du Stade;1100;Oyonnax;06 47 64 92 51;mathieu.robin@orange.fr;09/01/2021;Élodie Garnier
+CL00317;François Mathieu;;135 rue des Tilleuls;71000;Mâcon;0608573278;mathieu.francois@laposte.net;2020-04-04;Karim Benali
+CL00318;Garage Lemaire;08186617945497;129 rue de la République;69500;Bron;04.37.64.90.81;contact@garage-lemaire.fr;26/09/2018;Julien Petit
+CL00319;Restaurant Lopez;23219416800612;123 place des Écoles;1000;Bourg-en-Bresse;04.78.97.79.45;n/a;02/05/2021;Karim Benali
+CL00320;Gauthier Yannick;;49 rue Victor Hugo;71000;Mâcon;0741220310;yannick.gauthier@wanadoo.fr;31/10/25;Julien Petit
+CL00321;Fournier Rémi;;116 avenue Victor Hugo;69400;Villefranche-sur-Saône;06 76 01 22 77;remi.fournier@laposte.net;30/01/2024;Karim Benali
+CL00322;Faure Sandrine;;166 place du Stade;1000;Bourg-en-Bresse;0608069581;sandrine.faure@sfr.fr;07/09/2021;Karim Benali
+CL00323;Garage Fontaine;59724665729344;23 place Victor Hugo;1000;Bourg-en-Bresse;03 85 57 38 39;contact@garage-fontaine.fr;17/06/2018;Karim Benali
+CL00324;Fromagerie Michel;80156193183749;91 rue de la Gare;69003;Lyon;33474054522;contact@fromagerie-michel.fr;06/04/2017;Julien Petit
+CL00325;Lopez Marie;;26 avenue des Écoles;38200;Vienne;06 21 35 24 78;marie.lopez@laposte.net;21/07/2025;Claire Moreau
+CL00326;Martin Nathalie;;63 avenue de la Gare;69003;Lyon;07.48.21.45.65;nathalie.martin@laposte.net;28/04/2021;Julien Petit
+CL00327;Blanc Manon;;162 chemin du Stade;69003;Lyon;07 62 60 60 29;manon.blanc@wanadoo.fr;07/03/2021;Élodie Garnier
+CL00328;Boulangerie André;89975634108564;33 chemin Victor Hugo;71000;Mâcon;04 78 89 26 73;contact@boulangerie-andre.fr;13/01/2019;Élodie Garnier
+CL00329;Auto-école Bernard;10548510174903;61 avenue des Tilleuls;69400;Villefranche-sur-Saône;04 37 94 34 68;contact@auto-ecole-bernard.fr;10/07/2012;Élodie Garnier
+CL00330;Petit Antoine;;34 place Victor Hugo;69400;Villefranche-sur-Saône;06 57 12 66 11;antoine.petit@sfr.fr;28/08/2023;Élodie Garnier
+CL00331;Roussel Karim;;34 rue des Écoles;69100;Villeurbanne;07 77 62 28 27;karim.roussel@wanadoo.fr;08/11/2020;Julien Petit
+CL00332;Bonnet Sophie;;78 chemin du Stade;69001;Lyon;07 94 08 21 54;sophie.bonnet@gmail.com;30/08/14;Élodie Garnier
+CL00333;Garage Vincent;06794975679228;118 place des Écoles;69500;Bron;04 72 70 18 51;contact@garage-vincent.fr;04/11/2018;Sophie Laurent
+CL00334;Crèche Bonnet;12094818139890;146 avenue de la Gare;69400;Villefranche-sur-Saône;0472658074;contact@creche-bonnet.fr;26/12/2025;Claire Moreau
+CL00335;Michel Nathalie;;30 rue Jean Jaurès;69100;Villeurbanne;06 56 26 08 56;nathalie.michel@wanadoo.fr;04/06/12;Sophie Laurent
+CL00336;Thomas Chloé;;67 place de la Gare;1100;Oyonnax;06 00 46 15 26;chloe.thomas@free.fr;18/02/21;Élodie Garnier
+CL00337;Durand Julien;;5 chemin Jean Jaurès;69003;Lyon;;julien.durand@gmail.com;25/04/2023;Julien Petit
+CL00338;Cabinet comptable Fournier;82386870079427;70 chemin de la Gare;69400;Villefranche-sur-Saône;03.85.71.83.25;contact@cabinet-comptable-fournier;25/10/2014;Julien Petit
+CL00339;Librairie Simon;28463985547437;83 chemin Victor Hugo;69003;Lyon;0437914161;contact@librairie-simon.fr;07/01/2013;Claire Moreau
+CL00340;Martin Jean;;172 place des Écoles;1000;Bourg-en-Bresse;06 68 76 81;jean.martin@wanadoo.fr;17/01/2012;Élodie Garnier
+CL00341;Mercier Thomas;;57 avenue du Stade;01100;Oyonnax;06 30 45 31 94;thomas.mercier@laposte.net;10/03/2012;Élodie Garnier
+CL00342;Roux Hugo;;6 chemin des Écoles;1100;Oyonnax;0612493843;hugo.roux@sfr.fr;18/11/2020;Claire Moreau
+CL00343;Pharmacie Roux;04687506351907;58 place de la République;01600;Trévoux;04 37 77 58 03;contact@pharmacie-roux.fr;15/02/2021;Claire Moreau
+CL00344;Auto-école François;35058319971799;16 rue du Stade;1000;Bourg-en-Bresse;+33 4 74 95 43 17;contact@auto-ecole-francois.fr;2022-10-06;Julien Petit
+CL00345;Morin François;;60 rue du Stade;71000;Mâcon;06 08 04 66 19;francois.morin@gmail.com;24/03/2013;Élodie Garnier
+CL00346;Girard Hugo;;66 chemin du Stade;1600;Trévoux;0610919392;hugo.girard@orange.fr;31/07/12;Julien Petit
+CL00347;Rousseau Mathieu;;3 avenue de la République;1000;Bourg-en-Bresse;+33 7 98 22 74 95;mathieu.rousseau@free.fr;28/12/2018;Claire Moreau
+CL00348;Garage Morin;99594652170733;164 avenue des Écoles;1100;Oyonnax;0474537795;contact@garage-morin.fr;29/06/16;Sophie Laurent
+CL00349;Boulangerie Laurent;24739500334235;45 chemin de la Gare;69001;Lyon;0478015081;contact@boulangerie-laurent.fr;23/12/20;Claire Moreau
+CL00350;Gauthier Nicolas;;160 place des Écoles;1500;Ambérieu-en-Bugey;06 53 47 35 52;nicolas.gauthier@laposte.net;08/04/2014;Julien Petit
+CL00351;François Mathieu;;72 avenue de la Gare;69001;Lyon;0699384253;mathieu.francois@orange.fr;23/05/2020;Karim Benali
+CL00352;Perrin Pierre;;124 place du Stade;1000;Bourg-en-Bresse;07 85 78 72 55;pierre.perrin@orange.fr;22/07/2022;Élodie Garnier
+CL00353;Garage Martinez;54812147853900;160 chemin du Stade;1300;Belley;03 85 34 66 92;contact@garage-martinez.fr;20/07/2016;Karim Benali
+CL00354;Garage Martinez;81431115083536;65 chemin des Écoles;69001;Lyon;+33 4 78 15 14 88;contact@garage-martinez.fr;11/01/2016;Sophie Laurent
+CL00355;Robin Yannick;;142 place des Écoles;69100;Villeurbanne;+33 7 82 63 33 73;yannick.robin@wanadoo.fr;03/02/2015;Claire Moreau
+CL00356;Martinez Noémie;;108 place des Écoles;1100;Oyonnax;06.52.92.40.75;noemie.martinez@sfr.fr;14/05/2021;Sophie Laurent
+CL00357;Moreau Antoine;;146 place des Écoles;1000;Bourg-en-Bresse;07 63 61 86 37;antoine.moreau@sfr.fr;2012-09-20;Élodie Garnier
+CL00358;Boulangerie Faure;48170580256621;34 place du Stade;38200;Vienne;04.72.31.64.33;contact@boulangerie-faure.fr;13/07/2025;Julien Petit
+CL00359;Librairie Denis;87430271693850;126 place du Stade;1300;Belley;03.85.29.94.93;contact@librairie-denis.fr;10/09/2021;Karim Benali
+CL00360;Denis Manon;;179 rue Victor Hugo;38200;Vienne;33732967629;manon.denis@orange.fr;02/09/18;Élodie Garnier
+CL00361;Bonnet Rémi;;130 rue du Stade;69500;Bron;06 51 18 56 72;remi.bonnet@sfr.fr;14/11/2016;Karim Benali
+CL00362;Martin Julien;;113 avenue du Stade;71000;Mâcon;+33 6 57 77 11 83;julien.martin@gmail.com;11/05/2016;Julien Petit
+CL00363;Pharmacie Vincent;75230837081648;154 rue de la République;69100;Villeurbanne;04.37.62.10.42;contact@pharmacie-vincent.fr;22/12/2015;Julien Petit
+CL00364;Crèche Bernard;22068155839385;110 rue Victor Hugo;1300;Belley;04 74 05 31 31;contact@creche-bernard.fr;18/01/14;Karim Benali
+CL00365;Robert Aurélie;;177 chemin de la Gare;1000;Bourg-en-Bresse;06 41 95 62 52;aurelie.robert@free.fr;2016-10-08;Élodie Garnier
+CL00366;Lopez Jean;;61 place des Écoles;69003;Lyon;33625743263;jean.lopez@orange.fr;19/03/17;Sophie Laurent
+CL00367;Bonnet Mathieu;;179 avenue Jean Jaurès;71000;Mâcon;33635533803;mathieu.bonnet@free.fr;06/09/2023;Julien Petit
+CL00368;Garage Robert;83381674233626;78 chemin Jean Jaurès;1000;Bourg-en-Bresse;04.74.23.21.29;contact@garage-robert.fr;10/01/2023;Karim Benali
+CL00369;Cabinet dentaire Dupont;70661498282460;117 chemin du Stade;69500;Bron;0385768962;contact@cabinet-dentaire-dupont.fr;06/12/2020;Sophie Laurent
+CL00370;Martin Jean;;151 rue du Stade;69003;Lyon;33776665674;jean.martin@sfr.fr;21/06/2015;Claire Moreau
+CL00371;Bertrand Rémi;;93 rue des Écoles;69100;Villeurbanne;07.87.50.66.33;remi.bertrand@wanadoo.fr;10/05/16;Élodie Garnier
+CL00372;Roussel Aurélie;;43 place des Tilleuls;69400;Villefranche-sur-Saône;06.11.66.91.83;aurelie.roussel@orange.fr;14/09/2017;Élodie Garnier
+CL00373;Crèche Fontaine;64027011686462;96 avenue des Écoles;69001;Lyon;04 74 19 52 43;contact@creche-fontaine.fr;27/11/2018;Élodie Garnier
+CL00374;Garage Laurent;12141614150934;173 rue de la République;69003;Lyon;04 74 23 46 79;contact@garage-laurent.fr;07/10/2016;Claire Moreau
+CL00375;Blanc Manon;;175 chemin des Tilleuls;71000;Mâcon;+33 7 98 47 75 96;manon.blanc@gmail.com;08/12/2012;Karim Benali
+CL00376;Boyer Sophie;;159 place Jean Jaurès;1000;Bourg-en-Bresse;07 62 09 18 43;sophie.boyer@gmail.com;26/12/2019;Sophie Laurent
+CL00379;Garcia Chloé;;37 rue Victor Hugo;38200;Vienne;0791567164;chloe.garcia@laposte.net;2019-04-20;Élodie Garnier
+CL00380;Salon de coiffure Durand;60256434712878;178 chemin de la Gare;69003;Lyon;04 37 33 32 11;contact@salon-de-coiffure-durand.fr;03/01/2022;Élodie Garnier
+CL00381;Boucherie Mathieu;11159319525698;80 rue Jean Jaurès;69001;Lyon;0437633414;contact@boucherie-mathieu.fr;23/07/2020;Karim Benali
+CL00382;Nicolas Hugo;;117 avenue Jean Jaurès;69001;Lyon;06 60 87 52 43;hugo.nicolas@orange.fr;31/10/2014;Claire Moreau
+CL00383;Lopez Hugo;;14 avenue de la Gare;1600;Trévoux;06 74 60 52 33;hugo.lopez@laposte.net;08/10/2014;Julien Petit
+CL00384;Garnier Camille;;124 chemin Victor Hugo;69100;Villeurbanne;06 59 04 72 92;camille.garnier@laposte.net;27/07/2019;Julien Petit
+CL00385;Boucherie Petit;72018596263017;126 chemin des Écoles;1000;Bourg-en-Bresse;04 72 66 20 15;contact@boucherie-petit.fr;28/11/2024;Claire Moreau
+CL00386;Boucherie Roux;78309997419264;166 place des Tilleuls;38200;Vienne;0385501111;contact@boucherie-roux.fr;2020-07-27;Claire Moreau
+CL00387;Denis Yannick;;167 rue de la Gare;38200;Vienne;07.88.87.18.98;yannick.denis@gmail.com;21/01/2024;Claire Moreau
+CL00388;Blanc Nicolas;;9 rue de la République;38200;Vienne;0602932184;nicolas.blanc@free.fr;14/01/2016;Élodie Garnier
+CL00389;Dubois Inès;;155 avenue Jean Jaurès;69500;Bron;06 10 30 32 43;ines.dubois@free.fr;01/01/12;Élodie Garnier
+CL00390;Boucherie Dupont;83143598926259;112 place de la République;69100;Villeurbanne;;contact@boucherie-dupont.fr;05/11/17;Sophie Laurent
+CL00391;Pharmacie Bonnet;40163611284975;90 chemin Jean Jaurès;1000;Bourg-en-Bresse;04 78 15 54 23;contact@pharmacie-bonnet.fr;2024-04-19;Sophie Laurent
+CL00392;Gauthier Manon;;146 chemin de la République;69001;Lyon;;manon.gauthier@sfr.fr;28/09/2019;Sophie Laurent
+CL00393;Legrand Isabelle;;23 chemin du Stade;1500;Ambérieu-en-Bugey;+33 7 78 44 68 34;isabelle.legrand@laposte.net;26/08/2025;Claire Moreau
+CL00394;Richard Sandrine;;170 rue Jean Jaurès;69500;Bron;06 60 93 06 85;sandrine.richard@free.fr;14/09/15;Élodie Garnier
+CL00395;Cabinet dentaire Lemaire;51538144744304;146 place Victor Hugo;01100;Oyonnax;;contact@cabinet-dentaire-lemaire.fr;25/03/2020;Élodie Garnier
+CL00396;Salon de coiffure Perrin;51052650167314;40 place de la République;01000;Bourg-en-Bresse;04 74 50 97 54;contact@salon-de-coiffure-perrin.fr;21/05/2022;Sophie Laurent
+CL00397;Laurent Léa;;51 rue Victor Hugo;69001;Lyon;06 77 22 56 05;lea.laurent@free.fr;17/09/18;Karim Benali
+CL00398;Garnier Aurélie;;100 avenue de la République;69500;Bron;;aurelie.garnier@free.fr;06/08/2015;Julien Petit
+CL00399;Lemaire Antoine;;131 avenue Victor Hugo;69003;Lyon;06 67 44 71 63;antoine.lemaire@laposte.net;2017-04-21;Sophie Laurent
+CL00400;Salon de coiffure Lefèvre;31260432609314;98 place Jean Jaurès;1500;Ambérieu-en-Bugey;04.74.89.23.92;contact@salon-de-coiffure-lefevre.fr;16/08/21;Sophie Laurent
+CL00401;Boulangerie Mathieu;35020005347494;48 chemin du Stade;1000;Bourg-en-Bresse;04 78 14 54 56;contact@boulangerie-mathieu.fr;2021-07-30;Claire Moreau
+CL00402;Chevalier Manon;;155 rue de la République;71000;Mâcon;0734396112;manon.chevalier@free.fr;03/12/2014;Julien Petit
+CL00403;Guérin Chloé;;65 chemin des Tilleuls;69003;Lyon;07 73 82 02 36;chloe.guerin@free.fr;19/03/2014;Karim Benali
+CL00404;Simon Chloé;;20 avenue du Stade;69001;Lyon;06.40.90.36.78;chloe.simon@free.fr;20/04/2023;Karim Benali
+CL00405;Cabinet dentaire Martin;84434481230837;164 avenue des Tilleuls;01500;Ambérieu-en-Bugey;04 37 39 08 78;contact@cabinet-dentaire-martin.fr;16/02/2016;Julien Petit
+CL00406;Boucherie Martin;26945005342403;150 rue des Écoles;1300;Belley;04 78 95 51 84;contact@boucherie-martin.fr;09/08/2014;Élodie Garnier
+CL00407;Michel Hugo;;4 rue du Stade;71000;Mâcon;06 16 37 61 82;hugo.michel@wanadoo.fr;2016-12-12;Claire Moreau
+CL00408;Masson Pierre;;140 chemin des Écoles;69400;Villefranche-sur-Saône;0679724572;pierre.masson@free.fr;2012-12-24;Claire Moreau
+CL00409;Bonnet Nicolas;;176 place des Écoles;1500;Ambérieu-en-Bugey;+33 6 03 66 25 43;nicolas.bonnet@gmail.com;2023-06-22;Julien Petit
+CL00410;Pharmacie André;22685926249451;70 place des Écoles;1300;Belley;04 37 51 51 09;contact@pharmacie-andre.fr;27/04/2018;Claire Moreau
+CL00411;Boucherie Masson;19642152265573;178 place Jean Jaurès;38200;Vienne;+33 4 72 52 67 71;contact@boucherie-masson.fr;02/05/2015;Julien Petit
+CL00412;Guérin Léa;;58 rue des Écoles;69100;Villeurbanne;06 55 24 72 86;lea.guerin@orange.fr;31/01/2024;Julien Petit
+CL00413;Dumont Sophie;;4 place Victor Hugo;1000;Bourg-en-Bresse;0679202521;sophie.dumont@wanadoo.fr;11/07/21;Élodie Garnier
+CL00414;Martinez Manon;;102 place des Écoles;01500;Ambérieu-en-Bugey;0641200928;manon.martinez@wanadoo.fr;25/03/2021;Sophie Laurent
+CL00415;Cabinet dentaire François;90362891775665;96 place Victor Hugo;69003;Lyon;04 78 18 62 36;contact@cabinet-dentaire-francois.fr;2017-02-05;Sophie Laurent
+CL00416;Restaurant David;43830341990975;81 rue des Tilleuls;38200;Vienne;04 72 81 13 90;contact@restaurant-david.fr;17/08/2012;Sophie Laurent
+CL00417;Fontaine Camille;;123 rue des Tilleuls;69003;Lyon;06 56 81 82 09;camille.fontaine@orange.fr;20/01/2019;Claire Moreau
+CL00418;Boyer Aurélie;;93 place de la République;1000;Bourg-en-Bresse;06.28.89.85.72;aurelie.boyer@wanadoo.fr;12/03/2017;Julien Petit
+CL00419;Faure Sophie;;42 rue des Tilleuls;69100;Villeurbanne;0648171752;sophie.faure@gmail.com;02/06/2015;Claire Moreau
+CL00420;Restaurant Garnier;46692758955165;68 rue Jean Jaurès;71000;Mâcon;03 85 21 97;contact@restaurant-garnier.fr;2017-10-14;Julien Petit
+CL00421;Restaurant Petit;71577871121662;85 rue des Tilleuls;69100;Villeurbanne;03 85 29 61 36;contact@restaurant-petit.fr;20/06/2015;Julien Petit
+CL00422;Guérin Nicolas;;122 avenue de la République;69003;Lyon;06 35 90 96 05;nicolas.guerin@laposte.net;2018-03-30;Karim Benali
+CL00423;Roux Hélène;;110 chemin de la Gare;69400;Villefranche-sur-Saône;07 76 83 42 01;helene.roux@gmail.com;15/11/13;Karim Benali
+CL00424;François Camille;;173 place des Tilleuls;69100;Villeurbanne;0750272751;camille.francois@wanadoo.fr;2015-08-09;Karim Benali
+CL00425;Cabinet comptable Morin;96353390550448;32 place des Écoles;38200;Vienne;04 74 03 36;contact@cabinet-comptable-morin.fr;28/01/2022;Sophie Laurent
+CL00426;Hôtel Robin;92866464911117;158 place de la République;69100;Villeurbanne;0474276528;contact@hotel-robin.fr;25/09/2023;Élodie Garnier
+CL00427;Clément Céline;;119 place de la Gare;69003;Lyon;06.37.86.13.71;celine.clement@laposte.net;13/01/2025;Karim Benali
+CL00430;Clément Julien;;133 chemin des Tilleuls;71000;Mâcon;07 30 60 00 25;julien.clement@free.fr;20/05/2023;Karim Benali
+CL00431;Lambert Olivier;;83 avenue de la République;69500;Bron;06 12 81 96 48;olivier.lambert@gmail.com;27/04/2016;Élodie Garnier
+CL00432;Cabinet comptable Richard;34383640412094;29 place Jean Jaurès;69100;Villeurbanne;03 85 02 75 23;contact@cabinet-comptable-richard.fr;11/03/24;Sophie Laurent
+CL00433;Garage Mercier;13665722402992;31 chemin des Tilleuls;1000;Bourg-en-Bresse;0385170617;contact@garage-mercier.fr;31/01/2023;Julien Petit
+CL00434;Bernard Léa;;178 avenue des Tilleuls;1500;Ambérieu-en-Bugey;06 35 13 05 23;lea.bernard@gmail.com;2014-09-23;Élodie Garnier
+CL00435;Lambert Thomas;;125 place du Stade;69003;Lyon;06 34 61 99 42;thomas.lambert@free.fr;13/02/2023;Sophie Laurent
+CL00436;André Camille;;166 chemin du Stade;69100;Villeurbanne;06 72 08 49 64;camille.andre@wanadoo.fr;17/08/21;Sophie Laurent
+CL00437;Garage Robert;05379538164933;27 chemin des Écoles;1100;Oyonnax;33478525105;contact@garage-robert.fr;02/07/2017;Claire Moreau
+CL00438;Hôtel Morel;61172959639041;2 place des Tilleuls;69400;Villefranche-sur-Saône;04 72 30 77 04;n/a;05/10/2021;Claire Moreau
+CL00439;Bernard Pierre;;127 rue du Stade;69500;Bron;06 64 45 56 18;pierre.bernard@laposte.net;16/11/2012;Karim Benali
+CL00440;Perrin Sophie;;95 rue des Écoles;69500;Bron;33600215632;sophie.perrin@gmail.com;21/09/2014;Claire Moreau
+CL00441;Dumont Chloé;;83 place Victor Hugo;69500;Bron;07 71 88 39 77;chloe.dumont@laposte.net;06/09/2013;Claire Moreau
+CL00442;Boucherie Clément;37637153988544;168 avenue de la Gare;38200;Vienne;0472117030;contact@boucherie-clement.fr;08/06/2017;Julien Petit
+CL00443;Fromagerie Perrin;49127113072403;136 place des Tilleuls;69001;Lyon;04 72 63 14 62;contact@fromagerie-perrin.fr;23/02/2022;Claire Moreau
+CL00444;Rousseau Antoine;;46 chemin Jean Jaurès;1300;Belley;0745106634;antoine.rousseau@gmail.com;2020-11-25;Claire Moreau
+CL00445;Dubois Hugo;;57 chemin du Stade;69500;Bron;06 18 14 39 66;hugo.dubois@free.fr;03/12/2016;Sophie Laurent
+CL00446;Petit Isabelle;;37 rue des Écoles;69400;Villefranche-sur-Saône;0743251225;isabelle.petit@sfr.fr;17/06/2018;Julien Petit
+CL00447;Auto-école Gauthier;37100943882212;86 place du Stade;38200;Vienne;04.74.95.79.07;contact@auto-ecole-gauthier.fr;30/10/2015;Sophie Laurent
+CL00448;Hôtel Martin;80263257039658;23 avenue du Stade;1500;Ambérieu-en-Bugey;;contact@hotel-martin.fr;16/04/2022;Élodie Garnier
+CL00449;Gauthier Camille;;157 rue du Stade;69003;Lyon;+33 7 96 44 30 98;camille.gauthier@free.fr;26/10/2023;Sophie Laurent
+CL00450;Moreau Émilie;;76 rue du Stade;69500;Bron;06 84 98 24 74;emilie.moreau@wanadoo.fr;11/03/2023;Élodie Garnier
+CL00451;Clément Olivier;;37 avenue du Stade;69003;Lyon;0642548821;olivier.clement@gmail.com;2012-02-11;Julien Petit
+CL00454;Crèche François;65923426834417;161 place Jean Jaurès;1500;Ambérieu-en-Bugey;+33 4 74 44 94 29;contact@creche-francois.fr;30/08/2020;Claire Moreau
+CL00455;Boucherie Rousseau;70806129439852;140 chemin de la République;69003;Lyon;04.78.75.67.66;contact@boucherie-rousseau.fr;10/01/2019;Karim Benali
+CL00456;Thomas Pierre;;127 avenue Victor Hugo;69003;Lyon;33619803828;pierre.thomas@gmail.com;14/08/2023;Julien Petit
+CL00457;Perrin Yannick;;122 rue de la Gare;1600;Trévoux;06 10 29 18 13;yannick.perrin@orange.fr;22/02/2012;Sophie Laurent
+CL00458;Guérin Julien;;180 avenue du Stade;69500;Bron;0791620223;julien.guerin@sfr.fr;08/04/2017;Claire Moreau
+CL00459;Crèche Lambert;71960940970527;118 chemin de la République;69003;Lyon;04 74 76 62;contact@creche-lambert.fr;04/03/2018;Élodie Garnier
+CL00460;Fromagerie Dupont;24461767929884;179 chemin Jean Jaurès;69500;Bron;;contact@fromagerie-dupont.fr;11/10/2023;Élodie Garnier
+CL00461;Simon Nathalie;;108 rue de la République;1000;Bourg-en-Bresse;06 77 53 31 26;nathalie.simon@gmail.com;29/08/2012;Claire Moreau
+CL00462;Morel Sophie;;74 avenue Victor Hugo;69001;Lyon;07.62.98.33.47;sophie.morel@wanadoo.fr;29/08/2012;Élodie Garnier
+CL00463;Clément Sophie;;165 place Victor Hugo;1100;Oyonnax;0620569815;sophie.clement@orange.fr;20/01/2025;Sophie Laurent
+CL00464;Pharmacie Boyer;84117309850346;65 place des Écoles;38200;Vienne;03 85 66 19 12;contact@pharmacie-boyer.fr;03/02/2015;Julien Petit
+CL00465;Fromagerie David;19740056435027;85 rue Victor Hugo;1000;Bourg-en-Bresse;+33 4 37 84 69 08;contact@fromagerie-david.fr;26/11/2024;Élodie Garnier
+CL00466;Robert François;;167 chemin du Stade;71000;Mâcon;0687240107;francois.robert@sfr.fr;16/10/2012;Julien Petit
+CL00468;Dupont Aurélie;;30 place de la République;1000;Bourg-en-Bresse;06 87 06 62;aurelie.dupont@wanadoo.fr;26/05/2016;Julien Petit
+CL00469;Roussel Jean;;47 chemin de la République;69500;Bron;07 89 00 30 10;jean.roussel@orange.fr;05/05/2017;Julien Petit
+CL00470;Boucherie Garnier;53745843845880;89 place des Écoles;01000;Bourg-en-Bresse;0474114837;contact@boucherie-garnier.fr;2020-12-02;Julien Petit
+CL00471;Fromagerie Chevalier;71070449641049;99 place de la République;69100;Villeurbanne;33472152037;contact@fromagerie-chevalier.fr;03/11/2018;Claire Moreau
+CL00472;Clément Céline;;146 chemin Victor Hugo;69001;Lyon;;celine.clement@gmail.com;01/09/2021;Julien Petit
+CL00473;David Rémi;;168 rue de la République;1000;Bourg-en-Bresse;07.59.60.94.54;remi.david@sfr.fr;25/02/2018;Julien Petit
+CL00474;André Karim;;113 avenue des Tilleuls;1000;Bourg-en-Bresse;06 60 91 49 85;karim.andre@wanadoo.fr;13/03/2012;Julien Petit
+CL00475;Boulangerie Mathieu;50830440580933;20 place de la République;1100;Oyonnax;04 72 10 28 79;contact@boulangerie-mathieu.fr;10/11/2025;Sophie Laurent
+CL00476;Crèche Mathieu;65749025042908;55 chemin Jean Jaurès;69400;Villefranche-sur-Saône;04.78.20.59.55;contact@creche-mathieu.fr;07/08/2013;Élodie Garnier
+CL00477;Dubois Aurélie;;138 rue de la Gare;69500;Bron;33661139898;aurelie.dubois@wanadoo.fr;30/06/2020;Élodie Garnier
+CL00478;Lefèvre Olivier;;114 place des Tilleuls;69100;Villeurbanne;07 35 35 37 51;olivier.lefevre@sfr.fr;21/11/2021;Claire Moreau
+CL00479;Sanchez François;;31 rue du Stade;69400;Villefranche-sur-Saône;06 83 69 29 44;francois.sanchez@orange.fr;28/07/2025;Élodie Garnier
+CL00480;Salon de coiffure Laurent;12060212886659;179 avenue des Écoles;38200;Vienne;04 74 21 64 87;contact@salon-de-coiffure-laurent.fr;10/06/2016;Sophie Laurent
+CL00481;Librairie Robert;22981209957658;131 chemin de la Gare;69100;Villeurbanne;04 78 76 76 47;contact@librairie-robert.fr;05/01/2013;Sophie Laurent
+CL00482;François Céline;;158 chemin de la République;69003;Lyon;07 52 20 36 84;celine.francois@free.fr;12/10/23;Sophie Laurent
+CL00483;Bertrand Chloé;;11 avenue de la République;69003;Lyon;0642138820;chloe.bertrand@gmail.com;19/10/2015;Sophie Laurent
+CL00484;Martinez Inès;;72 rue des Tilleuls;69500;Bron;+33 7 41 17 67 41;ines.martinez@orange.fr;22/10/2024;Julien Petit
+CL00485;Restaurant Girard;85380032963344;125 avenue des Écoles;1600;Trévoux;03 85 81 50 61;contact@restaurant-girard.fr;16/05/2023;Claire Moreau
+CL00486;Crèche Martin;64969357824340;126 place Jean Jaurès;38200;Vienne;04 74 78 93 20;contact@creche-martin.fr;20/10/2016;Claire Moreau
+CL00487;Martinez Antoine;;105 rue Jean Jaurès;69500;Bron;07.79.63.04.48;antoine.martinez@orange.fr;11/06/2018;Sophie Laurent
+CL00488;Thomas Julien;;161 rue Jean Jaurès;71000;Mâcon;0650476392;julien.thomas@laposte.net;15/07/21;Élodie Garnier
+CL00492;Lopez Antoine;;59 chemin de la Gare;1000;Bourg-en-Bresse;06 08 35 83 28;antoine.lopez@free.fr;03/07/2020;Élodie Garnier
+CL00493;Auto-école Bernard;44033041662411;130 place de la République;69500;Bron;04 37 18 67 02;contact@auto-ecole-bernard.fr;22/10/2012;Élodie Garnier
+CL00494;Crèche Sanchez;44731497646131;144 chemin du Stade;1000;Bourg-en-Bresse;04.72.94.56.80;contact@creche-sanchez.fr;11/03/2025;Karim Benali
+CL00497;Lopez Sophie;;126 avenue de la République;71000;Mâcon;06 45 21 18 23;sophie.lopez@laposte.net;11/05/2020;Karim Benali
+CL00498;Faure Julien;;54 place Jean Jaurès;38200;Vienne;0752059960;julien.faure@laposte.net;19/03/2017;Julien Petit
+CL00499;Chevalier Sandrine;;113 rue de la République;69400;Villefranche-sur-Saône;33661620281;sandrine.chevalier@gmail.com;16/07/2023;Élodie Garnier
+CL00500;Crèche Bonnet;59592248395895;119 avenue des Tilleuls;71000;Mâcon;;contact@creche-bonnet.fr;08/04/2024;Julien Petit
+CL00501;Hôtel Martin;33187510979210;144 avenue des Tilleuls;69400;Villefranche-sur-Saône;0385227104;contact@hotel-martin.fr;17/08/2022;Sophie Laurent
+CL00502;Fournier Camille;;72 avenue des Tilleuls;69500;Bron;0748831921;camille.fournier@sfr.fr;23/07/21;Élodie Garnier
+CL00503;Roussel Chloé;;122 rue des Tilleuls;71000;Mâcon;07 32 03 31 92;chloe.roussel@free.fr;28/05/2019;Julien Petit
+CL00504;Rousseau Rémi;;21 avenue Victor Hugo;69003;Lyon;;remi.rousseau@gmail.com;31/07/2022;Julien Petit
+CL00505;Auto-école Dumont;57563983652032;135 avenue de la République;69100;Villeurbanne;0478186520;contact@auto-ecole-dumont.fr;28/12/2022;Sophie Laurent
+CL00506;Restaurant Nicolas;09079772781055;40 avenue de la Gare;69003;Lyon;+33 4 74 47 60 44;n/a;2012-04-16;Claire Moreau
+CL00507;Guérin Julien;;171 rue de la République;69400;Villefranche-sur-Saône;06 55 29 58 06;julien.guerin@orange.fr;25/05/2013;Julien Petit
+CL00508;Nicolas Thomas;;48 chemin Jean Jaurès;1000;Bourg-en-Bresse;07 91 97 11 12;thomas.nicolas@wanadoo.fr;11/12/21;Claire Moreau
+CL00509;David Céline;;106 avenue de la Gare;69001;Lyon;06 24 06 42 42;celine.david@wanadoo.fr;27/10/2013;Julien Petit
+CL00510;FROMAGERIE FRANÇOIS;74564240082541;3 place de la Gare;69003;Lyon;;contact@fromagerie-francois.fr;12/05/2022;Julien Petit
+CL00511;Pharmacie Muller SARL;41108099693089;139 place des Écoles;71000;Mâcon;;contact@pharmacie-muller.fr;2023-01-06;Élodie Garnier
+CL00512;Salon de coiffure Laurent SARL;12060212886659;179 avenue des Écoles;38200;Vienne;;contact@salon-de-coiffure-laurent.fr;08/05/2020;Sophie Laurent
+CL00513;CABINET COMPTABLE DUPONT;73420696942152;146 rue de la République;69001;Lyon;04.72.00.89.31;;15/08/2023;Karim Benali
+CL00514;SALON DE COIFFURE LEROY;39282722992756;125 avenue de la République;69100;Villeurbanne;04 37 81 65 80;;02/02/20;Sophie Laurent
+CL00515;Auto-école Girard SARL;18880592962224;160 avenue des Écoles;1100;Oyonnax;;;08/06/23;Sophie Laurent
+CL00516;LIBRAIRIE SIMON;28463985547437;83 chemin Victor Hugo;69003;Lyon;0437914161;contact@librairie-simon.fr;16/11/2024;Élodie Garnier
+CL00517;CABINET DENTAIRE ROBIN;73354946519090;104 avenue de la Gare;38200;Vienne;04 72 78 46 99;contact@cabinet-dentaire-robin.fr;15/10/2023;Élodie Garnier
+CL00518;SALON DE COIFFURE LEFÈVRE;31260432609314;98 place Jean Jaurès;1500;Ambérieu-en-Bugey;;;10/10/2024;Karim Benali
+CL00519;Auto-école Bertrand SARL;29276637239503;30 rue Victor Hugo;69001;Lyon;;;12/11/2021;Élodie Garnier
+CL00520;PHARMACIE THOMAS;54538179217173;165 place du Stade;1000;Bourg-en-Bresse;;;08/08/2020;Sophie Laurent
+CL00521;BOUCHERIE CLÉMENT;37637153988544;168 avenue de la Gare;38200;Vienne;0472117030;contact@boucherie-clement.fr;08/11/2021;Karim Benali
+CL00522;;;;1300;Belley;06.76.73.16.25;;01/10/2022;Sophie Laurent
+CL00523;;;;71000;Mâcon;07 96 81 57 90;;31/05/25;Julien Petit
+CL00524;;;;1600;Trévoux;+33 7 70 46 22 68;;10/08/2024;Sophie Laurent
