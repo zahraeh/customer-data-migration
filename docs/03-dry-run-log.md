@@ -17,15 +17,16 @@ Full reports: [reports/v1](../reports/v1/dry_run_report.md) · [reports/v2](../r
 The first mapping followed the vendor's import template literally: postcodes must be 5 digits, and phone numbers must look like `06 12 34 56 78` or `+33…`.
 
 **What happened**
-- **145 accounts rejected** for 4-digit postcodes. All of them are in the Ain department (01xxx). Excel had stored the column as a number and dropped the leading zero.
-- Those 145 rejections **cascaded**: 201 contacts and 130 contracts rejected because their account was.
+- **145 accounts had 4-digit postcodes**, all in the Ain department (01xxx). Excel had stored the column as a number and dropped the leading zero. For 143 of them, that was the only problem.
+- Those 143 rejections **cascaded**: their 198 contacts and 126 contracts were rejected too, because their account was. That's **467 of the 498 rejected rows**.
+- The other 31 rejected rows are the issues still present in dry runs 2 and 3: 3 accounts with no name (2 of which also had a 4-digit postcode) and their 6 contacts and contracts, 19 contacts and contracts pointing at deleted customers, and 3 impossible start dates.
 - **181 phone numbers dropped** (loaded empty) because they were written `06.12.34.56.78`, `33612345678`, etc.
 
 **What we did**
 - Confirmed with Nadia that every 4-digit postcode in the export is an Ain postcode (the company has no customers in 02–09). → **D-05**: pad to 5 digits.
 - Replaced the two hard-coded phone patterns with libphonenumber, which accepts any valid French format.
 
-> Lesson: one bad column in a parent table multiplies. 145 bad postcodes became 476 rejected rows.
+> Lesson: one bad column in a parent table multiplies. 143 bad postcodes became 467 rejected rows.
 
 ## Dry run 2: every row balances, the money doesn't
 

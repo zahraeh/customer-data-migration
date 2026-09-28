@@ -2,6 +2,9 @@
 
 **Every row accounted for. Every euro accounted for.**
 
+📄 **Case study (5-minute read):** [zahra-work.com/data-migration.html](https://zahra-work.com/data-migration.html)
+📁 **The six engagement documents:** [docs/](docs/), listed [below](#whats-in-here)
+
 A portfolio project modelling the part of a SaaS implementation where most of the risk sits: moving a customer's data out of a legacy tool and into the new platform. It covers the whole engagement, from kickoff questions to the cutover runbook, plus the working Python toolkit that does the migration and proves it was done right.
 
 > **Customer:** Maison Verte Services, a fictional 38-technician heating & plumbing company near Lyon, moving 12 years of customers, contacts and contracts out of a desktop tool.
